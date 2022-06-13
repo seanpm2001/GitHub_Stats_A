@@ -1,13 +1,22 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+
+***
+
+# [:octocat: GitHub Stats Visualization](https://github.com/jstrieb/github-stats/)
+
+<!--
+# [`GitHub Stats Visualization`](https://github.com/jstrieb/github-stats/)
+!-->
+
+[![Generate Stats Images](https://github.com/seanpm2001/GitHub_Stats_A/actions/workflows/main.yml/badge.svg)](https://github.com/seanpm2001/GitHub_Stats_A/actions/workflows/main.yml)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
@@ -16,6 +25,14 @@ repositories you have contributed to, but do not own.
 
 Generated images automatically switch between GitHub light theme and GitHub
 dark theme.
+
+## About this project
+
+This project is a modified forked version by [`@seanpm2001`](https://github.com/seanpm2001/)
+
+You can support the upstream development by [`clicking/tapping here`](https://github.com/jstrieb/github-stats/)
+
+This project contains past archives of generated images. You can view them [`here`](/Archives/)
 
 ## Background
 
@@ -63,6 +80,8 @@ For more information on inaccuracies, see issue
 # Installation
 
 <!-- TODO: Add details and screenshots -->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse this section</b></summary>
 
 1. Create a personal access token (not the default GitHub Actions token) using
    the instructions
@@ -123,6 +142,7 @@ For more information on inaccuracies, see issue
    statistics images.
 10. Star this repo if you like it!
 
+</details>
 
 # Support the Project
 
@@ -153,3 +173,43 @@ releasing work publicly on the Web.
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+
+***
+
+## File info
+
+**Forked from:** [`jstrieb/github-stats`](https://github.com/jstrieb/github-stats/) so the version may not be exact
+
+**SPM version:** `2.0 (2022, Monday, June 13th at 2:48 pm PST)`
+
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+
+**Line count (including blank lines and compiler line):** `216`
+
+**Current article language:** `English (USA)`
+
+***
+
+## File history
+
+| ⚠️ Versions before SPM 2.0 are from the source repository, and have not yet been documented |
+|---|
+
+<details><summary><b lang="En">SPM 2.0 (2022, Monday, June 13th at 2:48 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> Changes
+
+- [x] Updated the title section
+- [x] Replaced the top image with my generated images
+- [x] Added a workflow status badge
+- [x] Added the `About this project` section 
+- [x] Minimized the installation section
+- [x] Added the file info section
+- [x] Added the file history section
+- [ ] No other changes in version SPM 2.0
+
+</details>
+
+***
