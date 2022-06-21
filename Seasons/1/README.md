@@ -5,6 +5,8 @@
 
 This is an oveview of the first season (30 days) of using this tool (until the Personal Access Token expires) If results are sufficient, I may renew it for a second season.
 
+Results became extremely accurate on 2022 June 19th, despite taking over 2 hours to compile the results. They are still extremely accurate as of 2022 June 20th, and took over 30 minutes less time to compile.
+
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
 | 2022, June 12th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June12th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June12th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June12th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June12th.svg) |
@@ -15,7 +17,7 @@ This is an oveview of the first season (30 days) of using this tool (until the P
 | 2022, June 17th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June17th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June17th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June17th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June17th.svg) |
 | 2022, June 18th | :x: | :x: |
 | 2022, June 19th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June19th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June19th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June19th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June19th.svg) |
-| 2022, June 20th | Coming soon | Coming soon |
+| 2022, June 20th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June20th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June20th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June20th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June20th.svg) |
 | 2022, June 21st | Coming soon | Coming soon |
 | 2022, June 22nd | Coming soon | Coming soon |
 | 2022, June 23rd | Coming soon | Coming soon |
@@ -44,9 +46,9 @@ This is an oveview of the first season (30 days) of using this tool (until the P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Sunday, June 19th at 9:28 pm PST)`
+**File version:** `1 (2022, Monday, June 20th at 10:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `77`
+**Line count (including blank lines and compiler line):** `94`
 
 **Article language:** `English (USA)`
 
@@ -68,6 +70,21 @@ This is an oveview of the first season (30 days) of using this tool (until the P
 - [x] Added the file info section
 - [x] Added the changelog
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Monday, June 20th at 10:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the past 2 days of activity
+- [x] Updated the main table
+- - [x] Added June 20th data to the table
+- [x] Updaed the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 2
 
 </details>
 
