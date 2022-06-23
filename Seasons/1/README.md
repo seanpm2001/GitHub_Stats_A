@@ -12,13 +12,65 @@ This is an oveview of the first season (30 days) of using this tool (until the P
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Season 1 notes section</b></p></summary>
 
-### 2022 June 19th to June 22nd
+### 2022 June 12th to 2022 June 18th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 12th to 2022 June 18th notes section</b></p></summary>
+
+**2022 June 12th**
+
+The process ran for the first time, and picked up a lot. It still didn't feel complete. It threw over 2200 HTTP 202 errors, I noted in my README once it got to 500, which was far before it finished.
+
+**2022 June 13th**
+
+The process failed to run today, and I don't know why.
+
+**2022 June 14th**
+
+The process ran for the second time, and gave less accurate results. It is throwing a lot of HTTP 202 errors, over 2200 per run.
+
+**2022 June 15th**
+
+The process failed to run again today, and I don't know why.
+
+**2022 June 16th**
+
+The process ran today, and gave even less accurate results. This process is keeping me very distracted at 7:00 pm to 9:00 pm
+
+**2022 June 17th**
+
+The process ran for a second consecutive day today (a new record) and gave even less accurate results yet again.
+
+**2022 June 18th**
+
+The process failed to run again today, and I don't know why. The test process seems to be very flaky.
+
+</details>
+
+### 2022 June 19th to June 21st
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 19th to 2022 June 22nd notes section</b></p></summary>
 
-Results became extremely accurate on 2022 June 19th, despite taking over 2 hours to compile the results. They are still extremely accurate as of 2022 June 20th, and took over 30 minutes less time to compile.
+**2022 June 19th**
 
-Unfortunately, the next day, the process ran significantly faster, but gave ~40% less accurate results. I would rather the process take 2 hours and give good results, than for it to finish in an hour, 20 minutes, and give mediocre results. It still ran for a record 3 consecutive days though.
+Results became extremely accurate on 2022 June 19th, despite taking over 2 hours to compile the results.
+
+**2022 June 20th**
+
+Results are still extremely accurate as of 2022 June 20th, but they took over 30 minutes less time to compile.
+
+**2022 June 21st**
+
+Unfortunately, today, the process ran significantly faster, but gave ~40% less accurate results. I would rather the process take 2 hours and give good results, than for it to finish in an hour, 20 minutes, and give mediocre results. It still ran for a record 3 consecutive days though.
+
+</details>
+
+### 2022 June 22nd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 22nd notes section</b></p></summary>
+
+**2022 June 22nd**
+
+The results were disappointing again today, as the process finished in only 1 hour and 20 minutes. The results are slightly more accurate than yesterday, but are still over 40% inaccurate. It is better than nothing, this was its 4th consecutive day, a new record.
 
 </details>
 
@@ -26,7 +78,7 @@ Unfortunately, the next day, the process ran significantly faster, but gave ~40%
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Overall overview notes section</b></p></summary>
 
-Results for 2022 June 20th are still the most accurate to dae.
+Results for 2022 June 20th are still the most accurate to date. All other results not from 2022 June 20th or 2022 June 21st are over 40% inaccurate.
 
 </details>
 
@@ -48,7 +100,7 @@ Results for 2022 June 20th are still the most accurate to dae.
 | 2022, June 19th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June19th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June19th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June19th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June19th.svg) |
 | 2022, June 20th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June20th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June20th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June20th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June20th.svg) |
 | 2022, June 21st | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June21st.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June21st.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June21st.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June21st.svg) |
-| 2022, June 22nd | Coming soon | Coming soon |
+| 2022, June 22nd | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June22nd.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June22nd.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June22nd.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June22nd.svg) |
 | 2022, June 23rd | Coming soon | Coming soon |
 | 2022, June 24th | Coming soon | Coming soon |
 | 2022, June 25th | Coming soon | Coming soon |
@@ -82,9 +134,9 @@ Results for 2022 June 20th are still the most accurate to dae.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Wednesday, June 22nd at 2:04 pm PST)`
+**File version:** `4 (2022, Wednesday, June 22nd at 9:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `155`
+**Line count (including blank lines and compiler line):** `227`
 
 **Article language:** `English (USA)`
 
@@ -143,9 +195,29 @@ Results for 2022 June 20th are still the most accurate to dae.
 - - [x] Added the June 21st notes section
 - [x] Updated the main table
 - - [x] Added June 21st data to the table
-- [x] Updaed the file info section
+- [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Wednesday, June 22nd at 9:01 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the June 12th to June 18th notes section
+- - [x] Updated the June 19th to June 21st notes section
+- - [x] Added the June 22nd notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added June 22nd data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 4
 
 </details>
 
