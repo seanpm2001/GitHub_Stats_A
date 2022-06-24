@@ -74,11 +74,23 @@ The results were disappointing again today, as the process finished in only 1 ho
 
 </details>
 
+### 2022 June 23rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 23rd notes section</b></p></summary>
+
+**2022 June 23rd**
+
+The process failed to run again today, and I don't know why. The consecutive streak ended with 4 days.
+
+</details>
+
 ### Overall overview
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Overall overview notes section</b></p></summary>
 
 Results for 2022 June 20th are still the most accurate to date. All other results not from 2022 June 20th or 2022 June 21st are over 40% inaccurate.
+
+The process failed to run on 2022 June 23rd. It has not ran successfully since (as of 2022, June 23rd)
 
 </details>
 
@@ -101,7 +113,7 @@ Results for 2022 June 20th are still the most accurate to date. All other result
 | 2022, June 20th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June20th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June20th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June20th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June20th.svg) |
 | 2022, June 21st | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June21st.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June21st.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June21st.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June21st.svg) |
 | 2022, June 22nd | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June22nd.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June22nd.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June22nd.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June22nd.svg) |
-| 2022, June 23rd | Coming soon | Coming soon |
+| 2022, June 23rd | :x: | :x: |
 | 2022, June 24th | Coming soon | Coming soon |
 | 2022, June 25th | Coming soon | Coming soon |
 | 2022, June 26th | Coming soon | Coming soon |
@@ -134,9 +146,9 @@ Results for 2022 June 20th are still the most accurate to date. All other result
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Wednesday, June 22nd at 9:01 pm PST)`
+**File version:** `5 (2022, Thursday, June 23rd at 8:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `227`
+**Line count (including blank lines and compiler line):** `257`
 
 **Article language:** `English (USA)`
 
@@ -218,6 +230,24 @@ Results for 2022 June 20th are still the most accurate to date. All other result
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2022, Thursday, June 23rd at 8:41 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the June 23rd notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added June 2efd data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 5
 
 </details>
 
