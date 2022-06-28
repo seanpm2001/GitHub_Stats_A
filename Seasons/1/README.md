@@ -112,6 +112,16 @@ The process ran successfully today, but gave inaccurate results, as it finished 
 
 The process failed to run today, and I don't know why. My suspicion from [2022 June 24th](#2022-June-24th) seems to be false, as I wasn't on GitHub for over an hour before the process started, and it started earlier than normal today (before 7:00 pm PST) yet still failed in less than 5 minutes.
 
+### 2022 June 27th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 257h notes section</b></p></summary>
+
+**2022 June 27th**
+
+The process ran successfully today, but gave inaccurate results, as it finished in only 1 hour and 20 minutes. The results are less accurate than 2022 June 25th.
+
+</details>
+
 </details>
 
 ### Overall overview
@@ -147,7 +157,7 @@ The process failed to run on 2022 June 23rd. It has not ran successfully since (
 | 2022, June 24th | :x: | :x: |
 | 2022, June 25th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June25th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June25th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June25th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June25th.svg) |
 | 2022, June 26th | :x: | :x: |
-| 2022, June 27th | Coming soon | Coming soon |
+| 2022, June 27th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June27th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June27th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June27th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June27th.svg) |
 | 2022, June 28th | Coming soon | Coming soon |
 | 2022, June 29th | Coming soon | Coming soon |
 | 2022, June 30th | Coming soon | Coming soon |
@@ -176,9 +186,9 @@ The process failed to run on 2022 June 23rd. It has not ran successfully since (
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Sunday, June 26th at 7:05 pm PST)`
+**File version:** `9 (2022, Monday, June 27th at 9:36 pm PST)`
 
-**Line count (including blank lines and compiler line):** `339`
+**Line count (including blank lines and compiler line):** `369`
 
 **Article language:** `English (USA)`
 
@@ -331,7 +341,25 @@ The process failed to run on 2022 June 23rd. It has not ran successfully since (
 - - [x] Added June 26th data to the table
 - [x] Updated the file info section
 - [x] Updated the file history section
-- [ ] No other changes in version 7
+- [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2022, Monday, June 27th at 9:36 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the June 27th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added June 27th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 9
 
 </details>
 
