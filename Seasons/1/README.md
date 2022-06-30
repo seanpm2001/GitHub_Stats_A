@@ -132,6 +132,16 @@ The process ran successfully today, and gave the most accurate results to date (
 
 </details>
 
+### 2022 June 29th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 June 29th notes section</b></p></summary>
+
+**2022 June 29th**
+
+The process ran successfully today, and gave extremely accurate results to date again (as it added data from the past 24 hours to the overview) (on the overview, I am not so sure on the language list) it finished in a little under 2 hours today, but had a glitch where the workflow said it was done and had already pushed to the repository, but still took an extra 5 minutes. 
+
+</details>
+
 </details>
 
 ### Overall overview
@@ -140,7 +150,7 @@ The process ran successfully today, and gave the most accurate results to date (
 
 Results for 2022 June 20th are still the most accurate to date. All other results not from 2022 June 20th or 2022 June 21st are over 40% inaccurate.
 
-The process failed to run on 2022 June 23rd. It has not ran successfully since (as of 2022, June 24th)
+The process failed to run on 2022 June 23rd. It has ran successfully daily since 2022 June 27th
 
 </details>
 
@@ -169,7 +179,7 @@ The process failed to run on 2022 June 23rd. It has not ran successfully since (
 | 2022, June 26th | :x: | :x: |
 | 2022, June 27th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June27th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June27th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June27th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June27th.svg) |
 | 2022, June 28th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June28th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June28th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June28th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June28th.svg) |
-| 2022, June 29th | Coming soon | Coming soon |
+| 2022, June 29th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June29th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June29th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June29th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June29th.svg) |
 | 2022, June 30th | Coming soon | Coming soon |
 | 2022, July 1st | Coming soon | Coming soon |
 | 2022, July 2nd | Coming soon | Coming soon |
@@ -196,9 +206,9 @@ The process failed to run on 2022 June 23rd. It has not ran successfully since (
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Tuesday, June 28th at 9:56 pm PST)`
+**File version:** `11 (2022, Wednesday, June 29th at 9:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `397`
+**Line count (including blank lines and compiler line):** `425`
 
 **Article language:** `English (USA)`
 
@@ -388,6 +398,24 @@ The process failed to run on 2022 June 23rd. It has not ran successfully since (
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><p lang="en"><b>Version 11 (2022, Wednesday, June 29th at 9:53 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the June 29th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added June 29th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 11
 
 </details>
 
