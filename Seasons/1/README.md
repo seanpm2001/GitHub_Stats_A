@@ -154,6 +154,20 @@ The process ran successfully today, and gave poor inaccurate results to end the 
 
 </details>
 
+### 2022 July 1st
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 1st notes section</b></p></summary>
+
+**2022 July 1st**
+
+The process ran successfully today, and gave poor inaccurate results to start the month. It finished in an hour and 20 minutes today. It still ran for a record 5 consecutive days.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (not my handle) then it ran incorrectly. Otherwise, it worked correctly.
+
+</details>
+
+</details>
+
 ### Overall overview
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Overall overview notes section</b></p></summary>
@@ -191,7 +205,7 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 | 2022, June 28th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June28th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June28th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June28th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June28th.svg) |
 | 2022, June 29th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June29th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June29th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June29th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June29th.svg) |
 | 2022, June 30th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June30th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June30th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June30th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June30th.svg) |
-| 2022, July 1st | Coming soon | Coming soon |
+| 2022, July 1st | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July1st.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July1st.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July1st.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July1st.svg) |
 | 2022, July 2nd | Coming soon | Coming soon |
 | 2022, July 3rd | Coming soon | Coming soon |
 | 2022, July 4th | Coming soon | Coming soon |
@@ -216,9 +230,9 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2022, Thursday, June 30th at 8:44 pm PST)`
+**File version:** `13 (2022, Friday, July 1st at 10:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `453`
+**Line count (including blank lines and compiler line):** `485`
 
 **Article language:** `English (USA)`
 
@@ -444,6 +458,24 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p lang="en"><b>Version 13 (2022, Friday, July 1st at 10:13 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 1st notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 1st data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 13
 
 </details>
 
