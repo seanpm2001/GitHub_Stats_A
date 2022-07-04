@@ -178,6 +178,20 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details>
 
+### 2022 July 3rd
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July 2nd notes section</b></p></summary>
+
+**2022 July 3rd**
+
+The process ran successfully today, and gave inaccurate results. This was also the 7th consecutive day on which the process successfully ran, a record.
+
+I forgot to mention that yesterday, it got stuck on "cleaning up orphan processes" in the end, even after the images were generated and pushed to the main branch. The thing that stood out today was that the process didn't start until 7:32 pm.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (Sean P. Myrick V19.1.7.2) (not my handle, seanpm2001) then it ran incorrectly. Otherwise, it worked correctly.
+
+</details>
+
 </details>
 
 ### Overall overview
@@ -219,7 +233,7 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 | 2022, June 30th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022June30th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022June30th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022June30th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022June30th.svg) |
 | 2022, July 1st | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July1st.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July1st.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July1st.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July1st.svg) |
 | 2022, July 2nd | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July2nd.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July2nd.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July2nd.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July2nd.svg) |
-| 2022, July 3rd | Coming soon | Coming soon |
+| 2022, July 3rd | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July3rd.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July3rd.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July3rd.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July3rd.svg) |
 | 2022, July 4th | Coming soon | Coming soon |
 | 2022, July 5th | Coming soon | Coming soon |
 | 2022, July 6th | Coming soon | Coming soon |
@@ -242,9 +256,9 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Saturday, July 2nd at 9:03 pm PST)`
+**File version:** `15 (2022, Sunday, July 3rd at 9:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `515`
+**Line count (including blank lines and compiler line):** `547`
 
 **Article language:** `English (USA)`
 
@@ -506,6 +520,24 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><p lang="en"><b>Version 15 (2022, Sunday, July 3rd at 9:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 3rd notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 3rd data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 15
 
 </details>
 
