@@ -214,6 +214,18 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details>
 
+### 2022 July 6th
+
+</details>
+
+**2022 July 6th**
+
+The process ran successfully today, and gave extremely inaccurate results. This was also the 10th consecutive day on which the process successfully ran, a record.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count. The process also started very today (at 7:26 pm PST)
+
+</details>
+
 </details>
 
 ### Overall overview
@@ -222,7 +234,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 Results for 2022 June 29th are still the most accurate to date. All other results not from 2022 June 20th or 2022 June 21st are over 40% inaccurate.
 
-The process failed to run on 2022 June 23rd. It has ran successfully daily since 2022 June 27th, although gave poor results on 2022 June 30th. The 2022 July 2nd results are currently the most accurate to date, and it has been running poorly since (as of 2022, Tuesday, July 5th)
+The process failed to run on 2022 June 23rd. It has ran successfully daily since 2022 June 27th, although gave poor results on 2022 June 30th. The 2022 July 2nd results are currently the most accurate to date, and it has been running extremely poorly since (as of 2022, Wednesday, July 6th, starting 2022, Tuesday, July 5th at the state: `poorest`)
 
 </details>
 
@@ -258,7 +270,7 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 | 2022, July 3rd | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July3rd.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July3rd.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July3rd.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July3rd.svg) |
 | 2022, July 4th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July4th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July4th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July4th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July4th.svg) |
 | 2022, July 5th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July5th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July5th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July5th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July5th.svg) |
-| 2022, July 6th | Coming soon | Coming soon |
+| 2022, July 6th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July6th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July6th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July6th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July6th.svg) |
 | 2022, July 7th | Coming soon | Coming soon |
 | 2022, July 8th | Coming soon | Coming soon |
 | 2022, July 9th | Coming soon | Coming soon |
@@ -278,9 +290,9 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2022, Tuesday, July 5th at 10:12 pm PST)`
+**File version:** `18 (2022, Wednesday, July 6th at 9:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `605`
+**Line count (including blank lines and compiler line):** `635`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -596,6 +608,24 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 17
+
+</details>
+
+<details><summary><p lang="en"><b>Version 18 (2022, Wednesday, July 6th at 9:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 6th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 6th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 18
 
 </details>
 
