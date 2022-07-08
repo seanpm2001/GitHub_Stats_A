@@ -222,7 +222,21 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 The process ran successfully today, and gave extremely inaccurate results. This was also the 10th consecutive day on which the process successfully ran, a record.
 
-I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count. The process also started very today (at 7:26 pm PST)
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count. The process also started very late today (at 7:26 pm PST)
+
+</details>
+
+### 2022 July 7th
+
+</details>
+
+**2022 July 7th**
+
+The process ran unsuccessfully today, and broke its 10 consecutive day streak. I wasn't using GitHub 5 minutes before or after the run started, so I don't know why it got interrupted.
+
+I have to decide whether I want to renew this process in the next 4-5 days, this doesn't hurt the decision, as it has been running poorly anyways, it is fine to crash every once in a while (it is expected for this process) and there is no other known way of accurately getting this data.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
 
 </details>
 
@@ -234,7 +248,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 Results for 2022 June 29th are still the most accurate to date. All other results not from 2022 June 20th or 2022 June 21st are over 40% inaccurate.
 
-The process failed to run on 2022 June 23rd. It has ran successfully daily since 2022 June 27th, although gave poor results on 2022 June 30th. The 2022 July 2nd results are currently the most accurate to date, and it has been running extremely poorly since (as of 2022, Wednesday, July 6th, starting 2022, Tuesday, July 5th at the state: `poorest`)
+The process failed to run on 2022 June 23rd. It has ran successfully daily since 2022 June 27th, although gave poor results on 2022 June 30th. The 2022 July 2nd results are currently the most accurate to date, and it has been running extremely poorly since (as of 2022, Wednesday, July 6th, starting 2022, Tuesday, July 5th at the state: `poorest`) the process failed to run on 2022 July 7th.
 
 </details>
 
@@ -271,7 +285,7 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 | 2022, July 4th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July4th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July4th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July4th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July4th.svg) |
 | 2022, July 5th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July5th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July5th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July5th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July5th.svg) |
 | 2022, July 6th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July6th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July6th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July6th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July6th.svg) |
-| 2022, July 7th | Coming soon | Coming soon |
+| 2022, July 7th | :x: | :x: |
 | 2022, July 8th | Coming soon | Coming soon |
 | 2022, July 9th | Coming soon | Coming soon |
 | 2022, July 10th | Coming soon | Coming soon |
@@ -290,9 +304,9 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2022, Wednesday, July 6th at 9:40 pm PST)`
+**File version:** `19 (2022, Thursday, July 7th at 7:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `635`
+**Line count (including blank lines and compiler line):** `667`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -626,6 +640,24 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><p lang="en"><b>Version 19 (2022, Thursday, July 7th at 7:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 7th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 7th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 19
 
 </details>
 
