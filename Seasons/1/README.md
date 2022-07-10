@@ -266,6 +266,34 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details>
 
+### 2022 July 9th
+
+</details>
+
+**2022 July 9th**
+
+The process ran successfully today, but gave poor results. This was its second consecutive day of running again.
+
+I put the workflow runs into 4 categories:
+
+Category 0: Complete failure - The process did not run
+
+Category 1: R800 - Partial success, with 800 out of 1500+ repositories scanned
+
+Category 2: R900 - Partial success, with 900 out of 1500+ repositories scanned
+
+Category 3: Complete success - The process ran and gave accurate results
+
+Today was a category 2 day.
+
+I have to decide whether I want to renew this process in the next 2-3 days, currently, I am in favor of renewal, as there is no other known way of accurately getting this data.
+
+Today, Ruby dropped out of the list, and was replaced by Swift. I also forgot to mention that a few days ago, Pony was put onto the list, while Scala dropped out. This was done, as I was importing the Swift implementation into WacOS, so it is a bit unfair at the moment. I plan to get Ruby back on the top 15, and drop Pony out at some point, as it is only used on 3 repositories.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
+
+</details>
+
 </details>
 
 ### Overall overview
@@ -313,7 +341,7 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 | 2022, July 6th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July6th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July6th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July6th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July6th.svg) |
 | 2022, July 7th | :x: | :x: |
 | 2022, July 8th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July8th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July8th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July8th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July8th.svg) |
-| 2022, July 9th | Coming soon | Coming soon |
+| 2022, July 9th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July9th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July9th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July9th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July9th.svg) |
 | 2022, July 10th | Coming soon | Coming soon |
 | 2022, July 11th | Coming soon | Coming soon |
 
@@ -330,9 +358,9 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2022, Friday, July 8th at 10:45 pm PST)`
+**File version:** `21 (2022, Saturday, July 9th at 9:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `711`
+**Line count (including blank lines and compiler line):** `757`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -702,6 +730,24 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><p lang="en"><b>Version 21 (2022, Saturday, July 9th at 9:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 9th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 9th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 21
 
 </details>
 
