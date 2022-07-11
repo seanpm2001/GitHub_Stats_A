@@ -294,6 +294,38 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details>
 
+### 2022 July 10th
+
+</details>
+
+**2022 July 10th**
+
+The process ran successfully today, but gave moderately good, but not full results. This was its third consecutive day of running again.
+
+I am adding a 5th category for workflow runs.
+
+I put the workflow runs into 5 categories:
+
+Category 0: Complete failure - The process did not run
+
+Category 1: R0800 - Partial success, with 800 out of 1500+ repositories scanned/indexed
+
+Category 2: R0900 - Partial success, with 900 out of 1500+ repositories scanned/indexed
+
+Category 3: R1000 - Moderate success, with 1000 out of 1500+ repositories scanned/indexed
+
+Category 4: Complete success - The process ran and gave accurate results
+
+Today was a category 3 day.
+
+I have to decide whether I want to renew this process in the next 1-2 days, currently, I am in favor of renewal, as there is no other known way of accurately getting this data.
+
+Today, Pony fell down further on the list, and Swift jumped up a few positions. This was done, as I was importing the Swift implementation into WacOS, so it is a bit unfair at the moment. I plan to get Ruby back on the top 15, and drop Pony out at some point, as it is only used on 3 repositories.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
+
+</details>
+
 </details>
 
 ### Overall overview
@@ -342,7 +374,7 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 | 2022, July 7th | :x: | :x: |
 | 2022, July 8th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July8th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July8th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July8th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July8th.svg) |
 | 2022, July 9th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July9th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July9th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July9th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July9th.svg) |
-| 2022, July 10th | Coming soon | Coming soon |
+| 2022, July 10th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July10th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July10th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July10th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July10th.svg) |
 | 2022, July 11th | Coming soon | Coming soon |
 
 </details>
@@ -358,9 +390,9 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2022, Saturday, July 9th at 9:25 pm PST)`
+**File version:** `22 (2022, Sunday, July 10th at 10:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `757`
+**Line count (including blank lines and compiler line):** `807`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -748,6 +780,24 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 21
+
+</details>
+
+<details><summary><p lang="en"><b>Version 22 (2022, Sunday, July 10th at 10:14 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 10th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 10th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 22
 
 </details>
 
