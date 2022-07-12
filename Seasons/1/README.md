@@ -328,6 +328,34 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details>
 
+### 2022 July 11th
+
+</details>
+
+**2022 July 11th**
+
+The process ran successfully today, but gave poor results. At least it ran on its last day with the first access token. This was its fourth consecutive day of running again.
+
+I put the workflow runs into 5 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0800` - _Partial success, with 800 out of 1500+ repositories scanned/indexed_
+- **Category 2:** `R0900` - _Partial success, with 900 out of 1500+ repositories scanned/indexed_
+- **Category 3:** `R1000` - _Moderate success, with 1000 out of 1500+ repositories scanned/indexed_
+- **Category 4:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 2 day.
+
+I am going to renew the access token tomorrow, and start my second season of using this workflow.
+
+Today, Pony fell even further further down the list, and Swift jumped upseverala few positions. This was done, as I was importing the Swift implementation into WacOS, so it is a bit unfair at the moment. I plan to get Ruby back on the top 15, and drop Pony out at some point, as it is only used on 3 repositories (4 if you count forks)
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
+
+</details>
+
+</details>
+
 ### Overall overview
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Overall overview notes section</b></p></summary>
@@ -375,12 +403,22 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 | 2022, July 8th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July8th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July8th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July8th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July8th.svg) |
 | 2022, July 9th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July9th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July9th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July9th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July9th.svg) |
 | 2022, July 10th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July10th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July10th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July10th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July10th.svg) |
-| 2022, July 11th | Coming soon | Coming soon |
+| 2022, July 11th | ![/Seasons/1/SVG/Languages_GitHubStatsA_2022July11th.svg](/Seasons/1/SVG/Languages_GitHubStatsA_2022July11th.svg) | ![/Seasons/1/SVG/Overview_GitHubStatsA_2022July11th.svg](/Seasons/1/SVG/Overview_GitHubStatsA_2022July11th.svg) |
 
 </details>
 
 | :octocat: | Previous season [`None`](/Seasons/) | **Current season:** [`1`](/Seasons/1/) | Next season [`2`](/Seasons/2/) | :octocat: |
 |---|---|---|---|---|
+
+***
+
+### Access token
+
+The access token for this project was simply named `ACCESS_TOKEN` I don't have its URL on me, but I do have the configuration info for when I create a new one tomorrow (since the current one expires on 2022, Tuesday, July 12th)
+
+![/Seasons/1/ACCESS_TOKEN/ACCESS_TOKEN_2022June_Config.png](/Seasons/1/ACCESS_TOKEN/ACCESS_TOKEN_2022June_Config.png)
+
+You can use this as a reference for setting up the project.
 
 ***
 
@@ -390,9 +428,9 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2022, Sunday, July 10th at 10:14 pm PST)`
+**File version:** `23 (2022, Monday, July 11th at 8:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `807`
+**Line count (including blank lines and compiler line):** `864`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -798,6 +836,25 @@ The process failed to run on 2022 June 23rd. It has ran successfully daily since
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 22
+
+</details>
+
+<details><summary><p lang="en"><b>Version 23 (2022, Monday, July 11th at 8:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 11th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 11th data to the table
+- [x] Added the access token section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 23
 
 </details>
 
