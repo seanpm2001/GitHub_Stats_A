@@ -1,1 +1,1 @@
-Testing out some new GitHub stats.
+My secondary GitHub stats repository, with stats generation from @jstrieb
