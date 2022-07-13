@@ -12,14 +12,13 @@ This is an oveview of the second season (30 days, day 31-59) of using this tool 
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Season 2 notes section</b></p></summary>
 
-<!-- 
 ### 2022 July 12th
 
 </details>
 
 **2022 July 12th**
 
-The process ran successfully today, but gave poor results. At least it ran on its last day with the first access token. This was its fourth consecutive day of running again.
+The process ran successfully today, but gave poor results. At least it ran on its last day with the first access token. This was its fifth consecutive day of running again.
 
 I put the workflow runs into 5 categories:
 
@@ -31,15 +30,11 @@ I put the workflow runs into 5 categories:
 
 Today was a category 2 day.
 
-I am going to renew the access token tomorrow, and start my second season of using this workflow.
-
-Today, Pony fell even further further down the list, and Swift jumped upseverala few positions. This was done, as I was importing the Swift implementation into WacOS, so it is a bit unfair at the moment. I plan to get Ruby back on the top 15, and drop Pony out at some point, as it is only used on 3 repositories (4 if you count forks)
+Today, Java fell off the top 15, with SVG replacing it.
 
 I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
 
 </details>
-
-!-->
 
 No notes are available yet.
 
@@ -53,7 +48,7 @@ No notes are available yet.
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
-| 2022, July 12th | Coming soon | Coming soon |
+| 2022, July 12th | ![/Seasons/2/SVG/Languages_GitHubStatsA_2022July12th.svg](/Seasons/2/SVG/Languages_GitHubStatsA_2022July12th.svg) | ![/Seasons/2/SVG/Overview_GitHubStatsA_2022July12th.svg](/Seasons/2/SVG/Overview_GitHubStatsA_2022July12th.svg) |
 | 2022, July 13th | Coming soon | Coming soon |
 | 2022, July 14th | Coming soon | Coming soon |
 | 2022, July 15th | Coming soon | Coming soon |
@@ -113,9 +108,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Tuesday, July 12th at 2:45 pm PST)`
+**File version:** `1 (2022, Tuesday, July 12th at 9:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `155`
+**Line count (including blank lines and compiler line):** `169`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -146,6 +141,25 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Added the file info section
 - [x] Added the changelog
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Tuesday, July 12th at 9:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 12th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 12th data to the table
+- [x] Added the access token section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 2
 
 </details>
 
