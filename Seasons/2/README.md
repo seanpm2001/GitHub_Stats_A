@@ -210,6 +210,16 @@ My GitHub account was still suspended today, so the process couldn't run. That i
 
 </details>
 
+### 2022 July 21st
+
+</details>
+
+**2022 July 21st**
+
+My GitHub account was still suspended today (day 3) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for 3 days now.
+
+</details>
+
 </details>
 
 ***
@@ -229,7 +239,7 @@ My GitHub account was still suspended today, so the process couldn't run. That i
 | 2022, July 18th | :x: | :x: |
 | 2022, July 19th | :x: | :x: |
 | 2022, July 20th | :x: | :x: |
-| 2022, July 21st | Coming soon | Coming soon |
+| 2022, July 21st | :x: | :x: |
 | 2022, July 22nd | Coming soon | Coming soon |
 | 2022, July 23rd | Coming soon | Coming soon |
 | 2022, July 24th | Coming soon | Coming soon |
@@ -280,9 +290,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Wednesday, July 20th at 8:34 pm PST)`
+**File version:** `11 (2022, Thursday, July 21st at 7:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `485`
+**Line count (including blank lines and compiler line):** `513`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -476,6 +486,24 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><p lang="en"><b>Version 11 (2022, Thursday, July 21st at 7:35 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 21st notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 21st data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 11
 
 </details>
 
