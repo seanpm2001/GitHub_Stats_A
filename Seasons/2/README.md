@@ -222,6 +222,30 @@ My GitHub account was still suspended today (day 3) so the process couldn't run.
 
 </details>
 
+### 2022 July 22nd
+
+</details>
+
+**2022 July 22nd**
+
+My GitHub account was still suspended today (day 4) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for 4 days now. My morale has never been so low.
+
+</details>
+
+</details>
+
+### 2022 July 23rd
+
+</details>
+
+**2022 July 23rd**
+
+My GitHub account was still suspended today (day 5) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for 5 days now.
+
+</details>
+
+</details>
+
 ***
 
 ## Season 2 overview and language counts
@@ -240,8 +264,8 @@ My GitHub account was still suspended today (day 3) so the process couldn't run.
 | 2022, July 19th | :x: | :x: |
 | 2022, July 20th | :x: | :x: |
 | 2022, July 21st | :x: | :x: |
-| 2022, July 22nd | Coming soon | Coming soon |
-| 2022, July 23rd | Coming soon | Coming soon |
+| 2022, July 22nd | :x: | :x: |
+| 2022, July 23rd | :x: | :x: |
 | 2022, July 24th | Coming soon | Coming soon |
 | 2022, July 25th | Coming soon | Coming soon |
 | 2022, July 26th | Coming soon | Coming soon |
@@ -290,9 +314,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2022, Thursday, July 21st at 7:35 pm PST)`
+**File version:** `12 (2022, Saturday, July 23rd at 5:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `513`
+**Line count (including blank lines and compiler line):** `557`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -504,6 +528,26 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 11
+
+</details>
+
+<details><summary><p lang="en"><b>Version 12 (2022, Saturday, July 23rd at 5:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 22nd notes section
+- - [x] Added the July 23rd notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 22nd data to the table
+- - [x] Added July 23rd data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 12
 
 </details>
 
