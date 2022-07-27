@@ -8,6 +8,8 @@
 
 This is an oveview of the second season (30 days, day 31-59) of using this tool (until the Personal Access Token expires) If results are sufficient, I may renew it for a third season. I could have extended it to 60 or 90 days, but I think 30 day intervals is the preferred way of doing this.
 
+A large segment of this month contains no data, due to my GitHub account being flagged for 8 days and counting.
+
 ## Season 2 notes
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Season 2 notes section</b></p></summary>
@@ -264,6 +266,16 @@ My GitHub account was still suspended today (day 7, or 1 week 0 days) so the pro
 
 </details>
 
+### 2022 July 26th
+
+</details>
+
+**2022 July 26th**
+
+My GitHub account was still suspended today (day 8, or 1 week, 1 day) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged.
+
+</details>
+
 </details>
 
 ***
@@ -288,7 +300,7 @@ My GitHub account was still suspended today (day 7, or 1 week 0 days) so the pro
 | 2022, July 23rd | :x: | :x: |
 | 2022, July 24th | :x: | :x: |
 | 2022, July 25th | :x: | :x: |
-| 2022, July 26th | Coming soon | Coming soon |
+| 2022, July 26th | :x: | :x: |
 | 2022, July 27th | Coming soon | Coming soon |
 | 2022, July 28th | Coming soon | Coming soon |
 | 2022, July 29th | Coming soon | Coming soon |
@@ -334,9 +346,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Monday, July 25th at 8:44 pm PST)`
+**File version:** `15 (2022, Tuesday, July 26th at 7:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `613`
+**Line count (including blank lines and compiler line):** `643`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -604,6 +616,24 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><p lang="en"><b>Version 15 (2022, Tuesday, July 26th at 7:38 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 26th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 26th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 15
 
 </details>
 
