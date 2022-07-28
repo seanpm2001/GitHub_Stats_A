@@ -8,7 +8,7 @@
 
 This is an oveview of the second season (30 days, day 31-59) of using this tool (until the Personal Access Token expires) If results are sufficient, I may renew it for a third season. I could have extended it to 60 or 90 days, but I think 30 day intervals is the preferred way of doing this.
 
-A large segment of this month contains no data, due to my GitHub account being flagged for 8 days and counting.
+A large segment of this month contains no data, due to my GitHub account being flagged for 9 days and counting.
 
 ## Season 2 notes
 
@@ -276,6 +276,16 @@ My GitHub account was still suspended today (day 8, or 1 week, 1 day) so the pro
 
 </details>
 
+### 2022 July 27th
+
+</details>
+
+**2022 July 27th**
+
+My GitHub account was still suspended today (day 9, or 1 week, 2 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged.
+
+</details>
+
 </details>
 
 ***
@@ -301,7 +311,7 @@ My GitHub account was still suspended today (day 8, or 1 week, 1 day) so the pro
 | 2022, July 24th | :x: | :x: |
 | 2022, July 25th | :x: | :x: |
 | 2022, July 26th | :x: | :x: |
-| 2022, July 27th | Coming soon | Coming soon |
+| 2022, July 27th | :x: | :x: |
 | 2022, July 28th | Coming soon | Coming soon |
 | 2022, July 29th | Coming soon | Coming soon |
 | 2022, July 30th | Coming soon | Coming soon |
@@ -346,9 +356,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Tuesday, July 26th at 7:38 pm PST)`
+**File version:** `16 (2022, Wednesday, July 27th at 7:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `643`
+**Line count (including blank lines and compiler line):** `704`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -365,6 +375,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 <details><summary><p lang="en"><b>Version 1 (2022, Tuesday, July 12th at 2:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V1.md)
 
 > Changes:
 
@@ -386,6 +398,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V2.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -405,6 +419,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V3.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -422,6 +438,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 <details><summary><p lang="en"><b>Version 4 (2022, Thursday, July 14th at 10:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V4.md)
 
 > Changes:
 
@@ -441,6 +459,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V5.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -458,6 +478,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 <details><summary><p lang="en"><b>Version 6 (2022, Saturday, July 16th at 7:38 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V6.md)
 
 > Changes:
 
@@ -477,6 +499,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V7.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -494,6 +518,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 <details><summary><p lang="en"><b>Version 8 (2022, Monday, July 18th at 8:00 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V8.md)
 
 > Changes:
 
@@ -513,6 +539,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V9.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -530,6 +558,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 <details><summary><p lang="en"><b>Version 10 (2022, Wednesday, July 20th at 8:34 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V10.md)
 
 > Changes:
 
@@ -549,6 +579,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V11.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -566,6 +598,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 <details><summary><p lang="en"><b>Version 12 (2022, Saturday, July 23rd at 5:55 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V12.md)
 
 > Changes:
 
@@ -587,6 +621,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V13.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -604,6 +640,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 <details><summary><p lang="en"><b>Version 14 (2022, Monday, July 25th at 8:44 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V14.md)
 
 > Changes:
 
@@ -623,6 +661,8 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V15.md)
+
 > Changes:
 
 - [x] Gave notes on the current day of activity
@@ -634,6 +674,27 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 15
+
+</details>
+
+<details><summary><p lang="en"><b>Version 16 (2022, Wednesday, July 27th at 7:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V16.md)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the July 27th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added July 27th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an option to view each version separately to all 16 changelog entries.
+- [ ] No other changes in version 16
 
 </details>
 
