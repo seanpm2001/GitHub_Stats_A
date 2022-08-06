@@ -8,15 +8,19 @@
 
 This is an oveview of the second season (30 days, day 31-59) of using this tool (until the Personal Access Token expires) If results are sufficient, I may renew it for a third season. I could have extended it to 60 or 90 days, but I think 30 day intervals is the preferred way of doing this.
 
-A large segment (over half) of this season contains no data, due to my GitHub account being flagged for 17 days and counting.
+A large segment (over half) of this season contains no data, due to my GitHub account being flagged for 18 days and counting.
 
 ## Season 2 notes
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Season 2 notes section</b></p></summary>
 
+## 2022 July
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 July section</b></p></summary>
+
 ### 2022 July 12th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 12th</b></p></summary>
 
 **2022 July 12th**
 
@@ -40,7 +44,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 ### 2022 July 13th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 13th</b></p></summary>
 
 **2022 July 13th**
 
@@ -68,7 +72,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 ### 2022 July 14th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 14th</b></p></summary>
 
 **2022 July 14th**
 
@@ -94,7 +98,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 ### 2022 July 15th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 15th</b></p></summary>
 
 **2022 July 15th**
 
@@ -120,7 +124,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 ### 2022 July 16th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 16th</b></p></summary>
 
 **2022 July 16th**
 
@@ -144,7 +148,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 ### 2022 July 17th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 17th</b></p></summary>
 
 **2022 July 17th**
 
@@ -168,7 +172,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 ### 2022 July 18th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 18th</b></p></summary>
 
 **2022 July 18th**
 
@@ -194,7 +198,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 ### 2022 July 19th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 19th</b></p></summary>
 
 **2022 July 19th**
 
@@ -204,7 +208,7 @@ My GitHub account was suspended today, so the process couldn't run. That is the 
 
 ### 2022 July 20th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 20th</b></p></summary>
 
 **2022 July 20th**
 
@@ -214,7 +218,7 @@ My GitHub account was still suspended today, so the process couldn't run. That i
 
 ### 2022 July 21st
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 Jul 21st</b></p></summary>
 
 **2022 July 21st**
 
@@ -222,11 +226,9 @@ My GitHub account was still suspended today (day 3) so the process couldn't run.
 
 </details>
 
-</details>
-
 ### 2022 July 22nd
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 22nd</b></p></summary>
 
 **2022 July 22nd**
 
@@ -234,11 +236,9 @@ My GitHub account was still suspended today (day 4) so the process couldn't run.
 
 </details>
 
-</details>
-
 ### 2022 July 23rd
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 23rd</b></p></summary>
 
 **2022 July 23rd**
 
@@ -248,7 +248,7 @@ My GitHub account was still suspended today (day 5) so the process couldn't run.
 
 ### 2022 July 24th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 24th</b></p></summary>
 
 **2022 July 24th**
 
@@ -258,7 +258,7 @@ My GitHub account was still suspended today (day 6) so the process couldn't run.
 
 ### 2022 July 25th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 25th</b></p></summary>
 
 **2022 July 25th**
 
@@ -268,7 +268,7 @@ My GitHub account was still suspended today (day 7, or 1 week 0 days) so the pro
 
 ### 2022 July 26th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 26th</b></p></summary>
 
 **2022 July 26th**
 
@@ -278,7 +278,7 @@ My GitHub account was still suspended today (day 8, or 1 week, 1 day) so the pro
 
 ### 2022 July 27th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 27th</b></p></summary>
 
 **2022 July 27th**
 
@@ -288,7 +288,7 @@ My GitHub account was still suspended today (day 9, or 1 week, 2 days) so the pr
 
 ### 2022 July 28th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 28th</b></p></summary>
 
 **2022 July 28th**
 
@@ -298,7 +298,7 @@ My GitHub account was still suspended today (day 10, or 1 week, 3 days) so the p
 
 ### 2022 July 29th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 29th</b></p></summary>
 
 **2022 July 29th**
 
@@ -308,7 +308,7 @@ My GitHub account was still suspended today (day 11, or 1 week, 4 days) so the p
 
 ### 2022 July 30th
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 30th</b></p></summary>
 
 **2022 July 30th**
 
@@ -320,7 +320,7 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 
 ### 2022 July 31st
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 July 31st</b></p></summary>
 
 **2022 July 31st**
 
@@ -328,11 +328,17 @@ My GitHub account was still suspended today (day 13, or 1 week, 6 days) so the p
 
 I am starting to fear that I won't have my account back by 2022, August 10th, and that the access token will expire before I can renew it.
 
-</details>
+</details> <!-- 2022 July 31st !-->
+
+</details> <!-- 2022 July !-->
+
+## 2022 August
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 August section</b></p></summary>
 
 ### 2022 August 1st
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 1st</b></p></summary>
 
 **2022 August 1st**
 
@@ -344,7 +350,7 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 
 ### 2022 August 2nd
 
-</details>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 2nd</b></p></summary>
 
 **2022 August 2nd**
 
@@ -356,6 +362,8 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 
 ### 2022 August 3rd
 
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 3rd</b></p></summary>
+
 **2022 August 3rd**
 
 My GitHub account was still suspended today (day 16, or 2 weeks, 2 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged.
@@ -366,6 +374,8 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 
 ### 2022 August 4th
 
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 4th</b></p></summary>
+
 **2022 August 4th**
 
 My GitHub account was still suspended today (day 17, or 2 weeks, 3 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
@@ -374,7 +384,23 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 
 </details>
 
-</details>
+### 2022 August 5th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 5th</b></p></summary>
+
+**2022 August 5th**
+
+My GitHub account was still suspended today (day 18, or 2 weeks, 4 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
+
+Unfortunately, another fork got thrown in the road, GitHub is refusing to delete my organizations, and also is refusing to let me delete my organizations. There is probably some sneaky workaround, but I am completely stumped now.
+
+I am starting to fear that I won't have my account back by 2022, August 10th, and that the access token will expire before I can renew it. On 2022, August 2nd, it reached the point where an entire half of the season does not have data, as my account was flagged.
+
+</details> <!-- 2022 August 5th !-->
+
+</details> <!-- 2022 August !-->
+
+</details> <!-- Season 2 !-->
 
 ***
 
@@ -408,7 +434,7 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 | 2022, August 2nd | :x: | :x: |
 | 2022, August 3rd | :x: | :x: |
 | 2022, August 4th | :x: | :x: |
-| 2022, August 5th | Coming soon | Coming soon |
+| 2022, August 5th | :x: | :x: |
 | 2022, August 6th | Coming soon | Coming soon |
 | 2022, August 7th | Coming soon | Coming soon |
 | 2022, August 8th | Coming soon | Coming soon |
@@ -445,9 +471,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2022, Thursday, August 4th at 6:50 pm PST)`
+**File version:** `25 (2022, Friday, August 5th at 5:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `953`
+**Line count (including blank lines and compiler line):** `1,000`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -944,6 +970,27 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 24
+
+</details>
+
+<details><summary><p lang="en"><b>Version 25 (2022, Friday, August 5th at 5:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V25.md)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Revamped the dropdowns and listing for daily entries
+- [x] Updated the notes section
+- - [x] Added the August 5th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added August 5th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 25
 
 </details>
 
