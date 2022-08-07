@@ -8,7 +8,7 @@
 
 This is an oveview of the second season (30 days, day 31-59) of using this tool (until the Personal Access Token expires) If results are sufficient, I may renew it for a third season. I could have extended it to 60 or 90 days, but I think 30 day intervals is the preferred way of doing this.
 
-A large segment (over half) of this season contains no data, due to my GitHub account being flagged for 18 days and counting.
+A large segment (over half) of this season contains no data, due to my GitHub account being flagged for 19 days and counting.
 
 ## Season 2 notes
 
@@ -398,6 +398,20 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 
 </details> <!-- 2022 August 5th !-->
 
+### 2022 August 6th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 6th</b></p></summary>
+
+**2022 August 6th**
+
+My GitHub account was still suspended today (day 19, or 2 weeks, 5 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
+
+Unfortunately, another fork got thrown in the road, GitHub is refusing to delete my organizations, and also is refusing to let me delete my organizations. There is probably some sneaky workaround, but I am completely stumped now. Update: they unlocked the fork option after my request was rejected. Yesterday, I deleted 140 organizations (14%) today, I deleted another 80 (totaling 22% deleted) it is going to take me at least a week to delete all of them.
+
+I am starting to fear that I won't have my account back by 2022, August 10th, and that the access token will expire before I can renew it. On 2022, August 2nd, it reached the point where an entire half of the season does not have data, as my account was flagged.
+
+</details> <!-- 2022 August 6th !-->
+
 </details> <!-- 2022 August !-->
 
 </details> <!-- Season 2 !-->
@@ -435,7 +449,7 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 | 2022, August 3rd | :x: | :x: |
 | 2022, August 4th | :x: | :x: |
 | 2022, August 5th | :x: | :x: |
-| 2022, August 6th | Coming soon | Coming soon |
+| 2022, August 6th | :x: | :x: |
 | 2022, August 7th | Coming soon | Coming soon |
 | 2022, August 8th | Coming soon | Coming soon |
 | 2022, August 9th | Coming soon | Coming soon |
@@ -471,9 +485,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2022, Friday, August 5th at 5:30 pm PST)`
+**File version:** `26 (2022, Saturday, August 6th at 8:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,000`
+**Line count (including blank lines and compiler line):** `1,034`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -991,6 +1005,26 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 25
+
+</details>
+
+<details><summary><p lang="en"><b>Version 26 (2022, Saturday, August 6th at 8:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V25.md)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the August 6th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added August 6th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 26
 
 </details>
 
