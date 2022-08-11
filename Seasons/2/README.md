@@ -8,7 +8,7 @@
 
 This is an oveview of the second season (30 days, day 31-59) of using this tool (until the Personal Access Token expires) If results are sufficient, I may renew it for a third season. I could have extended it to 60 or 90 days, but I think 30 day intervals is the preferred way of doing this.
 
-A large segment (well over half) of this season contains no data, due to my GitHub account being flagged for 22 days and counting.
+A large segment (well over half) of this season contains no data, due to my GitHub account being flagged for 23 days and counting.
 
 ## Season 2 notes
 
@@ -442,9 +442,9 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 
 ### 2022 August 9th
 
-<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 8th</b></p></summary>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 9th</b></p></summary>
 
-**2022 August 8th**
+**2022 August 9th**
 
 My GitHub account was still suspended today (day 22, or 3 weeks, 1 day) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
 
@@ -453,6 +453,22 @@ Unfortunately, another fork got thrown in the road, GitHub is refusing to delete
 I am starting to fear that I won't have my account back by 2022, August 10th, and that the access token will expire before I can renew it. On 2022, August 2nd, it reached the point where an entire half of the season does not have data, as my account was flagged.
 
 </details> <!-- 2022 August 9th !-->
+
+### 2022 August 10th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 10th</b></p></summary>
+
+**2022 August 10th**
+
+My GitHub account was still suspended today (day 23, or 3 weeks, 2 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
+
+Unfortunately, another fork got thrown in the road, GitHub is refusing to delete my organizations, and also is refusing to let me delete my organizations. There is probably some sneaky workaround, but I am completely stumped now. Update: they unlocked the fork option after my request was rejected. Yesterday, I deleted 140 organizations (14%) on 2022, August 5th, I deleted another 80 (totaling 22% deleted) on 2022 August 6th, and another 60 (totaling 28% deleted) on 2022 August 7th. it is going to take me at least a week to delete all of them. I expect to be done by 2022, Tuesday, August 16th, but I likely won't have my account back on the same day.
+
+I am starting to fear that I won't have my account back by 2022, August 10th, and that the access token will expire before I can renew it. On 2022, August 2nd, it reached the point where an entire half of the season does not have data, as my account was flagged.
+
+Today, the fear came true. Season 2 has ended, with no data for 23 days out of 30 (76.66% of the time) I am unsure how renewal will work.
+
+</details> <!-- 2022 August 10th !-->
 
 </details> <!-- 2022 August !-->
 
@@ -495,7 +511,7 @@ I am starting to fear that I won't have my account back by 2022, August 10th, an
 | 2022, August 7th | :x: | :x: |
 | 2022, August 8th | :x: | :x: |
 | 2022, August 9th | :x: | :x: |
-| 2022, August 10th | Coming soon | Coming soon |
+| 2022, August 10th | :x: | :x: |
 <!-- | 2022, August 11th | Coming soon | Coming soon | !-->
 
 </details>
@@ -527,9 +543,9 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `29 (2022, Tuesday, August 9th at 5:53 pm PST)`
+**File version:** `30 (2022, Wednesday, August 10th at 5:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,136`
+**Line count (including blank lines and compiler line):** `1,172`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1127,6 +1143,26 @@ The access token for this project was renewed on 2022 July 12th before 2:35 pm P
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 29
+
+</details>
+
+<details><summary><p lang="en"><b>Version 30 (2022, Wednesday, August 10th at 5:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/2/!OldVersions/README/English/USA/README_V30.md)
+
+> Changes:
+
+- [x] Gave notes on the current day of activity
+- [x] Updated the notes section
+- - [x] Added the August 10th notes section
+- - [x] Updated the notes overview section
+- [x] Updated the main table
+- - [x] Added August 10th data to the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 30
 
 </details>
 
