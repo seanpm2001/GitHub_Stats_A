@@ -8,7 +8,7 @@
 
 This is an oveview of the third season (30 days, day 61-90) of using this tool (until the Personal Access Token expires) this season may last longer, as the access token couldn't be renewed on 2022 August 10th/11th.
 
-This season starts with 2022, Thursday, August 11th. It may last more than 30 days, as the generation of images hasn't started yet (as of 2022, Tuesday, August 16th)
+This season starts with 2022, Thursday, August 11th. It may last more than 30 days, as the generation of images hasn't started yet (as of 2022, Wednesday, August 17th)
 
 <!-- A large segment (well over half) of this season contains no data, due to my GitHub account being flagged for 23 days and counting. !-->
 
@@ -130,6 +130,18 @@ I finished deleting organizations today, but I likely won't have my account back
 
 </details> <!-- 2022 August 16th !-->
 
+### 2022 August 17th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 17th</b></p></summary>
+
+**2022 August 17th**
+
+My GitHub account was still suspended today (day 30, or 4 weeks, 2 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
+
+I finished deleting all of my organizations yesterday, I am waiting for my family to come back (2022, Thursday, August 18th) to decide the next step. Season 3 currently contains no data due to this.
+
+</details> <!-- 2022 August 17th !-->
+
 </details> <!-- 2022 August !-->
 
 </details> <!-- Season 3 !-->
@@ -148,7 +160,7 @@ I finished deleting organizations today, but I likely won't have my account back
 | 2022, August 14th | :x: | :x: |
 | 2022, August 15th | :x: | :x: |
 | 2022, August 16th | :x: | :x: |
-| 2022, August 17th | Coming soon | Coming soon |
+| 2022, August 17th | :x: | :x: |
 | 2022, August 18th | Coming soon | Coming soon |
 | 2022, August 19th | Coming soon | Coming soon |
 | 2022, August 20th | Coming soon | Coming soon |
@@ -180,7 +192,8 @@ I finished deleting organizations today, but I likely won't have my account back
 | 2022, September 14th | Coming soon | Coming soon |
 | 2022, September 15th | Coming soon | Coming soon |
 | 2022, September 16th | Coming soon | Coming soon |
-<!-- | 2022, September 17th | Coming soon | Coming soon | !-->
+| 2022, September 17th | Coming soon | Coming soon |
+<!-- | 2022, September 18th | Coming soon | Coming soon | !-->
 
 </details>
 
@@ -215,9 +228,9 @@ The access token for this project has not yet been renewed for 2022 August
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Tuesday, August 16th at 3:43 pm PST)`
+**File version:** `8 (2022, Wednesday, August 17th at 4:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `355`
+**Line count (including blank lines and compiler line):** `385`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -346,6 +359,23 @@ The access token for this project has not yet been renewed for 2022 August
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 7
+
+</details>
+
+
+<details><summary><p lang="en"><b>Version 8 (2022, Wednesday, August 17th at 4:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/3/!OldVersions/README/English/USA/README_V8.md)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added an entry for 2022 August 17th
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 8
 
 </details>
 
