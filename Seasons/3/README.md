@@ -8,7 +8,7 @@
 
 This is an oveview of the third season (30 days, day 61-90) of using this tool (until the Personal Access Token expires) this season may last longer, as the access token couldn't be renewed on 2022 August 10th/11th.
 
-This season starts with 2022, Thursday, August 11th. It may last more than 30 days, as the generation of images hasn't started yet (as of 2022, Wednesday, August 17th)
+This season starts with 2022, Thursday, August 11th. It may last more than 30 days, as the generation of images hasn't started yet (as of 2022, Thursday, August 18th)
 
 <!-- A large segment (well over half) of this season contains no data, due to my GitHub account being flagged for 23 days and counting. !-->
 
@@ -142,6 +142,18 @@ I finished deleting all of my organizations yesterday, I am waiting for my famil
 
 </details> <!-- 2022 August 17th !-->
 
+### 2022 August 18th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 18th</b></p></summary>
+
+**2022 August 18th**
+
+My GitHub account was still suspended today (day 31, or 4 weeks, 3 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
+
+I finished deleting all of my organizations yesterday, I am waiting to start the next step. Season 3 cannot start yet due to this.
+
+</details> <!-- 2022 August 18th !-->
+
 </details> <!-- 2022 August !-->
 
 </details> <!-- Season 3 !-->
@@ -161,7 +173,7 @@ I finished deleting all of my organizations yesterday, I am waiting for my famil
 | 2022, August 15th | :x: | :x: |
 | 2022, August 16th | :x: | :x: |
 | 2022, August 17th | :x: | :x: |
-| 2022, August 18th | Coming soon | Coming soon |
+| 2022, August 18th | :x: | :x: |
 | 2022, August 19th | Coming soon | Coming soon |
 | 2022, August 20th | Coming soon | Coming soon |
 | 2022, August 21st | Coming soon | Coming soon |
@@ -193,7 +205,8 @@ I finished deleting all of my organizations yesterday, I am waiting for my famil
 | 2022, September 15th | Coming soon | Coming soon |
 | 2022, September 16th | Coming soon | Coming soon |
 | 2022, September 17th | Coming soon | Coming soon |
-<!-- | 2022, September 18th | Coming soon | Coming soon | !-->
+| 2022, September 18th | Coming soon | Coming soon |
+<!-- | 2022, September 19th | Coming soon | Coming soon | !-->
 
 </details>
 
@@ -228,9 +241,9 @@ The access token for this project has not yet been renewed for 2022 August
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Wednesday, August 17th at 4:58 pm PST)`
+**File version:** `9 (2022, Thursday, August 18th at 7:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `385`
+**Line count (including blank lines and compiler line):** `413`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -362,7 +375,6 @@ The access token for this project has not yet been renewed for 2022 August
 
 </details>
 
-
 <details><summary><p lang="en"><b>Version 8 (2022, Wednesday, August 17th at 4:58 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -376,6 +388,22 @@ The access token for this project has not yet been renewed for 2022 August
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2022, Thursday, August 18th at 7:04 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/3/!OldVersions/README/English/USA/README_V9.md)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added an entry for 2022 August 18th
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 9
 
 </details>
 
