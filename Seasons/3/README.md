@@ -8,7 +8,7 @@
 
 This is an oveview of the third season (30 days, day 61-90) of using this tool (until the Personal Access Token expires) this season may last longer, as the access token couldn't be renewed on 2022 August 10th/11th.
 
-This season starts with 2022, Thursday, August 11th. It may last more than 30 days, as the generation of images hasn't started yet (as of 2022, Wednesday, August 24th)
+This season starts with 2022, Thursday, August 11th. It may last more than 30 days, as the generation of images hasn't started yet (as of 2022, Thursday, August 25th)
 
 <!-- A large segment (well over half) of this season contains no data, due to my GitHub account being flagged for 23 days and counting. !-->
 
@@ -226,6 +226,18 @@ I finished deleting all of my organizations on 2022, Wednesday, August 17th, I s
 
 </details> <!-- 2022 August 24th !-->
 
+### 2022 August 25th
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 24th</b></p></summary>
+
+**2022 August 24th**
+
+My GitHub account was still suspended today (day 38, or 5 weeks, 3 days) so the process couldn't run. That is the least of my problems, this has caused me an unimaginable amount of stress and fear for several days now, but has been calm since. I am still extremely disappointed and a bit frustrated each day I log on to find that I am still flagged. I recently got a response, but now I had to do the hard thing and delete all my organizations, a huge disappointment to me, and the most painful thing this year. Once this is done, the next appeal will likely go through.
+
+I finished deleting all of my organizations on 2022, Wednesday, August 17th, I sent an appeal on 2022, Friday, August 19th, and am still awaiting a response as of 2022, Thursday, August 25th. Season 3 cannot start yet due to this.
+
+</details> <!-- 2022 August 25th !-->
+
 </details> <!-- 2022 August !-->
 
 </details> <!-- Season 3 !-->
@@ -252,7 +264,7 @@ I finished deleting all of my organizations on 2022, Wednesday, August 17th, I s
 | 2022, August 22nd | :x: | :x: |
 | 2022, August 23rd | :x: | :x: |
 | 2022, August 24th | :x: | :x: |
-| 2022, August 25th | Coming soon | Coming soon |
+| 2022, August 25th | :x: | :x: |
 | 2022, August 26th | Coming soon | Coming soon |
 | 2022, August 27th | Coming soon | Coming soon |
 | 2022, August 28th | Coming soon | Coming soon |
@@ -284,7 +296,8 @@ I finished deleting all of my organizations on 2022, Wednesday, August 17th, I s
 | 2022, September 22nd | Coming soon | Coming soon |
 | 2022, September 23rd | Coming soon | Coming soon |
 | 2022, September 24th | Coming soon | Coming soon |
-<!-- | 2022, September 25th | Coming soon | Coming soon | !-->
+| 2022, September 25th | Coming soon | Coming soon |
+<!-- | 2022, September 26th | Coming soon | Coming soon | !-->
 
 </details>
 
@@ -319,9 +332,9 @@ The access token for this project has not yet been renewed for 2022 August
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Wednesday, August 24th at 7:30 pm PST)`
+**File version:** `16 (2022, Thursday, August 25th at 4:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `587`
+**Line count (including blank lines and compiler line):** `616`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -578,6 +591,22 @@ The access token for this project has not yet been renewed for 2022 August
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 15
+
+</details>
+
+<details><summary><p lang="en"><b>Version 16 (2022, Thursday, August 25th at 4:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/3/!OldVersions/README/English/USA/README_V16.md)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added an entry for 2022 August 25th
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 16
 
 </details>
 
