@@ -368,6 +368,32 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details> <!-- 2022 August 30th !-->
 
+### 2022 August 31st
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 August 31s</b></p></summary>
+
+**2022 August 31st**
+
+The process ran successfully today, running for a second consecutive day. It took less than 1 hour and 22 minutes to generate images. It did a really bad job, collecting less than 40% of the data needed. Language data was better than 2022, August 28th, but the overview was just as bad as 2022 August 28th.
+
+I put the workflow runs into 5 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1200` - _Partial success, with 800 out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1300` - _Partial success, with 900 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1400` - _Moderate success, with 1000 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+I made the observation that when successfully ran, only 10 languages are listed, but when it doesn't run successfully, only 15 languages are listed.
+
+For this repository, I am now including error dumps in Python traceback format (`*.pytb`) which will still be viewable as plain text through `README.pytb` files.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
+
+</details> <!-- 2022 August 31st !-->
+
 </details> <!-- 2022 August !-->
 
 </details> <!-- Season 3 !-->
@@ -400,7 +426,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, August 28th | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022August28th.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022August28th.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022August28th.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022August28th.svg) |
 | 2022, August 29th | :x: | :x: |
 | 2022, August 30th | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022August30th.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022August30th.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022August30th.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022August30th.svg) |
-| 2022, August 31st | Coming soon | Coming soon |
+| 2022, August 30th | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022August31st.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022August31st.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022August31st.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022August31st.svg) |
 | 2022, September 1st | Coming soon | Coming soon |
 | 2022, September 2nd | Coming soon | Coming soon |
 | 2022, September 3rd | Coming soon | Coming soon |
@@ -462,9 +488,9 @@ The access token for this project was renewed on 2022, August 26th, before 7:00 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2022, Tuesday, August 30th at 9:25 pm PST)`
+**File version:** `22 (2022, Wednesday, August 31st at 9:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `827`
+**Line count (including blank lines and compiler line):** `869`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -818,6 +844,22 @@ The access token for this project was renewed on 2022, August 26th, before 7:00 
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 21
+
+</details>
+
+<details><summary><p lang="en"><b>Version 22 (2022, Wednesday, August 31st at 9:07 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/3/!OldVersions/README/English/USA/README_V22.md)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added an entry for 2022 August 31st
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 22
 
 </details>
 
