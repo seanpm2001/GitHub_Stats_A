@@ -426,6 +426,34 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details> <!-- 2022 September 1st !-->
 
+### 2022 September 2nd
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 September 2nd</b></p></summary>
+
+**2022 September 2nd**
+
+The process ran successfully today, results were given in full, in 1 hour and 50 minutes (shorter than the usual 2+ hours it takes for this)
+
+The images were pushed to the repository, but it took an extra 2 minutes to clean up orphan processes.
+
+I put the workflow runs into 5 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0800` - _Partial success, with 800 out of 1500+ repositories scanned/indexed_
+- **Category 2:** `R0900` - _Partial success, with 900 out of 1500+ repositories scanned/indexed_
+- **Category 3:** `R1000` - _Moderate success, with 1000 out of 1500+ repositories scanned/indexed_
+- **Category 4:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 4 day.
+
+I made the observation that when successfully ran, only 10 languages are listed, but when it doesn't run successfully, only 15 languages are listed.
+
+For this repository, I am now including error dumps in Python traceback format (`*.pytb`) which will still be viewable as plain text through `README.pytb` files.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
+
+</details> <!-- 2022 September 1st !-->
+
 </details> <!-- 2022 September !-->
 
 </details> <!-- Season 3 !-->
@@ -460,7 +488,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, August 30th | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022August30th.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022August30th.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022August30th.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022August30th.svg) |
 | 2022, August 31st | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022August31st.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022August31st.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022August31st.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022August31st.svg) |
 | 2022, September 1st | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022September1st.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022September1st.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022September1st.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022September1st.svg) |
-| 2022, September 2nd | Coming soon | Coming soon |
+| 2022, September 2nd | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022September2nd.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022September2nd.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022September2nd.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022September2nd.svg) |
 | 2022, September 3rd | Coming soon | Coming soon |
 | 2022, September 4th | Coming soon | Coming soon |
 | 2022, September 5th | Coming soon | Coming soon |
@@ -520,9 +548,9 @@ The access token for this project was renewed on 2022, August 26th, before 7:00 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2022, Thursday, September 1st at 9:46 pm PST)`
+**File version:** `24 (2022, Friday, September 2nd at 10:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `917`
+**Line count (including blank lines and compiler line):** `962`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -904,10 +932,27 @@ The access token for this project was renewed on 2022, August 26th, before 7:00 
 > Changes:
 
 - [x] Updated the main table
-- [x] Added an entry for 2022 September 11st
+- [x] Added an entry for 2022 September 1st
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 23
+
+</details>
+
+<details><summary><p lang="en"><b>Version 24 (2022, Friday, September 2nd at 10:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/3/!OldVersions/README/English/USA/README_V24.md)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added an entry for 2022 September 2nd
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for 2022, September 2nd
+- [ ] No other changes in version 24
 
 </details>
 
