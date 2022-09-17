@@ -811,6 +811,30 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details> <!-- 2022 September 15th !-->
 
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 September 16th</b></p></summary>
+
+**2022 September 16th**
+
+The process ran successfully today, but gave poor results. It also took 7 minutes to "clean up orphan processes" after the images were pushed to the repository. There were no `aiohttp` errors, and the process completed in 1 hour, 50 minutes, and 19 seconds.
+
+I put the workflow runs into 7 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+I made the observation that when successfully ran, only 10 languages are listed, but when it doesn't run successfully, only 15 languages are listed.
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count.
+
+</details> <!-- 2022 September 16th !-->
+
 </details> <!-- 2022 September !-->
 
 </details> <!-- Season 3 !-->
@@ -860,7 +884,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, September 13th | :x: | :x: |
 | 2022, September 14th | :x: | :x: |
 | 2022, September 15th | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022September15th.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022September15th.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022September15th.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022September15th.svg) |
-| 2022, September 16th | Coming soon | Coming soon |
+| 2022, September 16th | ![/Seasons/3/SVG/Overview_GitHubStatsA_2022September16th.svg](/Seasons/3/SVG/Overview_GitHubStatsA_2022September16th.svg) | ![/Seasons/3/SVG/Languages_GitHubStatsA_2022September16th.svg](/Seasons/3/SVG/Languages_GitHubStatsA_2022September16th.svg) |
 | 2022, September 17th | Coming soon | Coming soon |
 | 2022, September 18th | Coming soon | Coming soon |
 | 2022, September 19th | Coming soon | Coming soon |
@@ -905,9 +929,9 @@ The access token for this project was renewed on 2022, August 26th, before 7:00 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `37 (2022, Thursday, September 15th at 10:09 pm PST)`
+**File version:** `38 (2022, Friday, September 16th at 10:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,540`
+**Line count (including blank lines and compiler line):** `1,581`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1531,6 +1555,23 @@ The access token for this project was renewed on 2022, August 26th, before 7:00 
 - [x] Updated the file history section
 - - [x] Added an entry for 2022, September 15th (V37)
 - [ ] No other changes in version 37
+
+</details>
+
+<details><summary><p lang="en"><b>Version 38 (2022, Friday, September 16th at 10:07 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/3/!OldVersions/README/English/USA/README_V38.md)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added an entry for 2022 September 16th
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for 2022, September 16th (V37)
+- [ ] No other changes in version 38
 
 </details>
 
