@@ -268,6 +268,62 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details> <!-- 2022 October 2nd !-->
 
+### 2022 October 3rd
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 3rd</b></p></summary>
+
+**2022 October 3rd**
+
+The process ran successfully today, but gave extremely poor results yet again today. It retrieved my username, but didn't give full results, the same as yesterday and the day before and the day before that. I have been forgetting to mention that it also finishes within an hour. Less than 600 repositories were scanned. There were no `aiohttp` errors today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+I made the observation that when successfully ran, only 10 languages are listed, but when it doesn't run successfully, only 15 languages are listed. **This has been proven untrue with the 2022 September 30th workflow run**
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count. **This has been proven untrue with the 2022 September 30th workflow run**
+
+</details> <!-- 2022 October 3rd !-->
+
+### 2022 October 4th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 4th</b></p></summary>
+
+**2022 October 4th**
+
+The process ran successfully today, but gave extremely poor results yet again today. It retrieved my username, but didn't give full results, the same as yesterday and the day before and the day before that. I have been forgetting to mention that it also finishes within an hour. Today, it took an extra 20 minutes, but gave poor results. I am still waiting to contact the developer. It seems to be getting better on its own. Less than 700 repositories were scanned. There were no `aiohttp` errors today. Normal errors also returned today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+I made the observation that when successfully ran, only 10 languages are listed, but when it doesn't run successfully, only 15 languages are listed. **This has been proven untrue with the 2022 September 30th workflow run**
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count. **This has been proven untrue with the 2022 September 30th workflow run**
+
+</details> <!-- 2022 October 4th !-->
+
 </details> <!-- 2022 September !-->
 
 </details> <!-- Season 4 !-->
@@ -288,7 +344,8 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, September 30th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022September30th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022September30th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022September30th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022September30th.svg) |
 | 2022, October 1st | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October1st.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October1st.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October1st.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October1st.svg) |
 | 2022, October 2nd | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October2nd.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October2nd.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October2nd.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October2nd.svg) |
-| 2022, October 3rd | Coming soon | Coming soon |
+| 2022, October 3rd | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October3rd.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October3rd.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October3rd.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October3rd.svg) |
+| 2022, October 4th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October4th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October4th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October4th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October4th.svg) |
 | 2022, October 4th | Coming soon | Coming soon |
 | 2022, October 5th | Coming soon | Coming soon |
 | 2022, October 6th | Coming soon | Coming soon |
@@ -350,9 +407,9 @@ The access token for this project was renewed on 2022, September 25th
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Sunday, October 2nd at 11:11 pm PST)`
+**File version:** `9 (2022, Tuesday, October 4th at 11:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `516`
+**Line count (including blank lines and compiler line):** `591`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -507,6 +564,24 @@ The access token for this project was renewed on 2022, September 25th
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2022, Tuesday, October 4th at 11:34 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/4/!OldVersions/README/English/USA/README_V9.md)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table
+- [x] Added an entry for 2022 October 3rd
+- [x] Added an entry for 2022 October 4th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 9
 
 </details>
 
