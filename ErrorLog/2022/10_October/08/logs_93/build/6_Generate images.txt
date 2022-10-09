@@ -1,0 +1,31 @@
+2022-10-09T02:45:52.7150734Z ##[group]Run python3 --version
+2022-10-09T02:45:52.7151093Z [36;1mpython3 --version[0m
+2022-10-09T02:45:52.7151398Z [36;1mpython3 generate_images.py[0m
+2022-10-09T02:45:52.7209615Z shell: /usr/bin/bash -e {0}
+2022-10-09T02:45:52.7209901Z env:
+2022-10-09T02:45:52.7210231Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.14/x64
+2022-10-09T02:45:52.7210651Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.14/x64/lib
+2022-10-09T02:45:52.7211343Z   ACCESS_TOKEN: ***
+2022-10-09T02:45:52.7211759Z   GITHUB_TOKEN: ***
+2022-10-09T02:45:52.7212016Z   EXCLUDED: 
+2022-10-09T02:45:52.7212267Z   EXCLUDED_LANGS: 
+2022-10-09T02:45:52.7212526Z   EXCLUDE_FORKED_REPOS: true
+2022-10-09T02:45:52.7212798Z ##[endgroup]
+2022-10-09T02:45:52.7315156Z Python 3.8.14
+2022-10-09T02:46:31.2215427Z A path returned 202. Retrying...
+2022-10-09T02:46:31.2216106Z A path returned 202. Retrying...
+2022-10-09T02:46:31.2392618Z Traceback (most recent call last):
+2022-10-09T02:46:31.2445289Z   File "generate_images.py", line 136, in <module>
+2022-10-09T02:46:31.2445785Z     asyncio.run(main())
+2022-10-09T02:46:31.2446218Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-10-09T02:46:31.2446639Z     return loop.run_until_complete(main)
+2022-10-09T02:46:31.2447112Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-10-09T02:46:31.2447502Z     return future.result()
+2022-10-09T02:46:31.2447838Z   File "generate_images.py", line 132, in main
+2022-10-09T02:46:31.2448229Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-10-09T02:46:31.2448846Z   File "generate_images.py", line 42, in generate_overview
+2022-10-09T02:46:31.2449230Z     changed = (await s.lines_changed)[0] + (await s.lines_changed)[1]
+2022-10-09T02:46:31.2449709Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 486, in lines_changed
+2022-10-09T02:46:31.2450099Z     for repo in await self.repos:
+2022-10-09T02:46:31.2450431Z RuntimeError: Set changed size during iteration
+2022-10-09T02:46:31.2664223Z ##[error]Process completed with exit code 1.
