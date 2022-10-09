@@ -404,6 +404,39 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details> <!-- 2022 October 7th !-->
 
+### 2022 October 8th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 8th</b></p></summary>
+
+**2022 October 8th**
+1m2s
+BUILD
+
+
+The process ran unsuccessfully today, failing within 1 minute and 2 seconds. There were no `aiohttp` errors today, there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. I now know the meaning of runtime errors. Additionally, I received this error today:
+
+**Build**
+
+Node.js 12 actions are deprecated. For more information see: [https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/](https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/). Please update the following actions to use Node.js 16: actions/checkout, actions/setup-python, actions/cache, actions/checkout
+
+I don't know why JavaScript is in use, this extension is written entirely in Python. I don't know how to fix this error, but it may have not been the cause of the workflow failing today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 0 day.
+
+</details> <!-- 2022 October 8th !-->
+
 </details> <!-- 2022 October !-->
 
 </details> <!-- Season 4 !-->
@@ -429,7 +462,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, October 5th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October5th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October5th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October5th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October5th.svg) |
 | 2022, October 6th | :x: | :x: |
 | 2022, October 7th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October7th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October7th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October7th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October7th.svg) |
-| 2022, October 8th | Coming soon | Coming soon |
+| 2022, October 8th | :x: | :x: |
 | 2022, October 9th | Coming soon | Coming soon |
 | 2022, October 10th | Coming soon | Coming soon |
 | 2022, October 11th | Coming soon | Coming soon |
@@ -486,9 +519,9 @@ The access token for this project was renewed on 2022, September 25th
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2022, Friday, October 7th at 11:54 pm PST)`
+**File version:** `13 (2022, Saturday, October 8th at 9:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `721`
+**Line count (including blank lines and compiler line):** `771`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -712,6 +745,23 @@ The access token for this project was renewed on 2022, September 25th
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p lang="en"><b>Version 13 (2022, Saturday, October 8th at 9:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/4/!OldVersions/README/English/USA/README_V13.md)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table
+- [x] Added an entry for 2022 October 8th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 13
 
 </details>
 
