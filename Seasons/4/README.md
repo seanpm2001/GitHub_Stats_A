@@ -490,9 +490,41 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 </details> <!-- 2022 October 10th !-->
 
+### 2022 October 11th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 11th</b></p></summary>
+
+**2022 October 11th**
+
+The process ran (somewhat) successfully today, and gave similar results to yesterday, which is still better when compared to last week. It took 1 hour 28 minutes and 44 seconds. There were no `aiohttp` errors today, although it only scanned 900 repositories. Normal errors were present today (normal errors being "There were too many errors, Data for this repository may be incomplete")
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 11th !-->
+
 </details> <!-- 2022 October !-->
 
 </details> <!-- Season 4 !-->
+
+***
+
+### Past observations
+
+I made the observation that when successfully ran, only 10 languages are listed, but when it doesn't run successfully, only 15 languages are listed. **This has been proven untrue with the 2022 September 30th workflow run**
+
+I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count. **This has been proven untrue with the 2022 September 30th workflow run**
 
 ***
 
@@ -518,7 +550,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, October 8th | :x: | :x: |
 | 2022, October 9th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October9th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October9th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October9th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October9th.svg) |
 | 2022, October 10th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October10th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October10th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October10th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October10th.svg) |
-| 2022, October 11th | Coming soon | Coming soon |
+| 2022, October 11th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October11th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October11th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October11th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October11th.svg) |
 | 2022, October 12th | Coming soon | Coming soon |
 | 2022, October 13th | Coming soon | Coming soon |
 | 2022, October 14th | Coming soon | Coming soon |
@@ -572,9 +604,9 @@ The access token for this project was renewed on 2022, September 25th
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Monday, October 10th at 10:10 pm PST)`
+**File version:** `15 (2022, Tuesday, October 11th at 10:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `842`
+**Line count (including blank lines and compiler line):** `892`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -833,6 +865,24 @@ The access token for this project was renewed on 2022, September 25th
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><p lang="en"><b>Version 15 (2022, Tuesday, October 11th at 10:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/4/!OldVersions/README/English/USA/README_V15.md)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table
+- [x] Added the `Past observations` section
+- [x] Added an entry for 2022 October 11th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 15
 
 </details>
 
