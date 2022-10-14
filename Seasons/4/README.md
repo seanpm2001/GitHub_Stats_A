@@ -538,6 +538,57 @@ Today was a category 1 day.
 
 </details> <!-- 2022 October 12th !-->
 
+### 2022 October 13th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 13th</b></p></summary>
+
+**2022 October 13th**
+
+The process ran unsuccessfully today, failing within 1 minute and 1 second. There were no `aiohttp` errors today. Normal errors were present today (normal errors being "There were too many errors, Data for this repository may be incomplete") Additionally, these errors were present:
+
+```
+build
+Node.js 12 actions are deprecated. For more information see: https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/. Please update the following actions to use Node.js 16: actions/checkout, actions/setup-python, actions/cache, actions/checkout
+```
+
+```
+build
+The `set-output` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+```
+build
+The `save-state` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+```
+build
+The `save-state` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+```
+build
+The `set-output` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+I am adding these verbatim. The same errors seem to have been duplicates.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 0 day.
+
+</details> <!-- 2022 October 13th !-->
+
 </details> <!-- 2022 October !-->
 
 </details> <!-- Season 4 !-->
@@ -576,7 +627,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, October 10th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October10th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October10th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October10th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October10th.svg) |
 | 2022, October 11th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October11th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October11th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October11th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October11th.svg) |
 | 2022, October 12th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October12th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October12th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October12th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October12th.svg) |
-| 2022, October 13th | Coming soon | Coming soon |
+| 2022, October 13th | :x: | :x: |
 | 2022, October 14th | Coming soon | Coming soon |
 | 2022, October 15th | Coming soon | Coming soon |
 | 2022, October 16th | Coming soon | Coming soon |
@@ -628,9 +679,9 @@ The access token for this project was renewed on 2022, September 25th
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2022, Wednesday, October 12th at 11:51 pm PST)`
+**File version:** `17 (2022, Thursday, October 13th at 9:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `933`
+**Line count (including blank lines and compiler line):** `1,001`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -924,6 +975,23 @@ The access token for this project was renewed on 2022, September 25th
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><p lang="en"><b>Version 17 (2022, Thursday, October 13th at 9:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/4/!OldVersions/README/English/USA/README_V17.md)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table
+- [x] Added an entry for 2022 October 13th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 17
 
 </details>
 
