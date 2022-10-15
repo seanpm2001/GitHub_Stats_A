@@ -6,7 +6,7 @@
 | :octocat: | Previous season [`3`](/Seasons/3/) | **Current season:** [`4`](/Seasons/4/) | Next season [`5`](/Seasons/5/) | :octocat: |
 |---|---|---|---|---|
 
-This is an oveview of the fifth season (30 days, day 91-120) of using this tool (until the Personal Access Token expires)
+This is an oveview of the fourth season (30 days, day 91-120) of using this tool (until the Personal Access Token expires)
 
 This season starts with 2022, Sunday, September 25th. <!-- It may last more than 30 days. !-->
 
@@ -589,6 +589,30 @@ Today was a category 0 day.
 
 </details> <!-- 2022 October 13th !-->
 
+### 2022 October 14th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 14th</b></p></summary>
+
+**2022 October 14th**
+
+The process ran (somewhat) successfully today, failing within 1 hour 29 minutes and 15 seconds. There were no `aiohttp` errors today. Normal errors were present today (normal errors being "There were too many errors, Data for this repository may be incomplete") only 900 repositories were scanned.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 14th !-->
+
 </details> <!-- 2022 October !-->
 
 </details> <!-- Season 4 !-->
@@ -628,7 +652,7 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, October 11th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October11th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October11th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October11th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October11th.svg) |
 | 2022, October 12th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October12th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October12th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October12th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October12th.svg) |
 | 2022, October 13th | :x: | :x: |
-| 2022, October 14th | Coming soon | Coming soon |
+| 2022, October 14th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October14th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October14th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October14th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October14th.svg) |
 | 2022, October 15th | Coming soon | Coming soon |
 | 2022, October 16th | Coming soon | Coming soon |
 | 2022, October 17th | Coming soon | Coming soon |
@@ -679,9 +703,9 @@ The access token for this project was renewed on 2022, September 25th
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2022, Thursday, October 13th at 9:54 pm PST)`
+**File version:** `18 (2022, Friday, October 14th at 10:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,001`
+**Line count (including blank lines and compiler line):** `1,042`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -992,6 +1016,23 @@ The access token for this project was renewed on 2022, September 25th
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 17
+
+</details>
+
+<details><summary><p lang="en"><b>Version 18 (2022, Friday, October 14th at 10:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/4/!OldVersions/README/English/USA/README_V18.md)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table
+- [x] Added an entry for 2022 October 14th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 18
 
 </details>
 
