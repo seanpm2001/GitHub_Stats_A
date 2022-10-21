@@ -623,6 +623,102 @@ Today was a category 8 day.
 
 </details> <!-- 2022 October 16th !-->
 
+### 2022 October 17th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 17th</b></p></summary>
+
+**2022 October 17th**
+
+The process ran successfully today, finishing in 1 hour 24 minutes and 14 seconds. Results were poor tpoday. There were no `aiohttp` errors today. Normal errors were present today (normal errors being "There were too many errors, Data for this repository may be incomplete")
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 17th !-->
+
+### 2022 October 18th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 18th</b></p></summary>
+
+**2022 October 18th**
+
+The process ran unsuccessfully today, failing within 1 minute and 7 seconds. There were no `aiohttp` errors today, there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 0 day.
+
+</details> <!-- 2022 October 18th !-->
+
+### 2022 October 19th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 19th</b></p></summary>
+
+**2022 October 19th**
+
+The process ran successfully today, finishing in 1 hour 50 minutes and 8 seconds. Results were poor tpoday. There were no `aiohttp` errors today. Normal errors were present today (normal errors being "There were too many errors, Data for this repository may be incomplete")
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 19th !-->
+
+### 2022 October 20th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 20th</b></p></summary>
+
+**2022 October 20th**
+
+The process ran unsuccessfully today, failing within 3 minutes and 24 seconds. There were no `aiohttp` errors today, there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 0 day.
+
+</details> <!-- 2022 October 20th !-->
+
 </details> <!-- 2022 October !-->
 
 </details> <!-- Season 4 !-->
@@ -634,6 +730,39 @@ Today was a category 8 day.
 I made the observation that when successfully ran, only 10 languages are listed, but when it doesn't run successfully, only 15 languages are listed. **This has been proven untrue with the 2022 September 30th workflow run**
 
 I have noted that a good way to see if it ran correctly or not is to check the overview image card. If it says `No name` instead of my original GitHub username (`Sean P. Myrick V19.1.7.2`) (not my handle, `seanpm2001`) then it ran incorrectly. Otherwise, it worked correctly. For personal usage, I can tell it ran worse when the counted repositories is `800` instead of `900` or `1000` additionally, if my GitHub username doesn't come up, the card puts `0` for the total commit count. **This has been proven untrue with the 2022 September 30th workflow run**
+
+### Errors since 2022 October 13th
+
+These errors have been present on all runs since 2022, October 13th
+
+Additionally, these errors were present:
+
+```
+build
+Node.js 12 actions are deprecated. For more information see: https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/. Please update the following actions to use Node.js 16: actions/checkout, actions/setup-python, actions/cache, actions/checkout
+```
+
+```
+build
+The `set-output` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+```
+build
+The `save-state` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+```
+build
+The `save-state` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+```
+build
+The `set-output` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+```
+
+I am adding these verbatim. The same errors seem to have been duplicates.
 
 ***
 
@@ -665,10 +794,10 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2022, October 14th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October14th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October14th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October14th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October14th.svg) |
 | 2022, October 15th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October15th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October15th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October15th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October15th.svg) |
 | 2022, October 16th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October16th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October16th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October16th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October16th.svg) |
-| 2022, October 17th | Coming soon | Coming soon |
-| 2022, October 18th | Coming soon | Coming soon |
-| 2022, October 19th | Coming soon | Coming soon |
-| 2022, October 20th | Coming soon | Coming soon |
+| 2022, October 17th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October17th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October17th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October17th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October17th.svg) |
+| 2022, October 18th | :x: | :x: |
+| 2022, October 19th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October19th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October19th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October19th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October19th.svg) |
+| 2022, October 20th | :x: | :x: |
 | 2022, October 21st | Coming soon | Coming soon |
 | 2022, October 22nd | Coming soon | Coming soon |
 | 2022, October 23rd | Coming soon | Coming soon |
@@ -713,9 +842,9 @@ The access token for this project was renewed on 2022, September 25th
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2022, Monday, October 17th at 2:58 pm PST)`
+**File version:** `21 (2022, Thursday, October 20th at 8:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,088`
+**Line count (including blank lines and compiler line):** `1,237`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1079,6 +1208,26 @@ The access token for this project was renewed on 2022, September 25th
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><p lang="en"><b>Version 21 (2022, Thursday, October 20th at 8:14 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/4/!OldVersions/README/English/USA/README_V21.md)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table
+- [x] Added an entry for 2022 October 17th
+- [x] Added an entry for 2022 October 18th
+- [x] Added an entry for 2022 October 19th
+- [x] Added an entry for 2022 October 20th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 21
 
 </details>
 
