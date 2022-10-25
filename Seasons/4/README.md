@@ -719,6 +719,108 @@ Today was a category 0 day.
 
 </details> <!-- 2022 October 20th !-->
 
+### 2022 October 21st
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 21st</b></p></summary>
+
+**2022 October 21st**
+
+The process ran somewhat successfully today, finishing in 1 hour, 39 minutes, and 33 seconds. There were no `aiohttp` errors today. <!-- there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> only 1000 repositories were scanned today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 21st !-->
+
+### 2022 October 22nd
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 22nd</b></p></summary>
+
+**2022 October 22nd**
+
+The process ran somewhat successfully today, finishing in 2 hours, 11 minutes, and 16 seconds. There were no `aiohttp` errors today. <!-- there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> only 900 repositories were scanned today.
+
+Today, the `lines of code changed` field defaulted to 0 for the first time. This was pretty frustrating, as now it is only giving me GitHub analytical data for non-full runs, and isn't giving me good repository data for non-full runs. This is new behavior.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 22nd !-->
+
+### 2022 October 23rd
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 23rd</b></p></summary>
+
+**2022 October 23rd**
+
+The process ran somewhat successfully today, finishing in 1 hour, 32 minutes, and 36 seconds. There were no `aiohttp` errors today. <!-- there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> only 900 repositories were scanned today.
+
+For a second consecutive day, the `lines of code changed` field defaulted to 0 for the first time. This was pretty frustrating, as now it is only giving me GitHub analytical data for non-full runs, and isn't giving me good repository data for non-full runs.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 23rd !-->
+
+### 2022 October 24th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 24th</b></p></summary>
+
+**2022 October 24th**
+
+The process ran somewhat successfully today, finishing in 2 hours, 10 minutes, and 40 seconds. There were no `aiohttp` errors today. <!-- there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> only 100 repositories were scanned today.
+
+For a third consecutive day, the `lines of code changed` field defaulted to 0 for the first time. This was pretty frustrating, as now it is only giving me GitHub analytical data for non-full runs, and isn't giving me good repository data for non-full runs.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 October 24th !-->
+
 </details> <!-- 2022 October !-->
 
 </details> <!-- Season 4 !-->
@@ -798,10 +900,10 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, October 18th | :x: | :x: |
 | 2022, October 19th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October19th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October19th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October19th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October19th.svg) |
 | 2022, October 20th | :x: | :x: |
-| 2022, October 21st | Coming soon | Coming soon |
-| 2022, October 22nd | Coming soon | Coming soon |
-| 2022, October 23rd | Coming soon | Coming soon |
-| 2022, October 24th | Coming soon | Coming soon |
+| 2022, October 21st | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October21st.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October21st.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October21st.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October21st.svg) |
+| 2022, October 22nd | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October22nd.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October22nd.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October22nd.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October22nd.svg) |
+| 2022, October 23rd | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October23rd.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October23rd.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October23rd.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October23rd.svg) |
+| 2022, October 24th | ![/Seasons/4/SVG/Overview_GitHubStatsA_2022October24th.svg](/Seasons/4/SVG/Overview_GitHubStatsA_2022October24th.svg) | ![/Seasons/4/SVG/Languages_GitHubStatsA_2022October24th.svg](/Seasons/4/SVG/Languages_GitHubStatsA_2022October24th.svg) |
 <!-- | 2022, October 25th | Coming soon | Coming soon | !-->
 
 </details>
@@ -842,9 +944,9 @@ The access token for this project was renewed on 2022, September 25th
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2022, Thursday, October 20th at 8:14 pm PST)`
+**File version:** `22 (2022, Tuesday, October 25th at 2:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,237`
+**Line count (including blank lines and compiler line):** `1,360`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1230,6 +1332,27 @@ The access token for this project was renewed on 2022, September 25th
 - [ ] No other changes in version 21
 
 </details>
+
+<details><summary><p lang="en"><b>Version 22 (2022, Tuesday, October 25th at 2:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/4/!OldVersions/README/English/USA/README_V22.md)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table
+- [x] Added an entry for 2022 October 21st
+- [x] Added an entry for 2022 October 22nd
+- [x] Added an entry for 2022 October 23rd
+- [x] Added an entry for 2022 October 24th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 22
+
+</details>
+
 
 </details>
 
