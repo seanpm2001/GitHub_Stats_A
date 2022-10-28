@@ -52,7 +52,7 @@ Today was a category 1 day.
 
 ### 2022 October 26th
 
-<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 25th</b></p></summary>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 26th</b></p></summary>
 
 **2022 October 26th**
 
@@ -75,6 +75,30 @@ I put the workflow runs into 9 categories:
 Today was a category 1 day.
 
 </details> <!-- 2022 October 26th !-->
+
+### 2022 October 27th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 27th</b></p></summary>
+
+**2022 October 27th**
+
+The process ran unsuccessfully today, failing within 1 minute and 2s. There were no `aiohttp` errors today.  there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. I wasn't doing anything on GitHub within 15 minutes of the process starting and crashing, I was using GIMP. After it has these failures, it usually behaves differently when it starts to run successfully again. Hopefully there will be a 100% successful workflow run soon.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 0 day.
+
+</details> <!-- 2022 October 27th !-->
 
 </details> <!-- 2022 October !-->
 
@@ -131,7 +155,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 |---|---|---|
 | 2022, October 25th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022October25th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022October25th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022October25th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022October25th.svg) |
 | 2022, October 26th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022October26th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022October26th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022October26th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022October26th.svg) |
-| 2022, October 27th | Coming soon | Coming soon |
+| 2022, October 27th | :x: | :x: |
 | 2022, October 28th | Coming soon | Coming soon |
 | 2022, October 29th | Coming soon | Coming soon |
 | 2022, October 30th | Coming soon | Coming soon |
@@ -209,9 +233,9 @@ The access token for this project was renewed on 2022, October 25th. For this se
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Wednesday, October 26th at 10:47 pm PST)`
+**File version:** `4 (2022, Thursday, October 27th at 11:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `288`
+**Line count (including blank lines and compiler line):** `328`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -279,6 +303,22 @@ The access token for this project was renewed on 2022, October 25th. For this se
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Thursday, October 27th at 11:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/5/!OldVersions/README/English/USA/README_V4.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, October 27th
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 4
 
 </details>
 
