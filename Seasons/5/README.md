@@ -100,6 +100,51 @@ Today was a category 0 day.
 
 </details> <!-- 2022 October 27th !-->
 
+### 2022 October 28th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 28th</b></p></summary>
+
+**2022 October 28th**
+
+<!--
+aiohttp failed for GraphQL query
+Traceback (most recent call last):
+  File "generate_images.py", line 136, in <module>
+    asyncio.run(main())
+  File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "generate_images.py", line 132, in main
+    await asyncio.gather(generate_languages(s), generate_overview(s))
+  File "generate_images.py", line 38, in generate_overview
+    output = re.sub("{{ name }}", await s.name, output)
+  File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+    await self.get_stats()
+  File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+    self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+AttributeError: 'NoneType' object has no attribute 'get'
+Error: Process completed with exit code 1.
+!-->
+
+The process ran unsuccessfully again today, failing within 49 secons. There was 1 `aiohttp` error today.  there was a `AttributeError: 'NoneType' object has no attribute 'get'` error, which is an uncommon error I receive when the workflow runs unsuccessfully. I am not sure why it failed like this today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 0 day.
+
+</details> <!-- 2022 October 28th !-->
+
 </details> <!-- 2022 October !-->
 
 </details> <!-- Season 5 !-->
@@ -156,7 +201,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, October 25th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022October25th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022October25th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022October25th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022October25th.svg) |
 | 2022, October 26th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022October26th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022October26th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022October26th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022October26th.svg) |
 | 2022, October 27th | :x: | :x: |
-| 2022, October 28th | Coming soon | Coming soon |
+| 2022, October 28th | :x: | :x: |
 | 2022, October 29th | Coming soon | Coming soon |
 | 2022, October 30th | Coming soon | Coming soon |
 | 2022, October 31st | Coming soon | Coming soon |
@@ -233,9 +278,9 @@ The access token for this project was renewed on 2022, October 25th. For this se
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Thursday, October 27th at 11:40 pm PST)`
+**File version:** `5 (2022, Friday, October 28th at 9:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `328`
+**Line count (including blank lines and compiler line):** `389`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -319,6 +364,22 @@ The access token for this project was renewed on 2022, October 25th. For this se
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2022, Friday, October 28th at 9:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/5/!OldVersions/README/English/USA/README_V5.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, October 28th
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 5
 
 </details>
 
