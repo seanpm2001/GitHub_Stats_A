@@ -1,0 +1,32 @@
+2022-10-29T02:24:25.4800637Z ##[group]Run python3 --version
+2022-10-29T02:24:25.4801053Z [36;1mpython3 --version[0m
+2022-10-29T02:24:25.4801378Z [36;1mpython3 generate_images.py[0m
+2022-10-29T02:24:25.4851571Z shell: /usr/bin/bash -e {0}
+2022-10-29T02:24:25.4851916Z env:
+2022-10-29T02:24:25.4852269Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.14/x64
+2022-10-29T02:24:25.4852773Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.14/x64/lib
+2022-10-29T02:24:25.4853419Z   ACCESS_TOKEN: ***
+2022-10-29T02:24:25.4853857Z   GITHUB_TOKEN: ***
+2022-10-29T02:24:25.4854151Z   EXCLUDED: 
+2022-10-29T02:24:25.4854471Z   EXCLUDED_LANGS: 
+2022-10-29T02:24:25.4854786Z   EXCLUDE_FORKED_REPOS: true
+2022-10-29T02:24:25.4855055Z ##[endgroup]
+2022-10-29T02:24:25.4946594Z Python 3.8.14
+2022-10-29T02:24:56.4976910Z aiohttp failed for GraphQL query
+2022-10-29T02:24:56.5420647Z Traceback (most recent call last):
+2022-10-29T02:24:56.5434638Z   File "generate_images.py", line 136, in <module>
+2022-10-29T02:24:56.5522627Z     asyncio.run(main())
+2022-10-29T02:24:56.5523316Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-10-29T02:24:56.5523732Z     return loop.run_until_complete(main)
+2022-10-29T02:24:56.5524325Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-10-29T02:24:56.5524762Z     return future.result()
+2022-10-29T02:24:56.5525177Z   File "generate_images.py", line 132, in main
+2022-10-29T02:24:56.5525602Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-10-29T02:24:56.5526098Z   File "generate_images.py", line 38, in generate_overview
+2022-10-29T02:24:56.5526513Z     output = re.sub("{{ name }}", await s.name, output)
+2022-10-29T02:24:56.5526977Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2022-10-29T02:24:56.5527385Z     await self.get_stats()
+2022-10-29T02:24:56.5527856Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2022-10-29T02:24:56.5528585Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2022-10-29T02:24:56.5529296Z AttributeError: 'NoneType' object has no attribute 'get'
+2022-10-29T02:24:56.5681315Z ##[error]Process completed with exit code 1.
