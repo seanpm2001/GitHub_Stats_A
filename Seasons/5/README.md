@@ -147,7 +147,7 @@ Today was a category 0 day.
 
 ### 2022 October 29th
 
-<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 269h</b></p></summary>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 29th</b></p></summary>
 
 **2022 October 29th**
 
@@ -169,7 +169,85 @@ Today was a category 1 day.
 
 </details> <!-- 2022 October 29th !-->
 
+### 2022 October 30th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 30th</b></p></summary>
+
+**2022 October 30th**
+
+The process ran fully successfully today, finishing in 3 hours, 13 minutes, and 5 seconds. There were no `aiohttp` errors today. <!-- there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> all repositories were scanned today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 8 day.
+
+</details> <!-- 2022 October 30th !-->
+
+### 2022 October 31st
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 October 31st</b></p></summary>
+
+**2022 October 31st**
+
+The process ran fully successfully today for a second consecutive day, finishing in 3 hours, 30 minutes, and 8 seconds. There were no `aiohttp` errors today. <!-- there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> all repositories were scanned today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 8 day.
+
+</details> <!-- 2022 October 31st !-->
+
 </details> <!-- 2022 October !-->
+
+## 2022 November
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the 2022 November section</b></p></summary>
+
+### 2022 November 1st
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 November 1st</b></p></summary>
+
+**2022 November 1st**
+
+The process ran fully successfully today for a third consecutive day, finishing in 3 hours, 14 minutes, and 33 seconds. There were no `aiohttp` errors today. <!-- there was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> all repositories were scanned today.
+
+I put the workflow runs into 9 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R1100` - _Partial success, with 1100-1199 or less out of 1600+ repositories scanned/indexed_
+- **Category 2:** `R1200` - _Partial success, with 1200-1299 out of 1600+ repositories scanned/indexed_
+- **Category 3:** `R1300` - _Partial success, with 1300-1399 out of 1600+ repositories scanned/indexed_
+- **Category 4:** `R1400` - _Partial success, with 1400-1499 out of 1600+ repositories scanned/indexed_
+- **Category 5:** `R1500` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 6:** `R1600` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 7:** `R1700` - _Moderate success, with 1500-1599 or more out of 1600+ repositories scanned/indexed_
+- **Category 8:** `Complete success` - _The process ran and gave accurate results_
+
+Today was a category 8 day.
+
+</details> <!-- 2022 November 1st !-->
+
+</details> <!-- 2022 November !-->
 
 </details> <!-- Season 5 !-->
 
@@ -227,9 +305,9 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, October 27th | :x: | :x: |
 | 2022, October 28th | :x: | :x: |
 | 2022, October 29th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022October29th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022October29th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022October29th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022October29th.svg) |
-| 2022, October 30th | Coming soon | Coming soon |
-| 2022, October 31st | Coming soon | Coming soon |
-| 2022, November 1st | Coming soon | Coming soon |
+| 2022, October 30th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022October30th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022October30th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022October30th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022October30th.svg) |
+| 2022, October 31st | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022October31st.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022October31st.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022October31st.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022October31st.svg) |
+| 2022, November 1st | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November1st.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November1st.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November1st.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November1st.svg) |
 | 2022, November 2nd | Coming soon | Coming soon |
 | 2022, November 3rd | Coming soon | Coming soon |
 | 2022, November 4th | Coming soon | Coming soon |
@@ -302,9 +380,9 @@ The access token for this project was renewed on 2022, October 25th. For this se
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Saturday, October 29th at 9:46 pm PST)`
+**File version:** `7 (2022, Wednesday, November 2nd at 12:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `429`
+**Line count (including blank lines and compiler line):** `526`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -420,6 +498,25 @@ The access token for this project was renewed on 2022, October 25th. For this se
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Wednesday, November 2nd at 12:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/5/!OldVersions/README/English/USA/README_V7.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, October 30th
+- [x] Added an entry for 2022, October 31st
+- [x] Added a table for 2022 November status posts
+- [x] Added an entry for 2022, November 1st
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 7
 
 </details>
 
