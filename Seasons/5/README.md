@@ -333,6 +333,64 @@ Today was a category 2 day.
 
 </details> <!-- 2022 November 4th !-->
 
+### 2022 November 5th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 November 5th</b></p></summary>
+
+**2022 November 5th**
+
+The process ran (somewhat) successfully today, finishing in 1 hour, 28 minutes, and 43 seconds. There were no `aiohttp` errors today. <!-- There was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> Only 900 repositories were scanned today.
+
+I put the workflow runs into 14 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R900` - _Partial success, with 900-999 or less out of 2100+ repositories scanned/indexed_
+- **Category 2:** `R1000` - _Partial success, with 1000-1099 out of 2100+ repositories scanned/indexed_
+- **Category 3:** `R1100` - _Partial success, with 1100-1199 out of 2100+ repositories scanned/indexed_
+- **Category 4:** `R1200` - _Partial success, with 1200-1299 out of 2100+ repositories scanned/indexed_
+- **Category 5:** `R1300` - _Partial success, with 1300-1399 out of 2100+ repositories scanned/indexed_
+- **Category 6:** `R1400` - _Partial success, with 1400-1499 out of 2100+ repositories scanned/indexed_
+- **Category 7:** `R1500` - _Partial success, with 1500-1599 out of 2100+ repositories scanned/indexed_
+- **Category 8:** `R1600` - _Moderate success, with 1600-1699 out of 2100+ repositories scanned/indexed_
+- **Category 9:** `R1700` - _Moderate success, with 1700-1799 out of 2100+ repositories scanned/indexed_
+- **Category 10:** `R1800` - _Moderate success, with 1800-1899 out of 2100+ repositories scanned/indexed_
+- **Category 11:** `R1900` - _Moderate success, with 1900-1999 out of 2100+ repositories scanned/indexed_
+- **Category 12:** `R2000` - _Moderate success, with 2000-2099 out of 2100+ repositories scanned/indexed_
+- **Category 13:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+Today was a category 1 day.
+
+</details> <!-- 2022 November 5th !-->
+
+### 2022 November 6th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 November 6th</b></p></summary>
+
+**2022 November 6th**
+
+The process ran (somewhat) successfully today, finishing in 2 hours, 40 minutes, and 8 seconds. There were no `aiohttp` errors today. <!-- There was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> Only 1000 repositories were scanned today. The process started at 5:48 pm, the earliest it has ever started. This was likely because the program is based in a different time zone, and Daylight Savings Time just adjusted here (at 2:00 am, it went back to 1:00 am) it is so annoying.
+
+I put the workflow runs into 14 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R900` - _Partial success, with 900-999 or less out of 2100+ repositories scanned/indexed_
+- **Category 2:** `R1000` - _Partial success, with 1000-1099 out of 2100+ repositories scanned/indexed_
+- **Category 3:** `R1100` - _Partial success, with 1100-1199 out of 2100+ repositories scanned/indexed_
+- **Category 4:** `R1200` - _Partial success, with 1200-1299 out of 2100+ repositories scanned/indexed_
+- **Category 5:** `R1300` - _Partial success, with 1300-1399 out of 2100+ repositories scanned/indexed_
+- **Category 6:** `R1400` - _Partial success, with 1400-1499 out of 2100+ repositories scanned/indexed_
+- **Category 7:** `R1500` - _Partial success, with 1500-1599 out of 2100+ repositories scanned/indexed_
+- **Category 8:** `R1600` - _Moderate success, with 1600-1699 out of 2100+ repositories scanned/indexed_
+- **Category 9:** `R1700` - _Moderate success, with 1700-1799 out of 2100+ repositories scanned/indexed_
+- **Category 10:** `R1800` - _Moderate success, with 1800-1899 out of 2100+ repositories scanned/indexed_
+- **Category 11:** `R1900` - _Moderate success, with 1900-1999 out of 2100+ repositories scanned/indexed_
+- **Category 12:** `R2000` - _Moderate success, with 2000-2099 out of 2100+ repositories scanned/indexed_
+- **Category 13:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+Today was a category 2 day.
+
+</details> <!-- 2022 November 6th !-->
+
 </details> <!-- 2022 November !-->
 
 </details> <!-- Season 5 !-->
@@ -397,8 +455,8 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, November 2nd | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November2nd.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November2nd.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November2nd.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November2nd.svg) |
 | 2022, November 3rd | :x: | :x: |
 | 2022, November 4th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November4th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November4th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November4th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November4th.svg) |
-| 2022, November 5th | Coming soon | Coming soon |
-| 2022, November 6th | Coming soon | Coming soon |
+| 2022, November 5th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November5th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November5th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November5th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November5th.svg) |
+| 2022, November 6th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November6th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November6th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November6th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November6th.svg) |
 | 2022, November 7th | Coming soon | Coming soon |
 | 2022, November 8th | Coming soon | Coming soon |
 | 2022, November 9th | Coming soon | Coming soon |
@@ -466,9 +524,9 @@ The access token for this project was renewed on 2022, October 25th. For this se
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Friday, November 4th at 8:57 pm PST)`
+**File version:** `11 (2022, Sunday, November 6th at 9:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `660`
+**Line count (including blank lines and compiler line):** `735`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -651,6 +709,23 @@ The access token for this project was renewed on 2022, October 25th. For this se
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><p lang="en"><b>Version 11 (2022, Sunday, November 6th at 9:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/5/!OldVersions/README/English/USA/README_V11.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, November 5th
+- [x] Added an entry for 2022, November 6th
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 11
 
 </details>
 
