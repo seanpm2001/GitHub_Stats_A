@@ -825,9 +825,9 @@ Today was a category 11 day.
 
 </details> <!-- 2022 November 17th !-->
 
-### 2022 November 19th
+### 2022 November 18th
 
-<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 November 19th</b></p></summary>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 November 18th</b></p></summary>
 
 **2022 November 18th**
 
@@ -866,6 +866,48 @@ I put the workflow runs into 25 categories:
 Today was a category 24 day.
 
 </details> <!-- 2022 November 18th !-->
+
+### 2022 November 19th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 November 19th</b></p></summary>
+
+**2022 November 19th**
+
+The process ran successfully today, finishing in 1 hour, 50 minutes, and 9 seconds, although GitHub was acting weird yet again today, the page would not refresh on its own, AJAX did not seem to be functional for the workflow only, everything else is acting more functional (commit push times now refresh every second) This was unrelated to the workflow. There were no `aiohttp` errors today. <!-- There was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> Only 1000 repositories were scanned today.
+
+I put the workflow runs into 25 categories:
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2200+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2200+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2200+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2200+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2200+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2200+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2200+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2200+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2200+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2200+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2200+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2200+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2200+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2200+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2200+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2200+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2200+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2200+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2200+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2200+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2200+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2200+ repositories scanned/indexed_
+- **Category 24:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2300+ repositories scanned/indexed_ !-->
+
+Today was a category 12 day.
+
+</details> <!-- 2022 November 19th !-->
 
 </details> <!-- 2022 November !-->
 
@@ -945,7 +987,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, November 16th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November16th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November16th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November16th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November16th.svg) |
 | 2022, November 17th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November17th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November17th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November17th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November17th.svg) |
 | 2022, November 18th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November18th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November18th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November18th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November18th.svg) |
-| 2022, November 19th | Coming soon | Coming soon |
+| 2022, November 19th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November19th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November19th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November19th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November19th.svg) |
 | 2022, November 20th | Coming soon | Coming soon |
 | 2022, November 21st | Coming soon | Coming soon |
 | 2022, November 22nd | Coming soon | Coming soon |
@@ -1000,9 +1042,9 @@ The access token for this project was renewed on 2022, October 25th. For this se
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2022, Friday, November 18th at 11:01 pm PST)`
+**File version:** `23 (2022, Saturday, November 19th at 11:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,388`
+**Line count (including blank lines and compiler line):** `1,446`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1379,6 +1421,22 @@ The access token for this project was renewed on 2022, October 25th. For this se
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 22
+
+</details>
+
+<details><summary><p lang="en"><b>Version 23 (2022, Saturday, November 19th at 11:14 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/5/!OldVersions/README/English/USA/README_V23.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, November 19th
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 23
 
 </details>
 
