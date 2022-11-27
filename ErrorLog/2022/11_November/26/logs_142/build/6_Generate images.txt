@@ -1,0 +1,32 @@
+2022-11-27T01:35:38.3999453Z ##[group]Run python3 --version
+2022-11-27T01:35:38.3999740Z [36;1mpython3 --version[0m
+2022-11-27T01:35:38.3999984Z [36;1mpython3 generate_images.py[0m
+2022-11-27T01:35:38.4052320Z shell: /usr/bin/bash -e {0}
+2022-11-27T01:35:38.4052547Z env:
+2022-11-27T01:35:38.4052813Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.14/x64
+2022-11-27T01:35:38.4053149Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.14/x64/lib
+2022-11-27T01:35:38.4053575Z   ACCESS_TOKEN: ***
+2022-11-27T01:35:38.4053900Z   GITHUB_TOKEN: ***
+2022-11-27T01:35:38.4054138Z   EXCLUDED: 
+2022-11-27T01:35:38.4054336Z   EXCLUDED_LANGS: 
+2022-11-27T01:35:38.4054540Z   EXCLUDE_FORKED_REPOS: true
+2022-11-27T01:35:38.4054754Z ##[endgroup]
+2022-11-27T01:35:38.4141368Z Python 3.8.14
+2022-11-27T01:36:17.0830848Z A path returned 202. Retrying...
+2022-11-27T01:36:17.0832929Z A path returned 202. Retrying...
+2022-11-27T01:36:17.0833184Z A path returned 202. Retrying...
+2022-11-27T01:36:17.1533003Z Traceback (most recent call last):
+2022-11-27T01:36:17.1626767Z   File "generate_images.py", line 136, in <module>
+2022-11-27T01:36:17.1627135Z     asyncio.run(main())
+2022-11-27T01:36:17.1627558Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-11-27T01:36:17.1627923Z     return loop.run_until_complete(main)
+2022-11-27T01:36:17.1628331Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-11-27T01:36:17.1628672Z     return future.result()
+2022-11-27T01:36:17.1628960Z   File "generate_images.py", line 132, in main
+2022-11-27T01:36:17.1629288Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-11-27T01:36:17.1629655Z   File "generate_images.py", line 42, in generate_overview
+2022-11-27T01:36:17.1629986Z     changed = (await s.lines_changed)[0] + (await s.lines_changed)[1]
+2022-11-27T01:36:17.1630401Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 486, in lines_changed
+2022-11-27T01:36:17.1631238Z     for repo in await self.repos:
+2022-11-27T01:36:17.1631515Z RuntimeError: Set changed size during iteration
+2022-11-27T01:36:17.1767053Z ##[error]Process completed with exit code 1.
