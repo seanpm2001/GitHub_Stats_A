@@ -1230,6 +1230,53 @@ Today was a category 0 day.
 
 </details> <!-- 2022 November 26th !-->
 
+### 2022 November 27th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022 November 27th</b></p></summary>
+
+**2022 November 27th**
+
+The process ran unsuccessfully today, failing in 1 minute and 47 seconds. There were some `aiohttp` errors today.  There was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. No repositories were scanned today.
+
+I put the workflow runs into 26 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2300+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2300+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2300+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2300+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2300+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2300+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2300+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2300+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2300+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2300+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2300+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2300+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2300+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2300+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2300+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2300+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2300+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2300+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2300+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2300+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2300+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2300+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2300+ repositories scanned/indexed_
+- **Category 25:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2400+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2022 November 27th !-->
+
 </details> <!-- 2022 November !-->
 
 </details> <!-- Season 5 !-->
@@ -1316,7 +1363,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, November 24th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November24th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November24th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November24th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November24th.svg) |
 | 2022, November 25th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November25th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November25th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November25th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November25th.svg) |
 | 2022, November 26th | :x: | :x: |
-| 2022, November 27th | Coming soon | Coming soon |
+| 2022, November 27th | :x: | :x: |
 | 2022, November 28th | Coming soon | Coming soon |
 | 2022, November 29th | Coming soon | Coming soon |
 | 2022, November 30th | Coming soon | Coming soon |
@@ -1363,9 +1410,9 @@ The access token for this project was renewed on 2022, October 25th. For this se
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `30 (2022, Saturday, November 26th at 6:24 pm PST)`
+**File version:** `31 (2022, Sunday, November 27th at 7:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,879`
+**Line count (including blank lines and compiler line):** `1,942`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1870,6 +1917,22 @@ The access token for this project was renewed on 2022, October 25th. For this se
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 30
+
+</details>
+
+<details><summary><p lang="en"><b>Version 31 (2022, Sunday, November 27th at 7:07 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/5/!OldVersions/README/English/USA/README_V31.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, November 27th
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 31
 
 </details>
 
