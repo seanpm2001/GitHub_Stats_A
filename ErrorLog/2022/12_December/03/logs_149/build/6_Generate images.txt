@@ -1,0 +1,31 @@
+2022-12-04T01:25:38.0394571Z ##[group]Run python3 --version
+2022-12-04T01:25:38.0394859Z [36;1mpython3 --version[0m
+2022-12-04T01:25:38.0395097Z [36;1mpython3 generate_images.py[0m
+2022-12-04T01:25:38.0448365Z shell: /usr/bin/bash -e {0}
+2022-12-04T01:25:38.0448597Z env:
+2022-12-04T01:25:38.0448862Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.14/x64
+2022-12-04T01:25:38.0449204Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.14/x64/lib
+2022-12-04T01:25:38.0449618Z   ACCESS_TOKEN: ***
+2022-12-04T01:25:38.0449932Z   GITHUB_TOKEN: ***
+2022-12-04T01:25:38.0450134Z   EXCLUDED: 
+2022-12-04T01:25:38.0450328Z   EXCLUDED_LANGS: 
+2022-12-04T01:25:38.0450541Z   EXCLUDE_FORKED_REPOS: true
+2022-12-04T01:25:38.0450911Z ##[endgroup]
+2022-12-04T01:25:38.0536751Z Python 3.8.14
+2022-12-04T01:26:12.3384230Z Traceback (most recent call last):
+2022-12-04T01:26:12.3394334Z   File "generate_images.py", line 136, in <module>
+2022-12-04T01:26:12.3394713Z     asyncio.run(main())
+2022-12-04T01:26:12.3395109Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-12-04T01:26:12.3395539Z     return loop.run_until_complete(main)
+2022-12-04T01:26:12.3395965Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-12-04T01:26:12.3396321Z     return future.result()
+2022-12-04T01:26:12.3396608Z   File "generate_images.py", line 132, in main
+2022-12-04T01:26:12.3396939Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-12-04T01:26:12.3397314Z   File "generate_images.py", line 38, in generate_overview
+2022-12-04T01:26:12.3397618Z     output = re.sub("{{ name }}", await s.name, output)
+2022-12-04T01:26:12.3398255Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2022-12-04T01:26:12.3398572Z     await self.get_stats()
+2022-12-04T01:26:12.3398922Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2022-12-04T01:26:12.3399310Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2022-12-04T01:26:12.3399889Z AttributeError: 'NoneType' object has no attribute 'get'
+2022-12-04T01:26:12.3619603Z ##[error]Process completed with exit code 1.
