@@ -1,0 +1,48 @@
+2022-12-05T01:23:10.9128706Z ##[group]Run python3 --version
+2022-12-05T01:23:10.9129259Z [36;1mpython3 --version[0m
+2022-12-05T01:23:10.9129698Z [36;1mpython3 generate_images.py[0m
+2022-12-05T01:23:10.9197560Z shell: /usr/bin/bash -e {0}
+2022-12-05T01:23:10.9197824Z env:
+2022-12-05T01:23:10.9198139Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.14/x64
+2022-12-05T01:23:10.9198526Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.14/x64/lib
+2022-12-05T01:23:10.9199330Z   ACCESS_TOKEN: ***
+2022-12-05T01:23:10.9199832Z   GITHUB_TOKEN: ***
+2022-12-05T01:23:10.9200061Z   EXCLUDED: 
+2022-12-05T01:23:10.9200282Z   EXCLUDED_LANGS: 
+2022-12-05T01:23:10.9200529Z   EXCLUDE_FORKED_REPOS: true
+2022-12-05T01:23:10.9200772Z ##[endgroup]
+2022-12-05T01:23:10.9305058Z Python 3.8.14
+2022-12-05T01:24:46.3777750Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3780147Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3782075Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3782378Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3783791Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3784245Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3784538Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3784811Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3785265Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3785552Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3785839Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3786356Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3787170Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3787467Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3787738Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3788005Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.3788544Z aiohttp failed for GraphQL query
+2022-12-05T01:24:46.4164064Z Traceback (most recent call last):
+2022-12-05T01:24:46.4176553Z   File "generate_images.py", line 136, in <module>
+2022-12-05T01:24:46.4176958Z     asyncio.run(main())
+2022-12-05T01:24:46.4177425Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-12-05T01:24:46.4178035Z     return loop.run_until_complete(main)
+2022-12-05T01:24:46.4178517Z   File "/opt/hostedtoolcache/Python/3.8.14/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-12-05T01:24:46.4178934Z     return future.result()
+2022-12-05T01:24:46.4179258Z   File "generate_images.py", line 132, in main
+2022-12-05T01:24:46.4179854Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-12-05T01:24:46.4180313Z   File "generate_images.py", line 38, in generate_overview
+2022-12-05T01:24:46.4180675Z     output = re.sub("{{ name }}", await s.name, output)
+2022-12-05T01:24:46.4181127Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2022-12-05T01:24:46.4181486Z     await self.get_stats()
+2022-12-05T01:24:46.4181907Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2022-12-05T01:24:46.4182526Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2022-12-05T01:24:46.4183174Z AttributeError: 'NoneType' object has no attribute 'get'
+2022-12-05T01:24:46.4472117Z ##[error]Process completed with exit code 1.
