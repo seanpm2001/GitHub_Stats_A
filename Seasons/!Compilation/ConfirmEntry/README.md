@@ -9,7 +9,11 @@
 
 #### Compilation
 
-Compilation as of 2022, Tuesday, November 15th.
+**Notice:**
+
+This list isn't updated daily at the moment due to the CPU strain issue
+
+Compilation data is as of 2022, Tuesday, December 6th.
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -171,27 +175,58 @@ Compilation as of 2022, Tuesday, November 15th.
 | 2022, November 13th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November13th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November13th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November13th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November13th.svg) |
 | 2022, November 14th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November14th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November14th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November14th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November14th.svg) |
 | 2022, November 15th | :x: | :x: |
+| 2022, November 16th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November16th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November16th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November16th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November16th.svg) |
+| 2022, November 17th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November17th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November17th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November17th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November17th.svg) |
+| 2022, November 18th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November18th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November18th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November18th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November18th.svg) |
+| 2022, November 19th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November19th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November19th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November19th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November19th.svg) |
+| 2022, November 20th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November20th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November20th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November20th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November20th.svg) |
+| 2022, November 21st | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November21st.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November21st.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November21st.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November21st.svg) |
+| 2022, November 22nd | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November22nd.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November22nd.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November22nd.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November22nd.svg) |
+| 2022, November 23rd | :x: | :x: |
+| 2022, November 24th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November24th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November24th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November24th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November24th.svg) |
+| 2022, November 25th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November25th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November25th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November25th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November25th.svg) |
+| 2022, November 26th | :x: | :x: |
+| 2022, November 27th | :x: | :x: |
+| 2022, November 28th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November28th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November28th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November28th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November28th.svg) |
+| 2022, November 29th | ![/Seasons/5/SVG/Overview_GitHubStatsA_2022November29th.svg](/Seasons/5/SVG/Overview_GitHubStatsA_2022November29th.svg) | ![/Seasons/5/SVG/Languages_GitHubStatsA_2022November29th.svg](/Seasons/5/SVG/Languages_GitHubStatsA_2022November29th.svg) |
+| 2022, November 30th | :x: | :x: |
+| 2022, Thursday, December 1st | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December1st.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December1st.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December1st.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December1st.svg) |
+| 2022, Friday, December 2nd | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December2nd.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December2nd.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December2nd.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December2nd.svg) |
+| 2022, Saturday, December 3rd | :x: | :x: |
+| 2022, Sunday, December 4th | :x: | :x: |
+| 2022, Monday, December 5th | :x: | :x: |
+| 2022, Tuesday, December 6th | :x: | :x: |
 
 Table incomplete
 
 | Unrecorded | Unrecorded | Unrecorded |
 |---|---|---|
-| 2022, November 16th | Coming soon | Coming soon |
-| 2022, November 17th | Coming soon | Coming soon |
-| 2022, November 18th | Coming soon | Coming soon |
-| 2022, November 19th | Coming soon | Coming soon |
-| 2022, November 20th | Coming soon | Coming soon |
-| 2022, November 21st | Coming soon | Coming soon |
-| 2022, November 22nd | Coming soon | Coming soon |
-| 2022, November 23rd | Coming soon | Coming soon |
-| 2022, November 24th | Coming soon | Coming soon |
-| 2022, November 25th | Coming soon | Coming soon |
-| 2022, November 26th | Coming soon | Coming soon |
-| 2022, November 27th | Coming soon | Coming soon |
-| 2022, November 28th | Coming soon | Coming soon |
-| 2022, November 29th | Coming soon | Coming soon |
-| 2022, November 30th | Coming soon | Coming soon |
-
+| 2022, Wednesday, December 7th | Coming soon | Coming soon |
+| 2022, Thursday, December 8th | Coming soon | Coming soon |
+| 2022, Friday, December 9th | Coming soon | Coming soon |
+| 2022, Saturday, December 10th | Coming soon | Coming soon |
+| 2022, Sunday, December 11th | Coming soon | Coming soon |
+| 2022, Monday, December 12th | Coming soon | Coming soon |
+| 2022, Tuesday, December 13th | Coming soon | Coming soon |
+| 2022, Wednesday, December 14th | Coming soon | Coming soon |
+| 2022, Thursday, December 15th | Coming soon | Coming soon |
+| 2022, Friday, December 16th | Coming soon | Coming soon |
+| 2022, Saturday, December 17th | Coming soon | Coming soon |
+| 2022, Sunday, December 18th | Coming soon | Coming soon |
+| 2022, Monday, December 19th | Coming soon | Coming soon |
+| 2022, Tuesday, December 20th | Coming soon | Coming soon |
+| 2022, Wednesday, December 21st | Coming soon | Coming soon |
+| 2022, Thursday, December 22nd | Coming soon | Coming soon |
+| 2022, Friday, December 23rd | Coming soon | Coming soon |
+| 2022, Saturday, December 24th | Coming soon | Coming soon |
+| 2022, Sunday, December 25th | Coming soon | Coming soon |
+| 2022, Monday, December 26th | Coming soon | Coming soon |
+| 2022, Tuesday, December 27th | Coming soon | Coming soon |
+| 2022, Wednesday, December 28th | Coming soon | Coming soon |
+| 2022, Thursday, December 29th | Coming soon | Coming soon |
+| 2022, Friday, December 30th | Coming soon | Coming soon |
+| 2022, Saturday, December 31st | Coming soon | Coming soon |
+<!-- | 2023, Sunday, January 1st | Coming soon | Coming soon | !-->
 
 #### File info
 
@@ -201,7 +236,7 @@ Table incomplete
 
 **File version:** `1 (2022, Tuesday, November 15th at 7:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `246`
+**Line count (including blank lines and compiler line):** `281`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
