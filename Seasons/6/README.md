@@ -257,7 +257,55 @@ I put the workflow runs into 26 categories:
 
 Today was a category 0 day.
 
-</details> <!-- 2022 December 5th !-->
+</details> <!-- 2022 December 6th !-->
+
+### 2022, Tuesday, December 6th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022, Tuesday, December 6th</b></p></summary>
+
+**2022, Tuesday, December 6th**
+
+The process ran unsuccessfully yet again today (4th consecutive day of failure) but it put up a goof fight, failing in 2 hours, 3 minutes, and 40 seconds. There were thousands of `aiohttp` errors today. I knew something was really off when there were nearly 2000 errors within the first 20 minutes. There was also a `AttributeError: 'NoneType' object has no attribute 'get'` error today as a cherry on top. This error is starting to become common. Additionally, the workflow had to back itself up before finishing, as something went really wrong at the end. <!-- There was a `size changed during iteration` error, which is the most common error I receive when the workflow runs unsuccessfully. !--> No repositories were scanned today. I feel it has done something similar to this in the past, and has bounced back. However, if there isn't a successful run by 2022, Friday, December 9th, I will contact the author of the workflow.
+
+I put the workflow runs into 27 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2400+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2400+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2400+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2400+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2400+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2400+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2400+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2400+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2400+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2400+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2400+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2400+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2400+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2400+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2400+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2400+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2400+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2400+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2400+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2400+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2400+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2400+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2400+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2400+ repositories scanned/indexed_
+- **Category 26:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 26:** `R2400` - _Major success, with 2300-2399 out of 2400+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2022 December 6th !-->
 
 </details> <!-- 2022 December !-->
 
@@ -317,7 +365,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, Saturday, December 3rd | :x: | :x: |
 | 2022, Sunday, December 4th | :x: | :x: |
 | 2022, Monday, December 5th | :x: | :x: |
-| 2022, Tuesday, December 6th | Coming soon | Coming soon |
+| 2022, Tuesday, December 6th | :x: | :x: |
 | 2022, Wednesday, December 7th | Coming soon | Coming soon |
 | 2022, Thursday, December 8th | Coming soon | Coming soon |
 | 2022, Friday, December 9th | Coming soon | Coming soon |
@@ -400,9 +448,9 @@ The access token for this project was renewed on 2022, December 1st. I am contin
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Monday, December 5th at 5:54 pm PST)`
+**File version:** `4 (2022, Tuesday, December 6th at 9:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `483`
+**Line count (including blank lines and compiler line):** `547`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -474,6 +522,22 @@ The access token for this project was renewed on 2022, December 1st. I am contin
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Tuesday, December 6th at 9:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/6/!OldVersions/README/English/USA/README_V4.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, Monday, December 6th
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 4
 
 </details>
 
