@@ -1,0 +1,30 @@
+2022-12-18T01:42:41.3707110Z ##[group]Run python3 --version
+2022-12-18T01:42:41.3707401Z [36;1mpython3 --version[0m
+2022-12-18T01:42:41.3707647Z [36;1mpython3 generate_images.py[0m
+2022-12-18T01:42:41.3760847Z shell: /usr/bin/bash -e {0}
+2022-12-18T01:42:41.3761079Z env:
+2022-12-18T01:42:41.3761355Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.15/x64
+2022-12-18T01:42:41.3761696Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.15/x64/lib
+2022-12-18T01:42:41.3762221Z   ACCESS_TOKEN: ***
+2022-12-18T01:42:41.3762565Z   GITHUB_TOKEN: ***
+2022-12-18T01:42:41.3762771Z   EXCLUDED: 
+2022-12-18T01:42:41.3762970Z   EXCLUDED_LANGS: 
+2022-12-18T01:42:41.3763190Z   EXCLUDE_FORKED_REPOS: true
+2022-12-18T01:42:41.3763414Z ##[endgroup]
+2022-12-18T01:42:41.3850028Z Python 3.8.15
+2022-12-18T01:43:11.0246351Z A path returned 202. Retrying...
+2022-12-18T01:43:11.0952625Z Traceback (most recent call last):
+2022-12-18T01:43:11.0961069Z   File "generate_images.py", line 136, in <module>
+2022-12-18T01:43:11.0961412Z     asyncio.run(main())
+2022-12-18T01:43:11.0961860Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-12-18T01:43:11.0962226Z     return loop.run_until_complete(main)
+2022-12-18T01:43:11.0962640Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-12-18T01:43:11.0962986Z     return future.result()
+2022-12-18T01:43:11.0963280Z   File "generate_images.py", line 132, in main
+2022-12-18T01:43:11.0963604Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-12-18T01:43:11.0963969Z   File "generate_images.py", line 42, in generate_overview
+2022-12-18T01:43:11.0964565Z     changed = (await s.lines_changed)[0] + (await s.lines_changed)[1]
+2022-12-18T01:43:11.0964986Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 486, in lines_changed
+2022-12-18T01:43:11.0965329Z     for repo in await self.repos:
+2022-12-18T01:43:11.0965609Z RuntimeError: Set changed size during iteration
+2022-12-18T01:43:11.1191431Z ##[error]Process completed with exit code 1.
