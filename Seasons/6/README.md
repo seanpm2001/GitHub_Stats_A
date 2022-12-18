@@ -12,6 +12,8 @@ This season starts with 2022, Thursday, December 1st. It is expected to last unt
 
 For this season, I have chosen a custom range, instead of a 30 day range. From now on, I plan to have the access token expire on the first day of each month.
 
+A large segment (well over half) of this season contains no data, as the workflow was not operating correctly this month.
+
 <!-- A large segment (well over half) of this season contains no data, due to my GitHub account being flagged for 23 days and counting. !-->
 
 ## Season 6 notes
@@ -787,6 +789,54 @@ Today was a category 12 day.
 
 </details> <!-- 2022 December 16th !-->
 
+### 2022, Saturday, December 17th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022, Saturday, December 17th</b></p></summary>
+
+**2022, Saturday, December 17th**
+
+The process ran unsuccessfully today, faling within 0 hours, 0 minutes and 54 seconds. <!-- There was a  `AttributeError: 'NoneType' object has no attribute 'get'` error today. This error is starting to become common and may surpass the `Size changed during iteration` error in terms of occurrence. !--> there was a `size changed during iteration` error today, which is the most common error I receive when the workflow runs unsuccessfully. The failure may have been my fault this time, as I was activly checking to see if the workload had started, and accidentally made a push about 3 seconds after it started, which may have caused the failure. There were no `aiohttp` errors today. No repositories were scanned today. For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate is still well over 50%
+
+I put the workflow runs into 27 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2400+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2400+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2400+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2400+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2400+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2400+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2400+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2400+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2400+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2400+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2400+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2400+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2400+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2400+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2400+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2400+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2400+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2400+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2400+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2400+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2400+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2400+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2400+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2400+ repositories scanned/indexed_
+- **Category 26:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 26:** `R2400` - _Major success, with 2300-2399 out of 2400+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2022 December 17th !-->
+
 </details> <!-- 2022 December !-->
 
 </details> <!-- Season 6 !-->
@@ -841,9 +891,9 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | Type rate | Count |
 |---|---|
 | Success rate (days) | `6` |
-| Failure rate (days) | `10` |
-| Overall success % | `37.50%` | 
-| Overall failure % | `62.50%` |
+| Failure rate (days) | `11` |
+| Overall success % | `35.30%` | 
+| Overall failure % | `64.70%` |
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -863,7 +913,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, Wednesday, December 14th | :x: | :x: |
 | 2022, Thursday, December 15th | :x: | :x: |
 | 2022, Friday, December 16th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December16th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December16th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December16th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December16th.svg) |
-| 2022, Saturday, December 17th | Coming soon | Coming soon |
+| 2022, Saturday, December 17th | :x: | :x: |
 | 2022, Sunday, December 18th | Coming soon | Coming soon |
 | 2022, Monday, December 19th | Coming soon | Coming soon |
 | 2022, Tuesday, December 20th | Coming soon | Coming soon |
@@ -935,9 +985,9 @@ The access token for this project was renewed on 2022, December 1st. I am contin
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2022, Friday, December 16th at 10:14 pm PST)`
+**File version:** `13 (2022, Saturday, December 17th at 6:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,171`
+**Line count (including blank lines and compiler line):** `1,240`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1162,6 +1212,25 @@ The access token for this project was renewed on 2022, December 1st. I am contin
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p lang="en"><b>Version 13 (2022, Saturday, December 17th at 6:19 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/6/!OldVersions/README/English/USA/README_V13.md)
+
+> Changes:
+
+- [x] Added an entry for 2022, Saturday, December 17th
+- [x] Updated the failure/success rate table for the month
+- - [ ] Current fail rate: 64.70%
+- - [ ] Current success rate: 35.30%
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 13
 
 </details>
 
