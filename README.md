@@ -1,7 +1,13 @@
 
 ***
 
-# [:octocat: GitHub Stats Visualization](https://github.com/jstrieb/github-stats/)
+| Developers | <img alt="GitHub Stats A Logo failed to load. Click/tap here to attempt to view it" src="/GitHub_Stats_A_Logo_V1.svg" width="256" height="256"/> | <img alt="Jstrieb profile picture failed to load. Click/tap here to attempt to view it" src="/Jstrieb___1.png" width="256" height="256"/> |
+|---|---|---|
+| Developers: | **[@seanpm2001](https://github.com/seanpm2001/)** | **[@jstrieb](https://github.com/jstrieb/)** |
+
+# [:octocat: GitHub Stats Visualization :octocat:](https://github.com/jstrieb/github-stats/)
+
+# :octocat: *[GitHub Stats A](https://github.com/seanpm2001/GitHub_Stats_A/)* :octocat:
 
 <!--
 # [`GitHub Stats Visualization`](https://github.com/jstrieb/github-stats/)
@@ -33,6 +39,12 @@ This project is a modified forked version by [`@seanpm2001`](https://github.com/
 You can support the upstream development by [`clicking/tapping here`](https://github.com/jstrieb/github-stats/)
 
 This project contains past archives of generated images. You can view them [`here`](/Archives/)
+
+An SVG compilation is available [`here`](/SVG_Compilation/)
+
+Additionally, error logs are included. You can view them [`here`](/ErrorLog/)
+
+Data is divided into seasons. You can view them [`here`](/Seasons/)
 
 ## Background
 
@@ -180,11 +192,11 @@ releasing work publicly on the Web.
 
 **Forked from:** [`jstrieb/github-stats`](https://github.com/jstrieb/github-stats/) so the version may not be exact
 
-**SPM version:** `2.0 (2022, Monday, June 13th at 2:48 pm PST)`
+**SPM version:** `3.0 (2022, Sunday, December 18th at 8:25 pm PST)`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `216`
+**Line count (including blank lines and compiler line):** `243`
 
 **Current article language:** `English (USA)`
 
@@ -209,6 +221,21 @@ releasing work publicly on the Web.
 - [x] Added the file info section
 - [x] Added the file history section
 - [ ] No other changes in version SPM 2.0
+
+</details>
+
+<details><summary><b lang="En">SPM 3.0 (2022, Sunday, December 18th at 8:25 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> Changes
+
+- [x] Updated the title section
+- - [x] Added a developer box
+- [x] Updated the description on my modifications
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version SPM 3.0
 
 </details>
 
