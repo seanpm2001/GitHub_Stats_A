@@ -16,6 +16,12 @@ A large segment (well over half) of this season contains no data, as the workflo
 
 <!-- A large segment (well over half) of this season contains no data, due to my GitHub account being flagged for 23 days and counting. !-->
 
+**MISC NOTES for 2022, December 22nd**
+
+*Update the main README to turn everything into a dropdown, including the developers table, and the stats images*
+
+*I would do it today, but I feel like 1 README update per day is good enough*
+
 ## Season 6 notes
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the Season 6 notes section</b></p></summary>
@@ -991,6 +997,56 @@ Today was a category 11 day.
 
 </details> <!-- 2022 December 20th !-->
 
+### 2022, Wednesday, December 21st
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2022, Wednesday, December 21st</b></p></summary>
+
+**2022, Wednesday, December 21st**
+
+The process ran unsuccessfully today, breaking a 3 day success streak. The process failed within 0 hours, 1 minutes and 14 seconds. There was a  `AttributeError: 'NoneType' object has no attribute 'get'` error today. This error is starting to become common and may surpass the `Size changed during iteration` error in terms of occurrence. <!-- there was a `size changed during iteration` error today, which is the most common error I receive when the workflow runs unsuccessfully. The failure may have been my fault this time, as I was slightly busy at the time that the workflow started. !--> There were no `aiohttp` errors today. No repositories were scanned today. <!-- Assembly has surpassed Java for the top 10 slots on off days, due to usage in recent Android x64 development. Today for some reason, all 3 of the recent languages that have been increasing in use (Java, Assembly, and JSON) all appeared on the list, additionally, Ruby also appeared on the list. SVG usage has been stressing me out for a while, and I don't know how to fix it. There is a chance it may overtake both HTML and Python on both on and off days by late 2023 or 2024.!-->
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate is still well over 50%
+
+I put the workflow runs into 27 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2400+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2400+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2400+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2400+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2400+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2400+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2400+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2400+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2400+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2400+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2400+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2400+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2400+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2400+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2400+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2400+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2400+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2400+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2400+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2400+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2400+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2400+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2400+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2400+ repositories scanned/indexed_
+- **Category 26:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 26:** `R2400` - _Major success, with 2300-2399 out of 2400+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2022 December 21st !-->
+
 </details> <!-- 2022 December !-->
 
 </details> <!-- Season 6 !-->
@@ -1045,9 +1101,9 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | Type rate | Count |
 |---|---|
 | Success rate (days) | `9` |
-| Failure rate (days) | `11` |
-| Overall success % | `45.00%` | 
-| Overall failure % | `55.00%` |
+| Failure rate (days) | `12` |
+| Overall success % | `42.86%` | 
+| Overall failure % | `57.14%` |
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -1071,7 +1127,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2022, Sunday, December 18th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December18th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December18th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December18th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December18th.svg) |
 | 2022, Monday, December 19th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December19th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December19th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December19th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December19th.svg) |
 | 2022, Tuesday, December 20th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December20th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December20th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December20th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December20th.svg) |
-| 2022, Wednesday, December 21st | Coming soon | Coming soon |
+| 2022, Wednesday, December 21st | :x: | :x: |
 | 2022, Thursday, December 22nd | Coming soon | Coming soon |
 | 2022, Friday, December 23rd | Coming soon | Coming soon |
 | 2022, Saturday, December 24th | Coming soon | Coming soon |
@@ -1139,9 +1195,9 @@ The access token for this project was renewed on 2022, December 1st. I am contin
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2022, Tuesday, December 20th at 7:29 pm PST)`
+**File version:** `17 (2022, Wednesday, December 21st at 5:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,452`
+**Line count (including blank lines and compiler line):** `1,528`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1443,6 +1499,26 @@ The access token for this project was renewed on 2022, December 1st. I am contin
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><p lang="en"><b>Version 17 (2022, Wednesday, December 21st at 5:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/6/!OldVersions/README/English/USA/README_V17.md)
+
+> Changes:
+
+- [x] Added some miscellaneous notes for project development for tomorrow
+- [x] Added an entry for 2022, Wednesday, December 21st
+- [x] Updated the failure/success rate table for the month
+- - [ ] Current fail rate: 57.14%
+- - [ ] Current success rate: 42.86%
+- [x] Updated the main table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 17
 
 </details>
 
