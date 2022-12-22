@@ -5,9 +5,7 @@
 |---|---|---|
 | Developers: | **[@seanpm2001](https://github.com/seanpm2001/)** | **[@jstrieb](https://github.com/jstrieb/)** |
 
-# [:octocat: GitHub Stats Visualization :octocat:](https://github.com/jstrieb/github-stats/)
-
-# :octocat: *[GitHub Stats A](https://github.com/seanpm2001/GitHub_Stats_A/)* :octocat:
+# [:octocat: GitHub Stats Visualization](https://github.com/jstrieb/github-stats/) / *[GitHub Stats A](https://github.com/seanpm2001/GitHub_Stats_A/)* :octocat:
 
 <!--
 # [`GitHub Stats Visualization`](https://github.com/jstrieb/github-stats/)
@@ -34,17 +32,13 @@ dark theme.
 
 ## About this project
 
-This project is a modified forked version by [`@seanpm2001`](https://github.com/seanpm2001/)
-
-You can support the upstream development by [`clicking/tapping here`](https://github.com/jstrieb/github-stats/)
-
-This project contains past archives of generated images. You can view them [`here`](/Archives/)
-
-An SVG compilation is available [`here`](/SVG_Compilation/)
-
-Additionally, error logs are included. You can view them [`here`](/ErrorLog/)
-
-Data is divided into seasons. You can view them [`here`](/Seasons/)
+1. This project is a modified forked version by [`@seanpm2001`](https://github.com/seanpm2001/)
+2. You can support the upstream development by [`clicking/tapping here`](https://github.com/jstrieb/github-stats/)
+3. This project contains past archives of generated images. You can view them [`here`](/Archives/)
+4. An SVG compilation is available [`here`](/SVG_Compilation/)
+5. Additionally, error logs are included. You can view them [`here`](/ErrorLog/)
+6. Data is divided into seasons. You can view them [`here`](/Seasons/)
+7. For additional information, you can read this projects documentation [`here`](/Docs/)
 
 ## Background
 
@@ -192,11 +186,11 @@ releasing work publicly on the Web.
 
 **Forked from:** [`jstrieb/github-stats`](https://github.com/jstrieb/github-stats/) so the version may not be exact
 
-**SPM version:** `3.0 (2022, Sunday, December 18th at 8:25 pm PST)`
+**SPM version:** `4.0 (2022, Wednesday, December 21st at 5:28 pm PST)`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `243`
+**Line count (including blank lines and compiler line):** `262`
 
 **Current article language:** `English (USA)`
 
@@ -207,7 +201,9 @@ releasing work publicly on the Web.
 | ⚠️ Versions before SPM 2.0 are from the source repository, and have not yet been documented |
 |---|
 
-<details><summary><b lang="En">SPM 2.0 (2022, Monday, June 13th at 2:48 pm PST)</b></summary>
+<details><summary><p><b lang="en">Click/tap here to expand/collapse the version history for this project</b></p></summary>
+
+<details><summary><p><b lang="En">SPM 2.0 (2022, Monday, June 13th at 2:48 pm PST)</b></p></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -224,7 +220,7 @@ releasing work publicly on the Web.
 
 </details>
 
-<details><summary><b lang="En">SPM 3.0 (2022, Sunday, December 18th at 8:25 pm PST)</b></summary>
+<details><summary><p><b lang="En">SPM 3.0 (2022, Sunday, December 18th at 8:25 pm PST)</b></p></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -236,6 +232,29 @@ releasing work publicly on the Web.
 - [x] Updated the file info section
 - [x] Updated the file history section
 - [ ] No other changes in version SPM 3.0
+
+</details>
+
+
+<details><summary><p><b lang="En">SPM 4.0 (2022, Wednesday, December 21st at 5:28 pm PST)</b></p></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> Changes
+
+- [x] Updated the title section to merge the 2 project names into 1 heading
+- [x] Updated the description on my modifications
+- - [x] Added a link to the docs
+- - [x] Converted the section into a numbered list
+- [x] Updated the file info section
+- [x] Updated the line count
+- - [x] Updated the version number
+- [x] Updated the file history section
+- - [x] Made the majority of the section into a dropdown section
+- - [x] Added an entry for version SPM 4.0
+- [ ] No other changes in version SPM 4.0
+
+</details>
 
 </details>
 
