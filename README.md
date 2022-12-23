@@ -1,9 +1,13 @@
 
 ***
 
+<details open><summary><p><b>Click/tap here to expand/collapse the developer table</b></p></summary>
+
 | Developers | <img alt="GitHub Stats A Logo failed to load. Click/tap here to attempt to view it" src="/GitHub_Stats_A_Logo_V1.svg" width="256" height="256"/> | <img alt="Jstrieb profile picture failed to load. Click/tap here to attempt to view it" src="/Jstrieb___1.png" width="256" height="256"/> |
 |---|---|---|
 | Developers: | **[@seanpm2001](https://github.com/seanpm2001/)** | **[@jstrieb](https://github.com/jstrieb/)** |
+
+</details>
 
 # [:octocat: GitHub Stats Visualization](https://github.com/jstrieb/github-stats/) / *[GitHub Stats A](https://github.com/seanpm2001/GitHub_Stats_A/)* :octocat:
 
@@ -11,17 +15,28 @@
 # [`GitHub Stats Visualization`](https://github.com/jstrieb/github-stats/)
 !-->
 
+<details open><summary><p><b>Click/tap here to expand/collapse workflow badges</b></p></summary>
+
 [![Generate Stats Images](https://github.com/seanpm2001/GitHub_Stats_A/actions/workflows/main.yml/badge.svg)](https://github.com/seanpm2001/GitHub_Stats_A/actions/workflows/main.yml)
+
+</details>
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
+
+<details open><summary><p><b>Click/tap here to expand/collapse the current stable workflow images</b></p></summary>
+
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
+
+</details>
+
+<details open><summary><p><b>Click/tap here to expand/collapse the lead section</b></p></summary>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
 Actions. Visualizations can include data for both private repositories, and for
@@ -30,7 +45,11 @@ repositories you have contributed to, but do not own.
 Generated images automatically switch between GitHub light theme and GitHub
 dark theme.
 
+</details>
+
 ## About this project
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 1. This project is a modified forked version by [`@seanpm2001`](https://github.com/seanpm2001/)
 2. You can support the upstream development by [`clicking/tapping here`](https://github.com/jstrieb/github-stats/)
@@ -40,7 +59,11 @@ dark theme.
 6. Data is divided into seasons. You can view them [`here`](/Seasons/)
 7. For additional information, you can read this projects documentation [`here`](/Docs/)
 
+</details>
+
 ## Background
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 When someone views a profile on GitHub, it is often because they are curious
 about a user's open source projects and contributions. Unfortunately, that
@@ -60,7 +83,11 @@ the analysis code themselves via GitHub Actions, they can use their GitHub
 access token to collect statistics on private repositories that an external
 service would be unable to access.
 
+</details>
+
 ## Disclaimer
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 If the project is used with an access token that has sufficient permissions to
 read private repositories, it may leak details about those repositories in
@@ -83,11 +110,13 @@ For more information on inaccuracies, see issue
 [#3](https://github.com/jstrieb/github-stats/issues/3), and
 [#13](https://github.com/jstrieb/github-stats/issues/13).
 
+</details>
+
 # Installation
 
 <!-- TODO: Add details and screenshots -->
 
-<details><summary><b lang="en">Click/tap here to expand/collapse this section</b></summary>
+<details open><summary><b lang="en">Click/tap here to expand/collapse this section</b></summary>
 
 1. Create a personal access token (not the default GitHub Actions token) using
    the instructions
@@ -152,6 +181,8 @@ For more information on inaccuracies, see issue
 
 # Support the Project
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 There are a few things you can do to support the project:
 
 - Star the repository (and follow me on GitHub for more)
@@ -172,27 +203,36 @@ releasing work publicly on the Web.
 - [Mozilla](https://donate.mozilla.org/en-US/)
 - [The Internet Archive](https://archive.org/donate/index.php)
 
+</details>
 
 # Related Projects
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 - Inspired by a desire to improve upon
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
 
+</details>
+
 ***
 
 ## File info
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 **Forked from:** [`jstrieb/github-stats`](https://github.com/jstrieb/github-stats/) so the version may not be exact
 
-**SPM version:** `4.0 (2022, Wednesday, December 21st at 5:28 pm PST)`
+**SPM version:** `5.0 (2022, Thursday, December 22nd at 7:56 pm PST)`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `262`
+**Line count (including blank lines and compiler line):** `318`
 
 **Current article language:** `English (USA)`
+
+</details>
 
 ***
 
@@ -203,7 +243,7 @@ releasing work publicly on the Web.
 
 <details><summary><p><b lang="en">Click/tap here to expand/collapse the version history for this project</b></p></summary>
 
-<details><summary><p><b lang="En">SPM 2.0 (2022, Monday, June 13th at 2:48 pm PST)</b></p></summary>
+<details><summary><p><b lang="en">SPM 2.0 (2022, Monday, June 13th at 2:48 pm PST)</b></p></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -220,7 +260,7 @@ releasing work publicly on the Web.
 
 </details>
 
-<details><summary><p><b lang="En">SPM 3.0 (2022, Sunday, December 18th at 8:25 pm PST)</b></p></summary>
+<details><summary><p><b lang="en">SPM 3.0 (2022, Sunday, December 18th at 8:25 pm PST)</b></p></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -235,8 +275,7 @@ releasing work publicly on the Web.
 
 </details>
 
-
-<details><summary><p><b lang="En">SPM 4.0 (2022, Wednesday, December 21st at 5:28 pm PST)</b></p></summary>
+<details><summary><p><b lang="en">SPM 4.0 (2022, Wednesday, December 21st at 5:28 pm PST)</b></p></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -253,6 +292,23 @@ releasing work publicly on the Web.
 - - [x] Made the majority of the section into a dropdown section
 - - [x] Added an entry for version SPM 4.0
 - [ ] No other changes in version SPM 4.0
+
+</details>
+
+<details><summary><p><b lang="en">SPM 5.0 (2022, Thursday, December 22nd at 7:56 pm PST)</b></p></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> Changes
+
+- [x] Turned every section into a dropdowns section
+- [x] Unhid the installation section by default
+- [x] Updated the file info section
+- [x] Updated the line count
+- - [x] Updated the version number
+- [x] Updated the file history section
+- - [x] Added an entry for version SPM 5.0
+- [ ] No other changes in version SPM 5.0
 
 </details>
 
