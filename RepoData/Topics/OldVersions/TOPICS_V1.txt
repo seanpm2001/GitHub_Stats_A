@@ -1,0 +1,15 @@
+github
+python
+github-api
+statistics
+gplv3
+stats
+github-profile
+py
+md
+txt
+gpl3
+github-stats
+seanpm2001
+seanpm2001-stats
+github-stats-a
