@@ -1,0 +1,657 @@
+2022-12-31T01:26:37.5452763Z Requested labels: ubuntu-latest
+2022-12-31T01:26:37.5452804Z Job defined at: seanpm2001/GitHub_Stats_A/.github/workflows/main.yml@refs/heads/master
+2022-12-31T01:26:37.5452833Z Waiting for a runner to pick up this job...
+2022-12-31T01:26:38.0673873Z Job is waiting for a hosted runner to come online.
+2022-12-31T01:26:43.3968039Z Job is about to start running on the hosted runner: Hosted Agent (hosted)
+2022-12-31T01:26:48.6520429Z Current runner version: '2.299.1'
+2022-12-31T01:26:48.6553727Z ##[group]Operating System
+2022-12-31T01:26:48.6554350Z Ubuntu
+2022-12-31T01:26:48.6554632Z 22.04.1
+2022-12-31T01:26:48.6555042Z LTS
+2022-12-31T01:26:48.6555369Z ##[endgroup]
+2022-12-31T01:26:48.6555661Z ##[group]Runner Image
+2022-12-31T01:26:48.6556048Z Image: ubuntu-22.04
+2022-12-31T01:26:48.6556440Z Version: 20221212.1
+2022-12-31T01:26:48.6556985Z Included Software: https://github.com/actions/runner-images/blob/ubuntu22/20221212.1/images/linux/Ubuntu2204-Readme.md
+2022-12-31T01:26:48.6557621Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20221212.1
+2022-12-31T01:26:48.6558093Z ##[endgroup]
+2022-12-31T01:26:48.6558468Z ##[group]Runner Image Provisioner
+2022-12-31T01:26:48.6558871Z 2.0.91.1
+2022-12-31T01:26:48.6559164Z ##[endgroup]
+2022-12-31T01:26:48.6559905Z ##[group]GITHUB_TOKEN Permissions
+2022-12-31T01:26:48.6560543Z Contents: write
+2022-12-31T01:26:48.6560966Z Metadata: read
+2022-12-31T01:26:48.6561422Z ##[endgroup]
+2022-12-31T01:26:48.6565488Z Secret source: Actions
+2022-12-31T01:26:48.6566160Z Prepare workflow directory
+2022-12-31T01:26:48.7496319Z Prepare all required actions
+2022-12-31T01:26:48.7715984Z Getting action download info
+2022-12-31T01:26:49.0792965Z Download action repository 'actions/checkout@v2' (SHA:dc323e67f16fb5f7663d20ff7941f27f5809e9b6)
+2022-12-31T01:26:49.7272678Z Download action repository 'actions/setup-python@v2' (SHA:75f3110429a8c05be0e1bf360334e4cced2b63fa)
+2022-12-31T01:26:50.2724844Z Download action repository 'actions/cache@v2' (SHA:937d24475381cd9c75ae6db12cb4e79714b926ed)
+2022-12-31T01:26:51.0476654Z ##[group]Run actions/checkout@v2
+2022-12-31T01:26:51.0476983Z with:
+2022-12-31T01:26:51.0477222Z   repository: seanpm2001/GitHub_Stats_A
+2022-12-31T01:26:51.0477691Z   token: ***
+2022-12-31T01:26:51.0477899Z   ssh-strict: true
+2022-12-31T01:26:51.0478143Z   persist-credentials: true
+2022-12-31T01:26:51.0478377Z   clean: true
+2022-12-31T01:26:51.0478695Z   fetch-depth: 1
+2022-12-31T01:26:51.0478921Z   lfs: false
+2022-12-31T01:26:51.0479358Z   submodules: false
+2022-12-31T01:26:51.0479580Z   set-safe-directory: true
+2022-12-31T01:26:51.0479791Z ##[endgroup]
+2022-12-31T01:26:51.4128621Z Syncing repository: seanpm2001/GitHub_Stats_A
+2022-12-31T01:26:51.4130857Z ##[group]Getting Git version info
+2022-12-31T01:26:51.4131434Z Working directory is '/home/runner/work/GitHub_Stats_A/GitHub_Stats_A'
+2022-12-31T01:26:51.4132015Z [command]/usr/bin/git version
+2022-12-31T01:26:51.4268411Z git version 2.38.2
+2022-12-31T01:26:51.4308253Z ##[endgroup]
+2022-12-31T01:26:51.4334782Z Temporarily overriding HOME='/home/runner/work/_temp/61c3bacf-3e3a-41ef-b5bc-0259a960029c' before making global git config changes
+2022-12-31T01:26:51.4335347Z Adding repository directory to the temporary git global config as a safe directory
+2022-12-31T01:26:51.4335970Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/GitHub_Stats_A/GitHub_Stats_A
+2022-12-31T01:26:51.4401051Z Deleting the contents of '/home/runner/work/GitHub_Stats_A/GitHub_Stats_A'
+2022-12-31T01:26:51.4407296Z ##[group]Initializing the repository
+2022-12-31T01:26:51.4411708Z [command]/usr/bin/git init /home/runner/work/GitHub_Stats_A/GitHub_Stats_A
+2022-12-31T01:26:51.4547799Z hint: Using 'master' as the name for the initial branch. This default branch name
+2022-12-31T01:26:51.4548856Z hint: is subject to change. To configure the initial branch name to use in all
+2022-12-31T01:26:51.4549746Z hint: of your new repositories, which will suppress this warning, call:
+2022-12-31T01:26:51.4550178Z hint: 
+2022-12-31T01:26:51.4550776Z hint: 	git config --global init.defaultBranch <name>
+2022-12-31T01:26:51.4551074Z hint: 
+2022-12-31T01:26:51.4551462Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+2022-12-31T01:26:51.4551979Z hint: 'development'. The just-created branch can be renamed via this command:
+2022-12-31T01:26:51.4552293Z hint: 
+2022-12-31T01:26:51.4552570Z hint: 	git branch -m <name>
+2022-12-31T01:26:51.4579331Z Initialized empty Git repository in /home/runner/work/GitHub_Stats_A/GitHub_Stats_A/.git/
+2022-12-31T01:26:51.4589010Z [command]/usr/bin/git remote add origin https://github.com/seanpm2001/GitHub_Stats_A
+2022-12-31T01:26:51.4643426Z ##[endgroup]
+2022-12-31T01:26:51.4644399Z ##[group]Disabling automatic garbage collection
+2022-12-31T01:26:51.4649549Z [command]/usr/bin/git config --local gc.auto 0
+2022-12-31T01:26:51.4690251Z ##[endgroup]
+2022-12-31T01:26:51.4691372Z ##[group]Setting up auth
+2022-12-31T01:26:51.4702534Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2022-12-31T01:26:51.4742184Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2022-12-31T01:26:51.5203539Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2022-12-31T01:26:51.5243533Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2022-12-31T01:26:51.5508972Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2022-12-31T01:26:51.5578364Z ##[endgroup]
+2022-12-31T01:26:51.5579280Z ##[group]Fetching the repository
+2022-12-31T01:26:51.5588806Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --progress --no-recurse-submodules --depth=1 origin +ec89be2f5bb5f17f6fcd4e34ce25091528bdc0cf:refs/remotes/origin/master
+2022-12-31T01:26:52.0091186Z remote: Enumerating objects: 3000, done.        
+2022-12-31T01:26:52.0098284Z remote: Counting objects:   0% (1/3000)        
+2022-12-31T01:26:52.0098612Z remote: Counting objects:   1% (30/3000)        
+2022-12-31T01:26:52.0098907Z remote: Counting objects:   2% (60/3000)        
+2022-12-31T01:26:52.0099200Z remote: Counting objects:   3% (90/3000)        
+2022-12-31T01:26:52.0099608Z remote: Counting objects:   4% (120/3000)        
+2022-12-31T01:26:52.0100013Z remote: Counting objects:   5% (150/3000)        
+2022-12-31T01:26:52.0100297Z remote: Counting objects:   6% (180/3000)        
+2022-12-31T01:26:52.0100577Z remote: Counting objects:   7% (210/3000)        
+2022-12-31T01:26:52.0100850Z remote: Counting objects:   8% (240/3000)        
+2022-12-31T01:26:52.0101112Z remote: Counting objects:   9% (270/3000)        
+2022-12-31T01:26:52.0105480Z remote: Counting objects:  10% (300/3000)        
+2022-12-31T01:26:52.0105813Z remote: Counting objects:  11% (330/3000)        
+2022-12-31T01:26:52.0106112Z remote: Counting objects:  12% (360/3000)        
+2022-12-31T01:26:52.0106407Z remote: Counting objects:  13% (390/3000)        
+2022-12-31T01:26:52.0106691Z remote: Counting objects:  14% (420/3000)        
+2022-12-31T01:26:52.0106981Z remote: Counting objects:  15% (450/3000)        
+2022-12-31T01:26:52.0107272Z remote: Counting objects:  16% (480/3000)        
+2022-12-31T01:26:52.0107569Z remote: Counting objects:  17% (510/3000)        
+2022-12-31T01:26:52.0107849Z remote: Counting objects:  18% (540/3000)        
+2022-12-31T01:26:52.0108241Z remote: Counting objects:  19% (570/3000)        
+2022-12-31T01:26:52.0108801Z remote: Counting objects:  20% (600/3000)        
+2022-12-31T01:26:52.0109182Z remote: Counting objects:  21% (630/3000)        
+2022-12-31T01:26:52.0109441Z remote: Counting objects:  22% (660/3000)        
+2022-12-31T01:26:52.0109712Z remote: Counting objects:  23% (690/3000)        
+2022-12-31T01:26:52.0109987Z remote: Counting objects:  24% (720/3000)        
+2022-12-31T01:26:52.0110263Z remote: Counting objects:  25% (750/3000)        
+2022-12-31T01:26:52.0110525Z remote: Counting objects:  26% (780/3000)        
+2022-12-31T01:26:52.0110798Z remote: Counting objects:  27% (810/3000)        
+2022-12-31T01:26:52.0111080Z remote: Counting objects:  28% (840/3000)        
+2022-12-31T01:26:52.0111353Z remote: Counting objects:  29% (870/3000)        
+2022-12-31T01:26:52.0111994Z remote: Counting objects:  30% (900/3000)        
+2022-12-31T01:26:52.0112360Z remote: Counting objects:  31% (930/3000)        
+2022-12-31T01:26:52.0112615Z remote: Counting objects:  32% (960/3000)        
+2022-12-31T01:26:52.0112871Z remote: Counting objects:  33% (990/3000)        
+2022-12-31T01:26:52.0116012Z remote: Counting objects:  34% (1020/3000)        
+2022-12-31T01:26:52.0116281Z remote: Counting objects:  35% (1050/3000)        
+2022-12-31T01:26:52.0116548Z remote: Counting objects:  36% (1080/3000)        
+2022-12-31T01:26:52.0116823Z remote: Counting objects:  37% (1110/3000)        
+2022-12-31T01:26:52.0117083Z remote: Counting objects:  38% (1140/3000)        
+2022-12-31T01:26:52.0117328Z remote: Counting objects:  39% (1170/3000)        
+2022-12-31T01:26:52.0117588Z remote: Counting objects:  40% (1200/3000)        
+2022-12-31T01:26:52.0117852Z remote: Counting objects:  41% (1230/3000)        
+2022-12-31T01:26:52.0118111Z remote: Counting objects:  42% (1260/3000)        
+2022-12-31T01:26:52.0316070Z remote: Counting objects:  43% (1290/3000)        
+2022-12-31T01:26:52.0316379Z remote: Counting objects:  44% (1320/3000)        
+2022-12-31T01:26:52.0316667Z remote: Counting objects:  45% (1350/3000)        
+2022-12-31T01:26:52.0317526Z remote: Counting objects:  46% (1380/3000)        
+2022-12-31T01:26:52.0317860Z remote: Counting objects:  47% (1410/3000)        
+2022-12-31T01:26:52.0318144Z remote: Counting objects:  48% (1440/3000)        
+2022-12-31T01:26:52.0318442Z remote: Counting objects:  49% (1470/3000)        
+2022-12-31T01:26:52.0319005Z remote: Counting objects:  50% (1500/3000)        
+2022-12-31T01:26:52.0319329Z remote: Counting objects:  51% (1530/3000)        
+2022-12-31T01:26:52.0319611Z remote: Counting objects:  52% (1560/3000)        
+2022-12-31T01:26:52.0319904Z remote: Counting objects:  53% (1590/3000)        
+2022-12-31T01:26:52.0320202Z remote: Counting objects:  54% (1620/3000)        
+2022-12-31T01:26:52.0320618Z remote: Counting objects:  55% (1650/3000)        
+2022-12-31T01:26:52.0320887Z remote: Counting objects:  56% (1680/3000)        
+2022-12-31T01:26:52.0321162Z remote: Counting objects:  57% (1710/3000)        
+2022-12-31T01:26:52.0321438Z remote: Counting objects:  58% (1740/3000)        
+2022-12-31T01:26:52.0321711Z remote: Counting objects:  59% (1770/3000)        
+2022-12-31T01:26:52.0321984Z remote: Counting objects:  60% (1800/3000)        
+2022-12-31T01:26:52.0322243Z remote: Counting objects:  61% (1830/3000)        
+2022-12-31T01:26:52.0322624Z remote: Counting objects:  62% (1860/3000)        
+2022-12-31T01:26:52.0322995Z remote: Counting objects:  63% (1890/3000)        
+2022-12-31T01:26:52.0323557Z remote: Counting objects:  64% (1920/3000)        
+2022-12-31T01:26:52.0323905Z remote: Counting objects:  65% (1950/3000)        
+2022-12-31T01:26:52.0324234Z remote: Counting objects:  66% (1980/3000)        
+2022-12-31T01:26:52.0324515Z remote: Counting objects:  67% (2010/3000)        
+2022-12-31T01:26:52.0324858Z remote: Counting objects:  68% (2040/3000)        
+2022-12-31T01:26:52.0325245Z remote: Counting objects:  69% (2070/3000)        
+2022-12-31T01:26:52.0325703Z remote: Counting objects:  70% (2100/3000)        
+2022-12-31T01:26:52.0326071Z remote: Counting objects:  71% (2130/3000)        
+2022-12-31T01:26:52.0326500Z remote: Counting objects:  72% (2160/3000)        
+2022-12-31T01:26:52.0326903Z remote: Counting objects:  73% (2190/3000)        
+2022-12-31T01:26:52.0327272Z remote: Counting objects:  74% (2220/3000)        
+2022-12-31T01:26:52.0327633Z remote: Counting objects:  75% (2250/3000)        
+2022-12-31T01:26:52.0327967Z remote: Counting objects:  76% (2280/3000)        
+2022-12-31T01:26:52.0328448Z remote: Counting objects:  77% (2310/3000)        
+2022-12-31T01:26:52.0328839Z remote: Counting objects:  78% (2340/3000)        
+2022-12-31T01:26:52.0329190Z remote: Counting objects:  79% (2370/3000)        
+2022-12-31T01:26:52.0329611Z remote: Counting objects:  80% (2400/3000)        
+2022-12-31T01:26:52.0330079Z remote: Counting objects:  81% (2430/3000)        
+2022-12-31T01:26:52.0330454Z remote: Counting objects:  82% (2460/3000)        
+2022-12-31T01:26:52.0330787Z remote: Counting objects:  83% (2490/3000)        
+2022-12-31T01:26:52.0331086Z remote: Counting objects:  84% (2520/3000)        
+2022-12-31T01:26:52.0331416Z remote: Counting objects:  85% (2550/3000)        
+2022-12-31T01:26:52.0331743Z remote: Counting objects:  86% (2580/3000)        
+2022-12-31T01:26:52.0332116Z remote: Counting objects:  87% (2610/3000)        
+2022-12-31T01:26:52.0333043Z remote: Counting objects:  88% (2640/3000)        
+2022-12-31T01:26:52.0333460Z remote: Counting objects:  89% (2670/3000)        
+2022-12-31T01:26:52.0334044Z remote: Counting objects:  90% (2700/3000)        
+2022-12-31T01:26:52.0334525Z remote: Counting objects:  91% (2730/3000)        
+2022-12-31T01:26:52.0334858Z remote: Counting objects:  92% (2760/3000)        
+2022-12-31T01:26:52.0335250Z remote: Counting objects:  93% (2790/3000)        
+2022-12-31T01:26:52.0335633Z remote: Counting objects:  94% (2820/3000)        
+2022-12-31T01:26:52.0336120Z remote: Counting objects:  95% (2850/3000)        
+2022-12-31T01:26:52.0336462Z remote: Counting objects:  96% (2880/3000)        
+2022-12-31T01:26:52.0336830Z remote: Counting objects:  97% (2910/3000)        
+2022-12-31T01:26:52.0337201Z remote: Counting objects:  98% (2940/3000)        
+2022-12-31T01:26:52.0337550Z remote: Counting objects:  99% (2970/3000)        
+2022-12-31T01:26:52.0337936Z remote: Counting objects: 100% (3000/3000)        
+2022-12-31T01:26:52.0338415Z remote: Counting objects: 100% (3000/3000), done.        
+2022-12-31T01:26:52.0338928Z remote: Compressing objects:   0% (1/1052)        
+2022-12-31T01:26:52.0488988Z remote: Compressing objects:   1% (11/1052)        
+2022-12-31T01:26:52.0489853Z remote: Compressing objects:   2% (22/1052)        
+2022-12-31T01:26:52.0494506Z remote: Compressing objects:   3% (32/1052)        
+2022-12-31T01:26:52.0494891Z remote: Compressing objects:   4% (43/1052)        
+2022-12-31T01:26:52.0495307Z remote: Compressing objects:   5% (53/1052)        
+2022-12-31T01:26:52.0495724Z remote: Compressing objects:   6% (64/1052)        
+2022-12-31T01:26:52.0496215Z remote: Compressing objects:   7% (74/1052)        
+2022-12-31T01:26:52.0496794Z remote: Compressing objects:   8% (85/1052)        
+2022-12-31T01:26:52.0497163Z remote: Compressing objects:   9% (95/1052)        
+2022-12-31T01:26:52.0497537Z remote: Compressing objects:  10% (106/1052)        
+2022-12-31T01:26:52.0498017Z remote: Compressing objects:  11% (116/1052)        
+2022-12-31T01:26:52.0498374Z remote: Compressing objects:  12% (127/1052)        
+2022-12-31T01:26:52.0498763Z remote: Compressing objects:  13% (137/1052)        
+2022-12-31T01:26:52.0499107Z remote: Compressing objects:  14% (148/1052)        
+2022-12-31T01:26:52.0499465Z remote: Compressing objects:  15% (158/1052)        
+2022-12-31T01:26:52.0499765Z remote: Compressing objects:  16% (169/1052)        
+2022-12-31T01:26:52.0500159Z remote: Compressing objects:  17% (179/1052)        
+2022-12-31T01:26:52.0500508Z remote: Compressing objects:  18% (190/1052)        
+2022-12-31T01:26:52.0500868Z remote: Compressing objects:  19% (200/1052)        
+2022-12-31T01:26:52.0501289Z remote: Compressing objects:  20% (211/1052)        
+2022-12-31T01:26:52.0501693Z remote: Compressing objects:  21% (221/1052)        
+2022-12-31T01:26:52.0502067Z remote: Compressing objects:  22% (232/1052)        
+2022-12-31T01:26:52.0556974Z remote: Compressing objects:  23% (242/1052)        
+2022-12-31T01:26:52.0649379Z remote: Compressing objects:  24% (253/1052)        
+2022-12-31T01:26:52.0714683Z remote: Compressing objects:  25% (263/1052)        
+2022-12-31T01:26:52.0819667Z remote: Compressing objects:  26% (274/1052)        
+2022-12-31T01:26:52.0989572Z remote: Compressing objects:  27% (285/1052)        
+2022-12-31T01:26:52.1148340Z remote: Compressing objects:  28% (295/1052)        
+2022-12-31T01:26:52.1286370Z remote: Compressing objects:  29% (306/1052)        
+2022-12-31T01:26:52.1399826Z remote: Compressing objects:  30% (316/1052)        
+2022-12-31T01:26:52.1474778Z remote: Compressing objects:  31% (327/1052)        
+2022-12-31T01:26:52.1482548Z remote: Compressing objects:  32% (337/1052)        
+2022-12-31T01:26:52.1493498Z remote: Compressing objects:  33% (348/1052)        
+2022-12-31T01:26:52.1519788Z remote: Compressing objects:  34% (358/1052)        
+2022-12-31T01:26:52.1634617Z remote: Compressing objects:  35% (369/1052)        
+2022-12-31T01:26:52.1737450Z remote: Compressing objects:  36% (379/1052)        
+2022-12-31T01:26:52.1739167Z remote: Compressing objects:  37% (390/1052)        
+2022-12-31T01:26:52.1740398Z remote: Compressing objects:  38% (400/1052)        
+2022-12-31T01:26:52.1741597Z remote: Compressing objects:  39% (411/1052)        
+2022-12-31T01:26:52.1745070Z remote: Compressing objects:  40% (421/1052)        
+2022-12-31T01:26:52.1773246Z remote: Compressing objects:  41% (432/1052)        
+2022-12-31T01:26:52.1817863Z remote: Compressing objects:  42% (442/1052)        
+2022-12-31T01:26:52.1865606Z remote: Compressing objects:  43% (453/1052)        
+2022-12-31T01:26:52.1866066Z remote: Compressing objects:  44% (463/1052)        
+2022-12-31T01:26:52.1866460Z remote: Compressing objects:  45% (474/1052)        
+2022-12-31T01:26:52.1866792Z remote: Compressing objects:  46% (484/1052)        
+2022-12-31T01:26:52.1867306Z remote: Compressing objects:  47% (495/1052)        
+2022-12-31T01:26:52.1868242Z remote: Compressing objects:  48% (505/1052)        
+2022-12-31T01:26:52.1868834Z remote: Compressing objects:  49% (516/1052)        
+2022-12-31T01:26:52.1869815Z remote: Compressing objects:  50% (526/1052)        
+2022-12-31T01:26:52.1871556Z remote: Compressing objects:  51% (537/1052)        
+2022-12-31T01:26:52.1874155Z remote: Compressing objects:  52% (548/1052)        
+2022-12-31T01:26:52.1876970Z remote: Compressing objects:  53% (558/1052)        
+2022-12-31T01:26:52.1879008Z remote: Compressing objects:  54% (569/1052)        
+2022-12-31T01:26:52.1880138Z remote: Compressing objects:  55% (579/1052)        
+2022-12-31T01:26:52.1880605Z remote: Compressing objects:  56% (590/1052)        
+2022-12-31T01:26:52.1884042Z remote: Compressing objects:  57% (600/1052)        
+2022-12-31T01:26:52.1884726Z remote: Compressing objects:  58% (611/1052)        
+2022-12-31T01:26:52.1885400Z remote: Compressing objects:  59% (621/1052)        
+2022-12-31T01:26:52.1890608Z remote: Compressing objects:  60% (632/1052)        
+2022-12-31T01:26:52.1916021Z remote: Compressing objects:  61% (642/1052)        
+2022-12-31T01:26:52.1916464Z remote: Compressing objects:  62% (653/1052)        
+2022-12-31T01:26:52.1917045Z remote: Compressing objects:  63% (663/1052)        
+2022-12-31T01:26:52.1917459Z remote: Compressing objects:  64% (674/1052)        
+2022-12-31T01:26:52.1917854Z remote: Compressing objects:  65% (684/1052)        
+2022-12-31T01:26:52.1918185Z remote: Compressing objects:  66% (695/1052)        
+2022-12-31T01:26:52.1918571Z remote: Compressing objects:  67% (705/1052)        
+2022-12-31T01:26:52.1919006Z remote: Compressing objects:  68% (716/1052)        
+2022-12-31T01:26:52.1919523Z remote: Compressing objects:  69% (726/1052)        
+2022-12-31T01:26:52.1919843Z remote: Compressing objects:  70% (737/1052)        
+2022-12-31T01:26:52.1920323Z remote: Compressing objects:  71% (747/1052)        
+2022-12-31T01:26:52.1920702Z remote: Compressing objects:  72% (758/1052)        
+2022-12-31T01:26:52.1921359Z remote: Compressing objects:  73% (768/1052)        
+2022-12-31T01:26:52.1921689Z remote: Compressing objects:  74% (779/1052)        
+2022-12-31T01:26:52.1922065Z remote: Compressing objects:  75% (789/1052)        
+2022-12-31T01:26:52.1922442Z remote: Compressing objects:  76% (800/1052)        
+2022-12-31T01:26:52.1922865Z remote: Compressing objects:  77% (811/1052)        
+2022-12-31T01:26:52.1923328Z remote: Compressing objects:  78% (821/1052)        
+2022-12-31T01:26:52.1923691Z remote: Compressing objects:  79% (832/1052)        
+2022-12-31T01:26:52.1924365Z remote: Compressing objects:  80% (842/1052)        
+2022-12-31T01:26:52.1924760Z remote: Compressing objects:  81% (853/1052)        
+2022-12-31T01:26:52.1925077Z remote: Compressing objects:  82% (863/1052)        
+2022-12-31T01:26:52.1925418Z remote: Compressing objects:  83% (874/1052)        
+2022-12-31T01:26:52.1925759Z remote: Compressing objects:  84% (884/1052)        
+2022-12-31T01:26:52.1926096Z remote: Compressing objects:  85% (895/1052)        
+2022-12-31T01:26:52.1926445Z remote: Compressing objects:  86% (905/1052)        
+2022-12-31T01:26:52.1926913Z remote: Compressing objects:  87% (916/1052)        
+2022-12-31T01:26:52.1927281Z remote: Compressing objects:  88% (926/1052)        
+2022-12-31T01:26:52.1927646Z remote: Compressing objects:  89% (937/1052)        
+2022-12-31T01:26:52.1928057Z remote: Compressing objects:  90% (947/1052)        
+2022-12-31T01:26:52.1928522Z remote: Compressing objects:  91% (958/1052)        
+2022-12-31T01:26:52.1928900Z remote: Compressing objects:  92% (968/1052)        
+2022-12-31T01:26:52.1929357Z remote: Compressing objects:  93% (979/1052)        
+2022-12-31T01:26:52.1929746Z remote: Compressing objects:  94% (989/1052)        
+2022-12-31T01:26:52.1930124Z remote: Compressing objects:  95% (1000/1052)        
+2022-12-31T01:26:52.1930511Z remote: Compressing objects:  96% (1010/1052)        
+2022-12-31T01:26:52.1931007Z remote: Compressing objects:  97% (1021/1052)        
+2022-12-31T01:26:52.1931464Z remote: Compressing objects:  98% (1031/1052)        
+2022-12-31T01:26:52.1931871Z remote: Compressing objects:  99% (1042/1052)        
+2022-12-31T01:26:52.1932282Z remote: Compressing objects: 100% (1052/1052)        
+2022-12-31T01:26:52.1932639Z remote: Compressing objects: 100% (1052/1052), done.        
+2022-12-31T01:26:52.2057683Z Receiving objects:   0% (1/3000)
+2022-12-31T01:26:52.2432300Z Receiving objects:   1% (30/3000)
+2022-12-31T01:26:52.2452330Z Receiving objects:   2% (60/3000)
+2022-12-31T01:26:52.2458556Z Receiving objects:   3% (90/3000)
+2022-12-31T01:26:52.2463925Z Receiving objects:   4% (120/3000)
+2022-12-31T01:26:52.2473810Z Receiving objects:   5% (150/3000)
+2022-12-31T01:26:52.2568417Z Receiving objects:   6% (180/3000)
+2022-12-31T01:26:52.2612408Z Receiving objects:   7% (210/3000)
+2022-12-31T01:26:52.2622637Z Receiving objects:   8% (240/3000)
+2022-12-31T01:26:52.2633838Z Receiving objects:   9% (270/3000)
+2022-12-31T01:26:52.2644160Z Receiving objects:  10% (300/3000)
+2022-12-31T01:26:52.2653489Z Receiving objects:  11% (330/3000)
+2022-12-31T01:26:52.2667580Z Receiving objects:  12% (360/3000)
+2022-12-31T01:26:52.2672246Z Receiving objects:  13% (390/3000)
+2022-12-31T01:26:52.2759612Z Receiving objects:  14% (420/3000)
+2022-12-31T01:26:52.2765275Z Receiving objects:  15% (450/3000)
+2022-12-31T01:26:52.2767306Z Receiving objects:  16% (480/3000)
+2022-12-31T01:26:52.2768438Z Receiving objects:  17% (510/3000)
+2022-12-31T01:26:52.2770227Z Receiving objects:  18% (540/3000)
+2022-12-31T01:26:52.2771320Z Receiving objects:  19% (570/3000)
+2022-12-31T01:26:52.2771953Z Receiving objects:  20% (600/3000)
+2022-12-31T01:26:52.2772838Z Receiving objects:  21% (630/3000)
+2022-12-31T01:26:52.2775264Z Receiving objects:  22% (660/3000)
+2022-12-31T01:26:52.2776286Z Receiving objects:  23% (690/3000)
+2022-12-31T01:26:52.2856317Z Receiving objects:  24% (720/3000)
+2022-12-31T01:26:52.2871071Z Receiving objects:  25% (750/3000)
+2022-12-31T01:26:52.2931052Z Receiving objects:  26% (780/3000)
+2022-12-31T01:26:52.2964858Z Receiving objects:  27% (810/3000)
+2022-12-31T01:26:52.3007006Z Receiving objects:  28% (840/3000)
+2022-12-31T01:26:52.3054833Z Receiving objects:  29% (870/3000)
+2022-12-31T01:26:52.3081028Z Receiving objects:  30% (900/3000)
+2022-12-31T01:26:52.3108066Z Receiving objects:  31% (930/3000)
+2022-12-31T01:26:52.3149492Z Receiving objects:  32% (960/3000)
+2022-12-31T01:26:52.3185547Z Receiving objects:  33% (990/3000)
+2022-12-31T01:26:52.3232721Z Receiving objects:  34% (1020/3000)
+2022-12-31T01:26:52.3269704Z Receiving objects:  35% (1050/3000)
+2022-12-31T01:26:52.3317741Z Receiving objects:  36% (1080/3000)
+2022-12-31T01:26:52.3346924Z Receiving objects:  37% (1110/3000)
+2022-12-31T01:26:52.3386191Z Receiving objects:  38% (1140/3000)
+2022-12-31T01:26:52.3419253Z Receiving objects:  39% (1170/3000)
+2022-12-31T01:26:52.3472201Z Receiving objects:  40% (1200/3000)
+2022-12-31T01:26:52.3542429Z Receiving objects:  41% (1230/3000)
+2022-12-31T01:26:52.3610526Z Receiving objects:  42% (1260/3000)
+2022-12-31T01:26:52.3641571Z Receiving objects:  43% (1290/3000)
+2022-12-31T01:26:52.3690179Z Receiving objects:  44% (1320/3000)
+2022-12-31T01:26:52.3786665Z Receiving objects:  45% (1350/3000)
+2022-12-31T01:26:52.3815460Z Receiving objects:  46% (1380/3000)
+2022-12-31T01:26:52.3832321Z Receiving objects:  47% (1410/3000)
+2022-12-31T01:26:52.3877775Z Receiving objects:  48% (1440/3000)
+2022-12-31T01:26:52.3922746Z Receiving objects:  49% (1470/3000)
+2022-12-31T01:26:52.3977722Z Receiving objects:  50% (1500/3000)
+2022-12-31T01:26:52.4007878Z Receiving objects:  51% (1530/3000)
+2022-12-31T01:26:52.4040432Z Receiving objects:  52% (1560/3000)
+2022-12-31T01:26:52.4114842Z Receiving objects:  53% (1590/3000)
+2022-12-31T01:26:52.4174870Z Receiving objects:  54% (1620/3000)
+2022-12-31T01:26:52.4221885Z Receiving objects:  55% (1650/3000)
+2022-12-31T01:26:52.4293500Z Receiving objects:  56% (1680/3000)
+2022-12-31T01:26:52.4342483Z Receiving objects:  57% (1710/3000)
+2022-12-31T01:26:52.4416032Z Receiving objects:  58% (1740/3000)
+2022-12-31T01:26:52.4464894Z Receiving objects:  59% (1770/3000)
+2022-12-31T01:26:52.4534588Z Receiving objects:  60% (1800/3000)
+2022-12-31T01:26:52.4588277Z Receiving objects:  61% (1830/3000)
+2022-12-31T01:26:52.4639537Z Receiving objects:  62% (1860/3000)
+2022-12-31T01:26:52.4681463Z Receiving objects:  63% (1890/3000)
+2022-12-31T01:26:52.4760062Z Receiving objects:  64% (1920/3000)
+2022-12-31T01:26:52.4809065Z Receiving objects:  65% (1950/3000)
+2022-12-31T01:26:52.4867576Z Receiving objects:  66% (1980/3000)
+2022-12-31T01:26:52.4916295Z Receiving objects:  67% (2010/3000)
+2022-12-31T01:26:52.4962185Z Receiving objects:  68% (2040/3000)
+2022-12-31T01:26:52.4995093Z Receiving objects:  69% (2070/3000)
+2022-12-31T01:26:52.5065360Z Receiving objects:  70% (2100/3000)
+2022-12-31T01:26:52.5103416Z Receiving objects:  71% (2130/3000)
+2022-12-31T01:26:52.5197108Z Receiving objects:  72% (2160/3000)
+2022-12-31T01:26:52.5241235Z Receiving objects:  73% (2190/3000)
+2022-12-31T01:26:52.5326622Z Receiving objects:  74% (2220/3000)
+2022-12-31T01:26:52.5354700Z Receiving objects:  75% (2250/3000)
+2022-12-31T01:26:52.5382640Z Receiving objects:  76% (2280/3000)
+2022-12-31T01:26:52.5419551Z Receiving objects:  77% (2310/3000)
+2022-12-31T01:26:52.5449663Z Receiving objects:  78% (2340/3000)
+2022-12-31T01:26:52.5488824Z Receiving objects:  79% (2370/3000)
+2022-12-31T01:26:52.5578399Z Receiving objects:  80% (2400/3000)
+2022-12-31T01:26:52.5646801Z Receiving objects:  81% (2430/3000)
+2022-12-31T01:26:52.5664826Z Receiving objects:  82% (2460/3000)
+2022-12-31T01:26:52.5729708Z Receiving objects:  83% (2490/3000)
+2022-12-31T01:26:52.5787434Z Receiving objects:  84% (2520/3000)
+2022-12-31T01:26:52.5848668Z Receiving objects:  85% (2550/3000)
+2022-12-31T01:26:52.5917875Z Receiving objects:  86% (2580/3000)
+2022-12-31T01:26:52.5929285Z Receiving objects:  87% (2610/3000)
+2022-12-31T01:26:52.5929971Z Receiving objects:  88% (2640/3000)
+2022-12-31T01:26:52.6072884Z Receiving objects:  89% (2670/3000)
+2022-12-31T01:26:52.6121709Z Receiving objects:  90% (2700/3000)
+2022-12-31T01:26:52.6121989Z Receiving objects:  91% (2730/3000)
+2022-12-31T01:26:52.6122220Z Receiving objects:  92% (2760/3000)
+2022-12-31T01:26:52.6122451Z Receiving objects:  93% (2790/3000)
+2022-12-31T01:26:52.6122700Z Receiving objects:  94% (2820/3000)
+2022-12-31T01:26:52.6122932Z Receiving objects:  95% (2850/3000)
+2022-12-31T01:26:52.6123154Z Receiving objects:  96% (2880/3000)
+2022-12-31T01:26:52.6124488Z Receiving objects:  97% (2910/3000)
+2022-12-31T01:26:52.6127211Z Receiving objects:  98% (2940/3000)
+2022-12-31T01:26:52.6192177Z Receiving objects:  99% (2970/3000)
+2022-12-31T01:26:52.6193158Z remote: Total 3000 (delta 1635), reused 2861 (delta 1588), pack-reused 0        
+2022-12-31T01:26:52.6206078Z Receiving objects: 100% (3000/3000)
+2022-12-31T01:26:52.6206399Z Receiving objects: 100% (3000/3000), 10.93 MiB | 25.86 MiB/s, done.
+2022-12-31T01:26:52.6218307Z Resolving deltas:   0% (0/1635)
+2022-12-31T01:26:52.6257126Z Resolving deltas:   1% (17/1635)
+2022-12-31T01:26:52.6302211Z Resolving deltas:   2% (33/1635)
+2022-12-31T01:26:52.6352392Z Resolving deltas:   3% (50/1635)
+2022-12-31T01:26:52.6398166Z Resolving deltas:   4% (66/1635)
+2022-12-31T01:26:52.6445378Z Resolving deltas:   5% (82/1635)
+2022-12-31T01:26:52.6497151Z Resolving deltas:   6% (99/1635)
+2022-12-31T01:26:52.6527313Z Resolving deltas:   7% (115/1635)
+2022-12-31T01:26:52.6531354Z Resolving deltas:   8% (131/1635)
+2022-12-31T01:26:52.6536857Z Resolving deltas:   9% (148/1635)
+2022-12-31T01:26:52.6543978Z Resolving deltas:  10% (164/1635)
+2022-12-31T01:26:52.6548529Z Resolving deltas:  11% (180/1635)
+2022-12-31T01:26:52.6552297Z Resolving deltas:  12% (197/1635)
+2022-12-31T01:26:52.6556315Z Resolving deltas:  13% (213/1635)
+2022-12-31T01:26:52.6559870Z Resolving deltas:  14% (229/1635)
+2022-12-31T01:26:52.6565341Z Resolving deltas:  15% (246/1635)
+2022-12-31T01:26:52.6565922Z Resolving deltas:  16% (262/1635)
+2022-12-31T01:26:52.6566777Z Resolving deltas:  17% (278/1635)
+2022-12-31T01:26:52.6567272Z Resolving deltas:  18% (295/1635)
+2022-12-31T01:26:52.6578348Z Resolving deltas:  19% (311/1635)
+2022-12-31T01:26:52.6672585Z Resolving deltas:  20% (327/1635)
+2022-12-31T01:26:52.6751290Z Resolving deltas:  21% (344/1635)
+2022-12-31T01:26:52.6894666Z Resolving deltas:  22% (360/1635)
+2022-12-31T01:26:52.6916424Z Resolving deltas:  23% (377/1635)
+2022-12-31T01:26:52.7012733Z Resolving deltas:  24% (393/1635)
+2022-12-31T01:26:52.7070510Z Resolving deltas:  25% (409/1635)
+2022-12-31T01:26:52.7097666Z Resolving deltas:  26% (426/1635)
+2022-12-31T01:26:52.7223887Z Resolving deltas:  27% (442/1635)
+2022-12-31T01:26:52.7323172Z Resolving deltas:  28% (458/1635)
+2022-12-31T01:26:52.7410482Z Resolving deltas:  29% (475/1635)
+2022-12-31T01:26:52.7489392Z Resolving deltas:  30% (491/1635)
+2022-12-31T01:26:52.7505596Z Resolving deltas:  31% (507/1635)
+2022-12-31T01:26:52.7528377Z Resolving deltas:  32% (524/1635)
+2022-12-31T01:26:52.7586600Z Resolving deltas:  33% (540/1635)
+2022-12-31T01:26:52.7725898Z Resolving deltas:  34% (556/1635)
+2022-12-31T01:26:52.7842362Z Resolving deltas:  35% (573/1635)
+2022-12-31T01:26:52.7857121Z Resolving deltas:  36% (589/1635)
+2022-12-31T01:26:52.7894393Z Resolving deltas:  37% (605/1635)
+2022-12-31T01:26:52.7940180Z Resolving deltas:  38% (622/1635)
+2022-12-31T01:26:52.8022697Z Resolving deltas:  39% (638/1635)
+2022-12-31T01:26:52.8125432Z Resolving deltas:  40% (654/1635)
+2022-12-31T01:26:52.8215053Z Resolving deltas:  41% (671/1635)
+2022-12-31T01:26:52.8289163Z Resolving deltas:  42% (687/1635)
+2022-12-31T01:26:52.8304760Z Resolving deltas:  43% (704/1635)
+2022-12-31T01:26:52.8374569Z Resolving deltas:  44% (720/1635)
+2022-12-31T01:26:52.8383614Z Resolving deltas:  45% (736/1635)
+2022-12-31T01:26:52.8392185Z Resolving deltas:  46% (753/1635)
+2022-12-31T01:26:52.8414881Z Resolving deltas:  47% (769/1635)
+2022-12-31T01:26:52.8458635Z Resolving deltas:  48% (785/1635)
+2022-12-31T01:26:52.8471795Z Resolving deltas:  49% (802/1635)
+2022-12-31T01:26:52.8477460Z Resolving deltas:  50% (818/1635)
+2022-12-31T01:26:52.8484541Z Resolving deltas:  51% (834/1635)
+2022-12-31T01:26:52.8488928Z Resolving deltas:  52% (851/1635)
+2022-12-31T01:26:52.8489540Z Resolving deltas:  53% (867/1635)
+2022-12-31T01:26:52.8491629Z Resolving deltas:  54% (883/1635)
+2022-12-31T01:26:52.8492187Z Resolving deltas:  55% (900/1635)
+2022-12-31T01:26:52.8494189Z Resolving deltas:  56% (916/1635)
+2022-12-31T01:26:52.8494805Z Resolving deltas:  57% (932/1635)
+2022-12-31T01:26:52.8502534Z Resolving deltas:  58% (949/1635)
+2022-12-31T01:26:52.8507075Z Resolving deltas:  59% (965/1635)
+2022-12-31T01:26:52.8509858Z Resolving deltas:  60% (981/1635)
+2022-12-31T01:26:52.8512436Z Resolving deltas:  61% (998/1635)
+2022-12-31T01:26:52.8523371Z Resolving deltas:  62% (1014/1635)
+2022-12-31T01:26:52.8531203Z Resolving deltas:  63% (1031/1635)
+2022-12-31T01:26:52.8531799Z Resolving deltas:  64% (1047/1635)
+2022-12-31T01:26:52.8532507Z Resolving deltas:  65% (1063/1635)
+2022-12-31T01:26:52.8543388Z Resolving deltas:  66% (1080/1635)
+2022-12-31T01:26:52.8554970Z Resolving deltas:  67% (1096/1635)
+2022-12-31T01:26:52.8565134Z Resolving deltas:  68% (1112/1635)
+2022-12-31T01:26:52.8569098Z Resolving deltas:  69% (1129/1635)
+2022-12-31T01:26:52.8577496Z Resolving deltas:  70% (1145/1635)
+2022-12-31T01:26:52.8583769Z Resolving deltas:  71% (1161/1635)
+2022-12-31T01:26:52.8591658Z Resolving deltas:  72% (1178/1635)
+2022-12-31T01:26:52.8599087Z Resolving deltas:  73% (1194/1635)
+2022-12-31T01:26:52.8608396Z Resolving deltas:  74% (1210/1635)
+2022-12-31T01:26:52.8614602Z Resolving deltas:  75% (1227/1635)
+2022-12-31T01:26:52.8618061Z Resolving deltas:  76% (1243/1635)
+2022-12-31T01:26:52.8630508Z Resolving deltas:  77% (1259/1635)
+2022-12-31T01:26:52.8642534Z Resolving deltas:  78% (1276/1635)
+2022-12-31T01:26:52.8652839Z Resolving deltas:  79% (1292/1635)
+2022-12-31T01:26:52.8656034Z Resolving deltas:  80% (1308/1635)
+2022-12-31T01:26:52.8657548Z Resolving deltas:  81% (1325/1635)
+2022-12-31T01:26:52.8671323Z Resolving deltas:  82% (1341/1635)
+2022-12-31T01:26:52.8692130Z Resolving deltas:  83% (1358/1635)
+2022-12-31T01:26:52.8703535Z Resolving deltas:  84% (1374/1635)
+2022-12-31T01:26:52.8710457Z Resolving deltas:  85% (1390/1635)
+2022-12-31T01:26:52.8731858Z Resolving deltas:  86% (1407/1635)
+2022-12-31T01:26:52.8745602Z Resolving deltas:  87% (1423/1635)
+2022-12-31T01:26:52.8759731Z Resolving deltas:  88% (1439/1635)
+2022-12-31T01:26:52.8801976Z Resolving deltas:  89% (1456/1635)
+2022-12-31T01:26:52.8826510Z Resolving deltas:  90% (1472/1635)
+2022-12-31T01:26:52.8858074Z Resolving deltas:  91% (1488/1635)
+2022-12-31T01:26:52.8879859Z Resolving deltas:  92% (1505/1635)
+2022-12-31T01:26:52.8903582Z Resolving deltas:  93% (1521/1635)
+2022-12-31T01:26:52.8947642Z Resolving deltas:  94% (1537/1635)
+2022-12-31T01:26:52.8993964Z Resolving deltas:  95% (1554/1635)
+2022-12-31T01:26:52.9007509Z Resolving deltas:  96% (1570/1635)
+2022-12-31T01:26:52.9036470Z Resolving deltas:  97% (1586/1635)
+2022-12-31T01:26:52.9057206Z Resolving deltas:  98% (1603/1635)
+2022-12-31T01:26:52.9067650Z Resolving deltas:  99% (1619/1635)
+2022-12-31T01:26:52.9084481Z Resolving deltas: 100% (1635/1635)
+2022-12-31T01:26:52.9085124Z Resolving deltas: 100% (1635/1635), done.
+2022-12-31T01:26:52.9332937Z From https://github.com/seanpm2001/GitHub_Stats_A
+2022-12-31T01:26:52.9334154Z  * [new ref]         ec89be2f5bb5f17f6fcd4e34ce25091528bdc0cf -> origin/master
+2022-12-31T01:26:52.9377287Z ##[endgroup]
+2022-12-31T01:26:52.9378160Z ##[group]Determining the checkout info
+2022-12-31T01:26:52.9379222Z ##[endgroup]
+2022-12-31T01:26:52.9380071Z ##[group]Checking out the ref
+2022-12-31T01:26:52.9381165Z [command]/usr/bin/git checkout --progress --force -B master refs/remotes/origin/master
+2022-12-31T01:26:53.4266104Z Reset branch 'master'
+2022-12-31T01:26:53.4266642Z branch 'master' set up to track 'origin/master'.
+2022-12-31T01:26:53.4291360Z ##[endgroup]
+2022-12-31T01:26:53.4342827Z [command]/usr/bin/git log -1 --format='%H'
+2022-12-31T01:26:53.4372933Z 'ec89be2f5bb5f17f6fcd4e34ce25091528bdc0cf'
+2022-12-31T01:26:53.4731045Z ##[group]Run actions/setup-python@v2
+2022-12-31T01:26:53.4731443Z with:
+2022-12-31T01:26:53.4731656Z   python-version: 3.8
+2022-12-31T01:26:53.4731890Z   architecture: x64
+2022-12-31T01:26:53.4732242Z   token: ***
+2022-12-31T01:26:53.4732435Z ##[endgroup]
+2022-12-31T01:26:53.6575680Z Successfully setup CPython (3.8.15)
+2022-12-31T01:26:54.4041104Z ##[group]Run actions/cache@v2
+2022-12-31T01:26:54.4041359Z with:
+2022-12-31T01:26:54.4041555Z   path: ~/.cache/pip
+2022-12-31T01:26:54.4042054Z   key: Linux-pip-60f2a6c0212a9b74a155cd81b58dd07fd8b180833132566260d95f4de42fe218
+2022-12-31T01:26:54.4042375Z   restore-keys: Linux-pip-
+
+2022-12-31T01:26:54.4042612Z env:
+2022-12-31T01:26:54.4042872Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.15/x64
+2022-12-31T01:26:54.4043205Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.15/x64/lib
+2022-12-31T01:26:54.4044398Z ##[endgroup]
+2022-12-31T01:26:54.5631801Z ##[warning]The `save-state` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+2022-12-31T01:26:56.0827631Z Received 0 of 4175495 (0.0%), 0.0 MBs/sec
+2022-12-31T01:26:56.3529576Z Received 4175495 of 4175495 (100.0%), 3.1 MBs/sec
+2022-12-31T01:26:56.3530991Z Cache Size: ~4 MB (4175495 B)
+2022-12-31T01:26:56.3561942Z [command]/usr/bin/tar --use-compress-program zstd -d -xf /home/runner/work/_temp/dae44236-b814-420a-bfb4-40e1c4282a0a/cache.tzst -P -C /home/runner/work/GitHub_Stats_A/GitHub_Stats_A
+2022-12-31T01:26:56.3770188Z Cache restored successfully
+2022-12-31T01:26:56.3788907Z ##[warning]The `save-state` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+2022-12-31T01:26:56.3837419Z 
+2022-12-31T01:26:56.3843088Z ##[warning]The `set-output` command is deprecated and will be disabled soon. Please upgrade to using Environment Files. For more information see: https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+2022-12-31T01:26:56.3844933Z Cache restored from key: Linux-pip-60f2a6c0212a9b74a155cd81b58dd07fd8b180833132566260d95f4de42fe218
+2022-12-31T01:26:56.3992899Z ##[group]Run python3 -m pip install --upgrade pip setuptools wheel
+2022-12-31T01:26:56.3993413Z [36;1mpython3 -m pip install --upgrade pip setuptools wheel[0m
+2022-12-31T01:26:56.3993792Z [36;1mpython3 -m pip install -r requirements.txt[0m
+2022-12-31T01:26:56.4051165Z shell: /usr/bin/bash -e {0}
+2022-12-31T01:26:56.4051403Z env:
+2022-12-31T01:26:56.4051677Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.15/x64
+2022-12-31T01:26:56.4052005Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.15/x64/lib
+2022-12-31T01:26:56.4052278Z ##[endgroup]
+2022-12-31T01:26:57.5100461Z Requirement already satisfied: pip in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (22.3.1)
+2022-12-31T01:26:57.7052920Z Requirement already satisfied: setuptools in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (56.0.0)
+2022-12-31T01:26:58.0661888Z Collecting setuptools
+2022-12-31T01:26:58.1603502Z   Downloading setuptools-65.6.3-py3-none-any.whl (1.2 MB)
+2022-12-31T01:26:58.2418390Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 15.8 MB/s eta 0:00:00
+2022-12-31T01:26:58.3018370Z Collecting wheel
+2022-12-31T01:26:58.3071411Z   Downloading wheel-0.38.4-py3-none-any.whl (36 kB)
+2022-12-31T01:26:58.4567040Z Installing collected packages: wheel, setuptools
+2022-12-31T01:26:58.4961820Z   Attempting uninstall: setuptools
+2022-12-31T01:26:58.4971201Z     Found existing installation: setuptools 56.0.0
+2022-12-31T01:26:58.5622054Z     Uninstalling setuptools-56.0.0:
+2022-12-31T01:26:58.5770447Z       Successfully uninstalled setuptools-56.0.0
+2022-12-31T01:26:59.1773450Z Successfully installed setuptools-65.6.3 wheel-0.38.4
+2022-12-31T01:27:00.2263245Z Collecting requests
+2022-12-31T01:27:00.2299437Z   Using cached requests-2.28.1-py3-none-any.whl (62 kB)
+2022-12-31T01:27:00.8118116Z Collecting aiohttp
+2022-12-31T01:27:00.9113221Z   Downloading aiohttp-3.8.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.0 MB)
+2022-12-31T01:27:01.0085138Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.0/1.0 MB 11.2 MB/s eta 0:00:00
+2022-12-31T01:27:01.0491156Z Collecting idna<4,>=2.5
+2022-12-31T01:27:01.0541783Z   Downloading idna-3.4-py3-none-any.whl (61 kB)
+2022-12-31T01:27:01.0607996Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.5/61.5 kB 15.4 MB/s eta 0:00:00
+2022-12-31T01:27:01.1783719Z Collecting charset-normalizer<3,>=2
+2022-12-31T01:27:01.1808366Z   Using cached charset_normalizer-2.1.1-py3-none-any.whl (39 kB)
+2022-12-31T01:27:01.2213985Z Collecting certifi>=2017.4.17
+2022-12-31T01:27:01.2274836Z   Downloading certifi-2022.12.7-py3-none-any.whl (155 kB)
+2022-12-31T01:27:01.2359441Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 155.3/155.3 kB 30.8 MB/s eta 0:00:00
+2022-12-31T01:27:01.3039735Z Collecting urllib3<1.27,>=1.21.1
+2022-12-31T01:27:01.3101047Z   Downloading urllib3-1.26.13-py2.py3-none-any.whl (140 kB)
+2022-12-31T01:27:01.3186708Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 140.6/140.6 kB 24.8 MB/s eta 0:00:00
+2022-12-31T01:27:01.3706234Z Collecting async-timeout<5.0,>=4.0.0a3
+2022-12-31T01:27:01.3742818Z   Using cached async_timeout-4.0.2-py3-none-any.whl (5.8 kB)
+2022-12-31T01:27:01.4952009Z Collecting frozenlist>=1.1.1
+2022-12-31T01:27:01.5018135Z   Downloading frozenlist-1.3.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (161 kB)
+2022-12-31T01:27:01.5093526Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 161.3/161.3 kB 34.2 MB/s eta 0:00:00
+2022-12-31T01:27:01.5314824Z Collecting aiosignal>=1.1.2
+2022-12-31T01:27:01.5368929Z   Downloading aiosignal-1.3.1-py3-none-any.whl (7.6 kB)
+2022-12-31T01:27:01.5700566Z Collecting attrs>=17.3.0
+2022-12-31T01:27:01.5746746Z   Downloading attrs-22.2.0-py3-none-any.whl (60 kB)
+2022-12-31T01:27:01.5803905Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.0/60.0 kB 18.8 MB/s eta 0:00:00
+2022-12-31T01:27:01.8631499Z Collecting yarl<2.0,>=1.0
+2022-12-31T01:27:01.8697101Z   Downloading yarl-1.8.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (262 kB)
+2022-12-31T01:27:01.8784255Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 262.1/262.1 kB 49.3 MB/s eta 0:00:00
+2022-12-31T01:27:02.4082277Z Collecting multidict<7.0,>=4.5
+2022-12-31T01:27:02.4135179Z   Downloading multidict-6.0.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (121 kB)
+2022-12-31T01:27:02.4204319Z      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 121.3/121.3 kB 31.4 MB/s eta 0:00:00
+2022-12-31T01:27:02.6897941Z Installing collected packages: urllib3, multidict, idna, frozenlist, charset-normalizer, certifi, attrs, async-timeout, yarl, requests, aiosignal, aiohttp
+2022-12-31T01:27:03.2484362Z Successfully installed aiohttp-3.8.3 aiosignal-1.3.1 async-timeout-4.0.2 attrs-22.2.0 certifi-2022.12.7 charset-normalizer-2.1.1 frozenlist-1.3.3 idna-3.4 multidict-6.0.4 requests-2.28.1 urllib3-1.26.13 yarl-1.8.2
+2022-12-31T01:27:03.4625854Z ##[group]Run python3 --version
+2022-12-31T01:27:03.4626201Z [36;1mpython3 --version[0m
+2022-12-31T01:27:03.4626482Z [36;1mpython3 generate_images.py[0m
+2022-12-31T01:27:03.4689922Z shell: /usr/bin/bash -e {0}
+2022-12-31T01:27:03.4690143Z env:
+2022-12-31T01:27:03.4690427Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.15/x64
+2022-12-31T01:27:03.4690811Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.15/x64/lib
+2022-12-31T01:27:03.4691278Z   ACCESS_TOKEN: ***
+2022-12-31T01:27:03.4691611Z   GITHUB_TOKEN: ***
+2022-12-31T01:27:03.4691829Z   EXCLUDED: 
+2022-12-31T01:27:03.4692044Z   EXCLUDED_LANGS: 
+2022-12-31T01:27:03.4692278Z   EXCLUDE_FORKED_REPOS: true
+2022-12-31T01:27:03.4692514Z ##[endgroup]
+2022-12-31T01:27:03.4792383Z Python 3.8.15
+2022-12-31T01:27:54.1814236Z unhandled exception during asyncio.run() shutdown
+2022-12-31T01:27:54.1815334Z task: <Task finished name='Task-3' coro=<generate_overview() done, defined at generate_images.py:30> exception=AttributeError("'NoneType' object has no attribute 'get'")>
+2022-12-31T01:27:54.1815825Z Traceback (most recent call last):
+2022-12-31T01:27:54.1830328Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-12-31T01:27:54.1830906Z     return loop.run_until_complete(main)
+2022-12-31T01:27:54.1831523Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-12-31T01:27:54.1832304Z     return future.result()
+2022-12-31T01:27:54.1832649Z   File "generate_images.py", line 132, in main
+2022-12-31T01:27:54.1833026Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-12-31T01:27:54.1833459Z   File "generate_images.py", line 63, in generate_languages
+2022-12-31T01:27:54.1833860Z     (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
+2022-12-31T01:27:54.1834338Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 423, in languages
+2022-12-31T01:27:54.1834690Z     await self.get_stats()
+2022-12-31T01:27:54.1835205Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2022-12-31T01:27:54.1835744Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2022-12-31T01:27:54.1836251Z AttributeError: 'NoneType' object has no attribute 'get'
+2022-12-31T01:27:54.1836459Z 
+2022-12-31T01:27:54.1836641Z During handling of the above exception, another exception occurred:
+2022-12-31T01:27:54.1836857Z 
+2022-12-31T01:27:54.1836977Z Traceback (most recent call last):
+2022-12-31T01:27:54.1837331Z   File "generate_images.py", line 38, in generate_overview
+2022-12-31T01:27:54.1837663Z     output = re.sub("{{ name }}", await s.name, output)
+2022-12-31T01:27:54.1838059Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2022-12-31T01:27:54.1838389Z     await self.get_stats()
+2022-12-31T01:27:54.1838800Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2022-12-31T01:27:54.1839206Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2022-12-31T01:27:54.1839646Z AttributeError: 'NoneType' object has no attribute 'get'
+2022-12-31T01:27:54.1840111Z Traceback (most recent call last):
+2022-12-31T01:27:54.1840450Z   File "generate_images.py", line 136, in <module>
+2022-12-31T01:27:54.1840726Z     asyncio.run(main())
+2022-12-31T01:27:54.1841114Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2022-12-31T01:27:54.1841491Z     return loop.run_until_complete(main)
+2022-12-31T01:27:54.1841949Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2022-12-31T01:27:54.1842324Z     return future.result()
+2022-12-31T01:27:54.1842711Z   File "generate_images.py", line 132, in main
+2022-12-31T01:27:54.1843072Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2022-12-31T01:27:54.1843843Z   File "generate_images.py", line 63, in generate_languages
+2022-12-31T01:27:54.1844241Z     (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
+2022-12-31T01:27:54.1844690Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 423, in languages
+2022-12-31T01:27:54.1845024Z     await self.get_stats()
+2022-12-31T01:27:54.1845394Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2022-12-31T01:27:54.1845796Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2022-12-31T01:27:54.1846255Z AttributeError: 'NoneType' object has no attribute 'get'
+2022-12-31T01:27:54.1846585Z aiohttp failed for GraphQL query
+2022-12-31T01:27:54.1846979Z aiohttp failed for GraphQL query
+2022-12-31T01:27:54.2111267Z ##[error]Process completed with exit code 1.
+2022-12-31T01:27:54.2175740Z Post job cleanup.
+2022-12-31T01:27:54.3779888Z [command]/usr/bin/git version
+2022-12-31T01:27:54.3807286Z git version 2.38.2
+2022-12-31T01:27:54.3878256Z Temporarily overriding HOME='/home/runner/work/_temp/6068d2fd-5144-4526-8080-5f13cac25f06' before making global git config changes
+2022-12-31T01:27:54.3878816Z Adding repository directory to the temporary git global config as a safe directory
+2022-12-31T01:27:54.3885533Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/GitHub_Stats_A/GitHub_Stats_A
+2022-12-31T01:27:54.3940506Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2022-12-31T01:27:54.3976961Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2022-12-31T01:27:54.4259654Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2022-12-31T01:27:54.4290040Z http.https://github.com/.extraheader
+2022-12-31T01:27:54.4301058Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2022-12-31T01:27:54.4345093Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2022-12-31T01:27:54.4908838Z Cleaning up orphan processes
