@@ -332,7 +332,7 @@ The access token for this project was renewed on 2022, December 1st. I am contin
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the access token screenshot for season 6]</b></p></summary>
 
-![/Seasons/6/GitHub_Stats_A_ACCESS_TOKEN_2022-12-01_at_13-57-25.png](/Seasons/6/ACCESS_TOKEN/GitHub_Stats_A_ACCESS_TOKEN_2022-12-01_at_13-57-25.png)
+![/Seasons/6/GitHub_Stats_A_ACCESS_TOKEN_2022-12-01_at_13-57-25.png](/Seasons/6/ACCESS_TOKEN/GitHub_Stats_A_ACCESS_TOKEN_%202022-12-01_at_13-57-25.png)
 
 </details>
 
@@ -342,7 +342,7 @@ The access token for this project was renewed on 2023, January 1st. I am continu
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the access token screenshot for season 7]</b></p></summary>
 
-![/Seasons/7/2023January1st_16-14-09PM_Season7_AccessToken.png](/Seasons/7/2023January1st_16-14-09PM_Season7_AccessToken.png)
+![/Seasons/7/2023January1st_16-14-09PM_Season7_AccessToken.png](/Seasons/7/ACCESS_TOKEN/2023January1st_16-14-09PM_Season7_AccessToken.png)
 
 </details>
 
@@ -354,13 +354,13 @@ The access token for this project was renewed on 2023, January 1st. I am continu
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Wednesday, January 4th at 2:50 pm PST)`
+**File version:** `1 (2023, Wednesday, January 4th at 2:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `406`
+**Line count (including blank lines and compiler line):** `423`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
-**You may need special rendering support for the `<details>` tag in use in this document.**
+> **Note** **You may need special rendering support for the `<details>` tag in use in this document.**
 
 </details>
 
@@ -399,6 +399,23 @@ The access token for this project was renewed on 2023, January 1st. I am continu
 - [ ] No other changes in version 1
 
 </details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Wednesday, January 4th at 2:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/7/!OldVersions/README/English/USA/README_V2.md)
+
+> Changes:
+
+- [x] Started the file
+- [x] Fixed access token image links for seasons 6 and 7
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 2
+
+</details>
+
 
 </details>
 
