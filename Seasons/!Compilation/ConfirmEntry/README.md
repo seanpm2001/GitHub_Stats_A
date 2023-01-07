@@ -13,7 +13,7 @@
 
 This list isn't updated daily at the moment due to the CPU strain issue
 
-Compilation data is as of 2022, Tuesday, December 6th.
+Compilation data is as of 2023, Friday, January 6th.
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -196,37 +196,63 @@ Compilation data is as of 2022, Tuesday, December 6th.
 | 2022, Sunday, December 4th | :x: | :x: |
 | 2022, Monday, December 5th | :x: | :x: |
 | 2022, Tuesday, December 6th | :x: | :x: |
-
-Table incomplete
-
-| Unrecorded | Unrecorded | Unrecorded |
-|---|---|---|
-| 2022, Wednesday, December 7th | Coming soon | Coming soon |
-| 2022, Thursday, December 8th | Coming soon | Coming soon |
-| 2022, Friday, December 9th | Coming soon | Coming soon |
-| 2022, Saturday, December 10th | Coming soon | Coming soon |
-| 2022, Sunday, December 11th | Coming soon | Coming soon |
-| 2022, Monday, December 12th | Coming soon | Coming soon |
-| 2022, Tuesday, December 13th | Coming soon | Coming soon |
-| 2022, Wednesday, December 14th | Coming soon | Coming soon |
-| 2022, Thursday, December 15th | Coming soon | Coming soon |
-| 2022, Friday, December 16th | Coming soon | Coming soon |
-| 2022, Saturday, December 17th | Coming soon | Coming soon |
-| 2022, Sunday, December 18th | Coming soon | Coming soon |
-| 2022, Monday, December 19th | Coming soon | Coming soon |
-| 2022, Tuesday, December 20th | Coming soon | Coming soon |
-| 2022, Wednesday, December 21st | Coming soon | Coming soon |
-| 2022, Thursday, December 22nd | Coming soon | Coming soon |
-| 2022, Friday, December 23rd | Coming soon | Coming soon |
-| 2022, Saturday, December 24th | Coming soon | Coming soon |
-| 2022, Sunday, December 25th | Coming soon | Coming soon |
-| 2022, Monday, December 26th | Coming soon | Coming soon |
-| 2022, Tuesday, December 27th | Coming soon | Coming soon |
-| 2022, Wednesday, December 28th | Coming soon | Coming soon |
-| 2022, Thursday, December 29th | Coming soon | Coming soon |
-| 2022, Friday, December 30th | Coming soon | Coming soon |
-| 2022, Saturday, December 31st | Coming soon | Coming soon |
-<!-- | 2023, Sunday, January 1st | Coming soon | Coming soon | !-->
+| 2022, Wednesday, December 7th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December7th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December7th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December7th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December7th.svg) |
+| 2022, Thursday, December 8th | :x: | :x: |
+| 2022, Friday, December 9th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December9th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December9th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December9th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December9th.svg) |
+| 2022, Saturday, December 10th | :x: | :x: |
+| 2022, Sunday, December 11th | :x: | :x: |
+| 2022, Monday, December 12th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
+| 2022, Tuesday, December 13th | :x: | :x: |
+| 2022, Wednesday, December 14th | :x: | :x: |
+| 2022, Thursday, December 15th | :x: | :x: |
+| 2022, Friday, December 16th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December16th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December16th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December16th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December16th.svg) |
+| 2022, Saturday, December 17th | :x: | :x: |
+| 2022, Sunday, December 18th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December18th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December18th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December18th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December18th.svg) |
+| 2022, Monday, December 19th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December19th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December19th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December19th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December19th.svg) |
+| 2022, Tuesday, December 20th | ![/Seasons/6/SVG/Overview_GitHubStatsA_2022December20th.svg](/Seasons/6/SVG/Overview_GitHubStatsA_2022December20th.svg) | ![/Seasons/6/SVG/Languages_GitHubStatsA_2022December20th.svg](/Seasons/6/SVG/Languages_GitHubStatsA_2022December20th.svg) |
+| 2022, Wednesday, December 21st | :x: | :x: |
+| 2022, Thursday, December 22nd | :x: | :x: |
+| 2022, Friday, December 23rd | :x: | :x: |
+| 2022, Saturday, December 24th | :x: | :x: |
+| 2022, Sunday, December 25th | :x: | :x: |
+| 2022, Monday, December 26th | :x: | :x: |
+| 2022, Tuesday, December 27th | :x: | :x: |
+| 2022, Wednesday, December 28th | :x: | :x: |
+| 2022, Thursday, December 29th | :x: | :x: |
+| 2022, Friday, December 30th | :x: | :x: |
+| 2022, Saturday, December 31st | :x: | :x: |
+| 2023, Sunday, January 1st | :x: | :x: |
+| 2023, Monday, January 2nd | :x: | :x: |
+| 2023, Tuesday, January 3rd | :x: | :x: |
+| 2023, Wednesday, January 4th | :x: | :x: |
+| 2023, Thursday, January 5th | :x: | :x: |
+| 2023, Friday, January 6th | :x: | :x: |
+| 2023, Saturday, January 7th | Coming soon | Coming soon |
+| 2023, Sunday, January 8th | Coming soon | Coming soon |
+| 2023, Monday, January 9th | Coming soon | Coming soon |
+| 2023, Tuesday, January 10th | Coming soon | Coming soon |
+| 2023, Wednesday, January 11th | Coming soon | Coming soon |
+| 2023, Thursday, January 12th | Coming soon | Coming soon |
+| 2023, Friday, January 13th | Coming soon | Coming soon |
+| 2023, Saturday, January 14th | Coming soon | Coming soon |
+| 2023, Sunday, January 15th | Coming soon | Coming soon |
+| 2023, Monday, January 16th | Coming soon | Coming soon |
+| 2023, Tuesday, January 17th | Coming soon | Coming soon |
+| 2023, Wednesday, January 18th | Coming soon | Coming soon |
+| 2023, Thursday, January 19th | Coming soon | Coming soon |
+| 2023, Friday, January 20th | Coming soon | Coming soon |
+| 2023, Saturday, January 21st | Coming soon | Coming soon |
+| 2023, Sunday, January 22nd | Coming soon | Coming soon |
+| 2023, Monday, January 23rd | Coming soon | Coming soon |
+| 2023, Tuesday, January 24th | Coming soon | Coming soon |
+| 2023, Wednesday, January 25th | Coming soon | Coming soon |
+| 2023, Thursday, January 26th | Coming soon | Coming soon |
+| 2023, Friday, January 27th | Coming soon | Coming soon |
+| 2023, Saturday, January 28th | Coming soon | Coming soon |
+| 2023, Sunday, January 29th | Coming soon | Coming soon |
+| 2023, Monday, January 30th | Coming soon | Coming soon |
+| 2023, Tuesday, January 31st | Coming soon | Coming soon |
+<!-- | 2023, Wednesday, February 1st | Coming soon | Coming soon | !-->
 
 #### File info
 
@@ -234,9 +260,9 @@ Table incomplete
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Tuesday, November 15th at 7:44 pm PST)`
+**File version:** `3 (2023, Friday, January 6th at 5:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `281`
+**Line count (including blank lines and compiler line):** `339`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -272,6 +298,38 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file history` section
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Tuesday, December 6th at 9:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** The file was moved before version 2 was created
+
+> Changes:
+
+- [X] Overwrote the file to contain the contents of the file [`Seanpm2001-Statistics_DRAFT_2022.12.06.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2022/Seanpm2001-Statistics_DRAFT_2022.12.06.md)
+- [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2023, Friday, January 6th at 5:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Modified the file to make it separate from the daily list
+- [x] Updated the compilation table, with data from 2022, June 12th to 2023, January 6th, originally only with data from 2022, June 12th to 2022, December 6th
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 2
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
