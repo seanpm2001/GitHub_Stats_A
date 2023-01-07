@@ -5,7 +5,9 @@
 
 ## The following pages may crash and/or damage your computer
 
-## 100% CPU usage for up to 20 minutes may occur
+## 100% CPU usage for a long duration of time may occur
+
+The loading of the following page has the equivalent of over 200 videos loading at once. Your computer may not handle this well (the computer that originally developed this page had 32 gigabytes of RAM, 16 CPU cores @ 5 GHz, and used excessive amounts of CPU for over 20 seconds. The computer also ran Ubuntu 22.04 with GNOME 42.0. If you have a less powerful computer, it may take longer to load, and might use even more CPU)
 
 ### ( [Confirm entry](/Seasons/!Compilation/ConfirmEntry/) | [Go back](/Seasons/) )
 
@@ -17,7 +19,7 @@ You can navigate this directory without interacting with its files through this 
 
 #### Index
 
-**Last updated:** `2022, Thursday, December 8th at 6:20 pm PST`
+**Last updated:** `2023, Friday, January 6th at 5:49 pm PST`
 
 📁️ [ConfirmEntry](/Seasons/!Compilation/ConfirmEntry/) **NOT SAFE**
 
@@ -145,6 +147,48 @@ You can navigate this directory without interacting with its files through this 
 
 > > > 📄️ [`GitHub_Stats_A_2023.01.10.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.10.md) **NOT SAFE**
 
+> > > 📄️ [`GitHub_Stats_A_2023.01.11.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.11.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.12.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.12.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.13.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.13.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.14.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.14.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.15.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.15.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.16.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.16.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.17.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.17.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.18.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.18.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.19.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.19.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.20.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.20.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.21.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.21.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.22.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.22.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.23.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.23.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.24.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.24.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.25.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.25.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.26.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.26.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.27.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.27.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.28.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.28.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.29.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.29.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.30.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.30.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.01.31.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.31.md) **NOT SAFE**
+
 **More files to be listed in the future.**
 
 </details>
@@ -167,9 +211,11 @@ You can navigate this directory without interacting with its files through this 
 
 > > > > > > > 📄️ [`README_V2.md`](/Seasons/!Compilation/ConfirmEntry/!OldVersions/README/English/USA/1/1-100/README_V2.md) **NOT SAFE**
 
+> > > > > > > 📄️ [`README_V3.md`](/Seasons/!Compilation/ConfirmEntry/!OldVersions/README/English/USA/1/1-100/README_V3.md) **NOT SAFE**
+
 </details>
 
-📄️ [`README.md`](/Seasons/!Compilation/ConfirmEntry/!OldVersions/README/English/USA/1/1-100/README_V1.md) **NOT SAFE**
+📄️ [`README.md`](/Seasons/!Compilation/ConfirmEntry/README.md) **NOT SAFE**
 
 ***
 
@@ -183,9 +229,9 @@ You can navigate this directory without interacting with its files through this 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Wednesday, December 14th at 7:05 pm PST)`
+**File version:** `4 (2022, Friday, January 6th at 5:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `260`
+**Line count (including blank lines and compiler line):** `331`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -193,9 +239,9 @@ You can navigate this directory without interacting with its files through this 
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-**You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details>
 
@@ -225,6 +271,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> Changes:
+
 - [x] Added the `Safe entry options` section
 - - [x] Added a dropdown for all the files within the directory, with a link to each one, and an indicator on if it is safe or not
 - [x] Updated the `File date`
@@ -235,6 +283,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 3 (2022, Wednesday, December 14th at 7:05 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
 
 - [x] Updated the title section to add 4 warning emojis and 3 exclamation points
 - [x] Updated the `Safe entry options` section
@@ -251,6 +301,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added an entry for version 2
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Friday, January 6th at 5:52 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section to remove the overestimated 20 minute estimate, and give an account of how the page handled on the System76 Pangolin that developed the page.
+- [x] Updated the `Safe entry options` section
+- - [x] Updated the 2023 daily compilation section, which includes links and indicators for the last 21 files of January
+- - [x] Added a link to version 3 of the main `README` file
+- - [x] Fixed the link to the main `README` file
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
