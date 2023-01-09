@@ -359,6 +359,118 @@ Today was a category 0 day.
 
 </details> <!-- 2023 January 6th !-->
 
+### 2023, Saturday, January 7th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Saturday, January 7th</b></p></summary>
+
+**2023, Saturday, January 7th**
+
+The process ran unsuccessfully yet again today, going into day 18 of a failure streak. The process failed within 0 hours, 1 minute and 13 seconds. There were some `aiohttp` errors, followed by a `AttributeError: 'NoneType' object has no attribute 'get'` error. This error is starting to become very common and may surpass the `Size changed during iteration` error in terms of occurrence.
+
+Additionally, there was an error while handling the error; `During handling of the above exception, another exception occurred:` , followed by another error; `AttributeError: 'NoneType' object has no attribute 'get'` error, and several `aiohttp failed for GraphQL query` errors, before it finally ended with `Error: Process completed with exit code 1.`
+ <!-- there was a `size changed during iteration` error today, which is the most common error I receive when the workflow runs unsuccessfully. The failure may have been my fault this time, as I was slightly busy at the time that the workflow started. !--> <!-- Additionally, there were some `aiohttp` errors today. !-->  No repositories were scanned yet again today. <!-- Assembly has surpassed Java for the top 10 slots on off days, due to usage in recent Android x64 development. Today for some reason, all 3 of the recent languages that have been increasing in use (Java, Assembly, and JSON) all appeared on the list, additionally, Ruby also appeared on the list. SVG usage has been stressing me out for a while, and I don't know how to fix it. There is a chance it may overtake both HTML and Python on both on and off days by late 2023 or 2024.!-->
+
+I plan to contact [`@jstrieb`](https://github.com/jstrieb/) some time this month. The workflow has never done so poorly before.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate is still well over 50%
+
+I put the workflow runs into 28 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2500+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2500+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2500+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2500+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2500+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2500+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2500+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2500+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2500+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2500+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2500+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2500+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2500+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2500+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2500+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2500+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2500+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2500+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2500+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2500+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2500+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2500+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2500+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2500+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 2500+ repositories scanned/indexed_
+- **Category 27:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 27:** `R2500` - _Major success, with 2500-2599 out of 2400+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 January 7th !-->
+
+### 2023, Sunday, January 8th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Sunday, January 8th</b></p></summary>
+
+**2023, Sunday, January 8th**
+
+The process ran unsuccessfully as usaul today, going into day 19 of a failure streak. The process failed within 0 hours, 1 minute and 18 seconds. There were some `aiohttp` errors, followed by a `AttributeError: 'NoneType' object has no attribute 'get'` error. This error is starting to become very common and may surpass the `Size changed during iteration` error in terms of occurrence.
+
+Additionally, there was an error while handling the error; `During handling of the above exception, another exception occurred:` , followed by another error; `AttributeError: 'NoneType' object has no attribute 'get'` error, and several `aiohttp failed for GraphQL query` errors, before it finally ended with `Error: Process completed with exit code 1.`
+ <!-- there was a `size changed during iteration` error today, which is the most common error I receive when the workflow runs unsuccessfully. The failure may have been my fault this time, as I was slightly busy at the time that the workflow started. !--> <!-- Additionally, there were some `aiohttp` errors today. !-->  No repositories were scanned yet again today. <!-- Assembly has surpassed Java for the top 10 slots on off days, due to usage in recent Android x64 development. Today for some reason, all 3 of the recent languages that have been increasing in use (Java, Assembly, and JSON) all appeared on the list, additionally, Ruby also appeared on the list. SVG usage has been stressing me out for a while, and I don't know how to fix it. There is a chance it may overtake both HTML and Python on both on and off days by late 2023 or 2024.!-->
+
+I plan to contact [`@jstrieb`](https://github.com/jstrieb/) some time this month. The workflow has never done so poorly before.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate is still well over 50%
+
+I put the workflow runs into 28 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2500+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2500+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2500+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2500+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2500+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2500+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2500+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2500+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2500+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2500+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2500+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2500+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2500+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2500+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2500+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2500+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2500+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2500+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2500+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2500+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2500+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2500+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2500+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2500+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 2500+ repositories scanned/indexed_
+- **Category 27:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 27:** `R2500` - _Major success, with 2500-2599 out of 2400+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 January 8th !-->
+
 </details> <!-- 2023 January !-->
 
 </details> <!-- Season 7 !-->
@@ -415,7 +527,7 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | Success rate (days) | `0` |
 | Full success (days) | `0` |
 | Partial success (days) | `0` |
-| Failure rate (days) | `6` |
+| Failure rate (days) | `8` |
 | Full success % | `000.00%` |
 | Partial success % | `000.00%` |
 | Overall success % | `000.00%` |
@@ -430,8 +542,8 @@ I am adding these verbatim. The same errors seem to have been duplicates.
 | 2023, Wednesday, January 4th | :x: | :x: |
 | 2023, Thursday, January 5th | :x: | :x: |
 | 2023, Friday, January 6th | :x: | :x: |
-| 2023, Saturday, January 7th | Coming soon | Coming soon |
-| 2023, Sunday, January 8th | Coming soon | Coming soon |
+| 2023, Saturday, January 7th | :x: | :x: |
+| 2023, Sunday, January 8th | :x: | :x: |
 | 2023, Monday, January 9th | Coming soon | Coming soon |
 | 2023, Tuesday, January 10th | Coming soon | Coming soon |
 | 2023, Wednesday, January 11th | Coming soon | Coming soon |
@@ -522,9 +634,9 @@ The access token for this project was renewed on 2023, January 1st. I am continu
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Friday, January 46th at 6:00 pm PST)`
+**File version:** `4 (2023, Sunday, January 8th at 9:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `607`
+**Line count (including blank lines and compiler line):** `736`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -598,6 +710,23 @@ The access token for this project was renewed on 2023, January 1st. I am continu
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Sunday, January 8th at 9:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/7/!OldVersions/README/English/USA/README_V4.md)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added an entry for 2023, January 7th
+- [x] Added an entry for 2023, January 8th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 4
 
 </details>
 
