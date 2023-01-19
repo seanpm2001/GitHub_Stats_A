@@ -1,0 +1,63 @@
+2023-01-17T01:43:04.6086886Z ##[group]Run python3 --version
+2023-01-17T01:43:04.6087229Z [36;1mpython3 --version[0m
+2023-01-17T01:43:04.6087498Z [36;1mpython3 generate_images.py[0m
+2023-01-17T01:43:04.6146920Z shell: /usr/bin/bash -e {0}
+2023-01-17T01:43:04.6147179Z env:
+2023-01-17T01:43:04.6147459Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.15/x64
+2023-01-17T01:43:04.6147822Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.8.15/x64/lib/pkgconfig
+2023-01-17T01:43:04.6148162Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.15/x64
+2023-01-17T01:43:04.6148497Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.15/x64
+2023-01-17T01:43:04.6148830Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.15/x64
+2023-01-17T01:43:04.6149167Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.15/x64/lib
+2023-01-17T01:43:04.6149624Z   ACCESS_TOKEN: ***
+2023-01-17T01:43:04.6149940Z   GITHUB_TOKEN: ***
+2023-01-17T01:43:04.6150155Z   EXCLUDED: 
+2023-01-17T01:43:04.6150364Z   EXCLUDED_LANGS: 
+2023-01-17T01:43:04.6150593Z   EXCLUDE_FORKED_REPOS: true
+2023-01-17T01:43:04.6150846Z ##[endgroup]
+2023-01-17T01:43:04.6248786Z Python 3.8.15
+2023-01-17T01:43:31.0559399Z unhandled exception during asyncio.run() shutdown
+2023-01-17T01:43:31.0565141Z task: <Task finished name='Task-3' coro=<generate_overview() done, defined at generate_images.py:30> exception=AttributeError("'NoneType' object has no attribute 'get'")>
+2023-01-17T01:43:31.0565783Z Traceback (most recent call last):
+2023-01-17T01:43:31.0577375Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2023-01-17T01:43:31.0577836Z     return loop.run_until_complete(main)
+2023-01-17T01:43:31.0578300Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2023-01-17T01:43:31.0579023Z     return future.result()
+2023-01-17T01:43:31.0579346Z   File "generate_images.py", line 132, in main
+2023-01-17T01:43:31.0579707Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2023-01-17T01:43:31.0580137Z   File "generate_images.py", line 63, in generate_languages
+2023-01-17T01:43:31.0580519Z     (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
+2023-01-17T01:43:31.0581136Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 423, in languages
+2023-01-17T01:43:31.0582105Z     await self.get_stats()
+2023-01-17T01:43:31.0582528Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2023-01-17T01:43:31.0582967Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2023-01-17T01:43:31.0583520Z AttributeError: 'NoneType' object has no attribute 'get'
+2023-01-17T01:43:31.0583745Z 
+2023-01-17T01:43:31.0583927Z During handling of the above exception, another exception occurred:
+2023-01-17T01:43:31.0584322Z 
+2023-01-17T01:43:31.0584611Z Traceback (most recent call last):
+2023-01-17T01:43:31.0585236Z   File "generate_images.py", line 38, in generate_overview
+2023-01-17T01:43:31.0585634Z     output = re.sub("{{ name }}", await s.name, output)
+2023-01-17T01:43:31.0586029Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2023-01-17T01:43:31.0586357Z     await self.get_stats()
+2023-01-17T01:43:31.0586738Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2023-01-17T01:43:31.0587501Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2023-01-17T01:43:31.0587968Z AttributeError: 'NoneType' object has no attribute 'get'
+2023-01-17T01:43:31.0588322Z Traceback (most recent call last):
+2023-01-17T01:43:31.0588671Z   File "generate_images.py", line 136, in <module>
+2023-01-17T01:43:31.0588948Z     asyncio.run(main())
+2023-01-17T01:43:31.0589347Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2023-01-17T01:43:31.0589733Z     return loop.run_until_complete(main)
+2023-01-17T01:43:31.0590511Z   File "/opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2023-01-17T01:43:31.0591565Z     return future.result()
+2023-01-17T01:43:31.0592081Z   File "generate_images.py", line 132, in main
+2023-01-17T01:43:31.0592599Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2023-01-17T01:43:31.0593028Z   File "generate_images.py", line 63, in generate_languages
+2023-01-17T01:43:31.0593396Z     (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
+2023-01-17T01:43:31.0593832Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 423, in languages
+2023-01-17T01:43:31.0594165Z     await self.get_stats()
+2023-01-17T01:43:31.0594516Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2023-01-17T01:43:31.0594912Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2023-01-17T01:43:31.0595365Z AttributeError: 'NoneType' object has no attribute 'get'
+2023-01-17T01:43:31.0595972Z aiohttp failed for GraphQL query
+2023-01-17T01:43:31.0877648Z ##[error]Process completed with exit code 1.
