@@ -35,10 +35,10 @@ This directory holds archives of successful workflow runs structured and sorted 
 
 [`2023`](/Archives/2023/) - Successful workflow runs from 2023, January 1st to 2023, December 31st
 
-> **Coming soon** - This file was last modified on 2022, Saturday, December 24th, and does not yet reflect 2023 data.
+> [`01 January`](/Archives/2023/01_January/) - Successful workflow runs from 2023, January 1st to 2023, January 31st
 
 ***
 
-**File version:** `1 (2022, Saturday, December 24th at 6:32 pm PST)`
+**File version:** `2 (2023, Tuesday, January 24th at 6:56 pm PST)`
 
 ***
