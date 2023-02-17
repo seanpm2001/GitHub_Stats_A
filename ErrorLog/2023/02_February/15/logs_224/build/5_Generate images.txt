@@ -1,0 +1,37 @@
+2023-02-17T01:35:46.6916189Z ##[group]Run python3 --version
+2023-02-17T01:35:46.6916476Z [36;1mpython3 --version[0m
+2023-02-17T01:35:46.6916713Z [36;1mpython3 generate_images.py[0m
+2023-02-17T01:35:46.6969084Z shell: /usr/bin/bash -e {0}
+2023-02-17T01:35:46.6969300Z env:
+2023-02-17T01:35:46.6969555Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-17T01:35:46.6969903Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.8.16/x64/lib/pkgconfig
+2023-02-17T01:35:46.6970230Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-17T01:35:46.6970539Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-17T01:35:46.6970839Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-17T01:35:46.6971144Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.16/x64/lib
+2023-02-17T01:35:46.6971556Z   ACCESS_TOKEN: ***
+2023-02-17T01:35:46.6971867Z   GITHUB_TOKEN: ***
+2023-02-17T01:35:46.6972059Z   EXCLUDED: 
+2023-02-17T01:35:46.6972246Z   EXCLUDED_LANGS: 
+2023-02-17T01:35:46.6972451Z   EXCLUDE_FORKED_REPOS: true
+2023-02-17T01:35:46.6972678Z ##[endgroup]
+2023-02-17T01:35:46.7061587Z Python 3.8.16
+2023-02-17T01:36:22.6563099Z aiohttp failed for GraphQL query
+2023-02-17T01:36:22.6563765Z aiohttp failed for GraphQL query
+2023-02-17T01:36:22.6953096Z Traceback (most recent call last):
+2023-02-17T01:36:22.6962415Z   File "generate_images.py", line 136, in <module>
+2023-02-17T01:36:22.7048803Z     asyncio.run(main())
+2023-02-17T01:36:22.7049251Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2023-02-17T01:36:22.7049601Z     return loop.run_until_complete(main)
+2023-02-17T01:36:22.7050009Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2023-02-17T01:36:22.7050339Z     return future.result()
+2023-02-17T01:36:22.7050614Z   File "generate_images.py", line 132, in main
+2023-02-17T01:36:22.7050949Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2023-02-17T01:36:22.7051309Z   File "generate_images.py", line 38, in generate_overview
+2023-02-17T01:36:22.7051664Z     output = re.sub("{{ name }}", await s.name, output)
+2023-02-17T01:36:22.7052031Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2023-02-17T01:36:22.7052315Z     await self.get_stats()
+2023-02-17T01:36:22.7052939Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2023-02-17T01:36:22.7053315Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2023-02-17T01:36:22.7053862Z AttributeError: 'NoneType' object has no attribute 'get'
+2023-02-17T01:36:22.7206697Z ##[error]Process completed with exit code 1.
