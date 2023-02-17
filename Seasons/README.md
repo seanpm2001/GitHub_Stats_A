@@ -21,8 +21,9 @@ A season is a time period in which workflow statistics run daily, and data is co
 | `S04` | [`/Seasons/4/`](/Seasons/4/) | 2022, September 25th to 2022, October 24th | Very good results |
 | `S05` | [`/Seasons/5/`](/Seasons/5/) | 2022, October 25th to 2022, November 30th | Extended by 6 days to let the next season start on the first day of the month |
 | `S06` | [`/Seasons/6/`](/Seasons/6/) | 2022, December 1st to 2022, December 31st | Not off to a good start |
-| `S07` | [`/Seasons/7/`](/Seasons/7) | 2023, January 1st to 2023, January 31st | A summary will be written once season 8 starts |
-| `S08` | [`Coming soon`](/Seasons/) | TBD | TBD |
+| `S07` | [`/Seasons/7/`](/Seasons/7) | 2023, January 1st to 2023, January 31st | 100% failure rate, with a worse streak than the GitHub flag era. |
+| `S08` | [`/Seasons/8/`](/Seasons/8) | 2023, February 1st to 2023, February 28th | A summary will be written once season 9 starts
+| `S09` | [`Coming soon`](/Seasons/) | TBD | TBD |
 
 ##### Compilation
 
@@ -42,9 +43,9 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Tuesday, January 24th at 7:00 pm PST)`
+**File version:** `4 (2023, Thursday, February 16th at 11:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `128`
+**Line count (including blank lines and compiler line):** `147`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -119,6 +120,24 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Thursday, February 16th at 11:04 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `What is a season?` section
+- - [x] Updated the `Seasons` subsection, now including info for season 8 and a placeholder for season 9
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
