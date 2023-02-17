@@ -1,0 +1,122 @@
+2023-02-10T01:35:37.7588568Z ##[group]Run python3 --version
+2023-02-10T01:35:37.7588858Z [36;1mpython3 --version[0m
+2023-02-10T01:35:37.7589086Z [36;1mpython3 generate_images.py[0m
+2023-02-10T01:35:37.7641627Z shell: /usr/bin/bash -e {0}
+2023-02-10T01:35:37.7641854Z env:
+2023-02-10T01:35:37.7642113Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-10T01:35:37.7642454Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.8.16/x64/lib/pkgconfig
+2023-02-10T01:35:37.7642799Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-10T01:35:37.7643117Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-10T01:35:37.7643424Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-10T01:35:37.7643731Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.16/x64/lib
+2023-02-10T01:35:37.7644241Z   ACCESS_TOKEN: ***
+2023-02-10T01:35:37.7644562Z   GITHUB_TOKEN: ***
+2023-02-10T01:35:37.7644765Z   EXCLUDED: 
+2023-02-10T01:35:37.7644957Z   EXCLUDED_LANGS: 
+2023-02-10T01:35:37.7645158Z   EXCLUDE_FORKED_REPOS: true
+2023-02-10T01:35:37.7645393Z ##[endgroup]
+2023-02-10T01:35:37.7730929Z Python 3.8.16
+2023-02-10T01:36:12.5886872Z unhandled exception during asyncio.run() shutdown
+2023-02-10T01:36:12.5888024Z task: <Task finished name='Task-2' coro=<generate_languages() done, defined at generate_images.py:52> exception=ChunkedEncodingError(ProtocolError("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read)))>
+2023-02-10T01:36:12.5888619Z Traceback (most recent call last):
+2023-02-10T01:36:12.5982475Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2023-02-10T01:36:12.5982936Z     return loop.run_until_complete(main)
+2023-02-10T01:36:12.5983383Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2023-02-10T01:36:12.5983740Z     return future.result()
+2023-02-10T01:36:12.5984039Z   File "generate_images.py", line 132, in main
+2023-02-10T01:36:12.5984390Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2023-02-10T01:36:12.5984768Z   File "generate_images.py", line 38, in generate_overview
+2023-02-10T01:36:12.5985330Z     output = re.sub("{{ name }}", await s.name, output)
+2023-02-10T01:36:12.5985719Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2023-02-10T01:36:12.5986037Z     await self.get_stats()
+2023-02-10T01:36:12.5986395Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2023-02-10T01:36:12.5986783Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2023-02-10T01:36:12.5987266Z AttributeError: 'NoneType' object has no attribute 'get'
+2023-02-10T01:36:12.5987460Z 
+2023-02-10T01:36:12.5987634Z During handling of the above exception, another exception occurred:
+2023-02-10T01:36:12.5987843Z 
+2023-02-10T01:36:12.5987953Z Traceback (most recent call last):
+2023-02-10T01:36:12.5988316Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 46, in query
+2023-02-10T01:36:12.5988670Z     r_async = await self.session.post(
+2023-02-10T01:36:12.5989198Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/aiohttp/client.py", line 400, in _request
+2023-02-10T01:36:12.5989601Z     raise RuntimeError("Session is closed")
+2023-02-10T01:36:12.5989870Z RuntimeError: Session is closed
+2023-02-10T01:36:12.5990024Z 
+2023-02-10T01:36:12.5990191Z During handling of the above exception, another exception occurred:
+2023-02-10T01:36:12.5990397Z 
+2023-02-10T01:36:12.5990503Z Traceback (most recent call last):
+2023-02-10T01:36:12.5991061Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/response.py", line 761, in _update_chunk_length
+2023-02-10T01:36:12.5991427Z     self.chunk_left = int(line, 16)
+2023-02-10T01:36:12.5991751Z ValueError: invalid literal for int() with base 16: b''
+2023-02-10T01:36:12.5991941Z 
+2023-02-10T01:36:12.5992102Z During handling of the above exception, another exception occurred:
+2023-02-10T01:36:12.5992445Z 
+2023-02-10T01:36:12.5992549Z Traceback (most recent call last):
+2023-02-10T01:36:12.5993081Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/response.py", line 444, in _error_catcher
+2023-02-10T01:36:12.5993407Z     yield
+2023-02-10T01:36:12.5993882Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/response.py", line 828, in read_chunked
+2023-02-10T01:36:12.5994245Z     self._update_chunk_length()
+2023-02-10T01:36:12.5994770Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/response.py", line 765, in _update_chunk_length
+2023-02-10T01:36:12.5995175Z     raise InvalidChunkLength(self, line)
+2023-02-10T01:36:12.5995631Z urllib3.exceptions.InvalidChunkLength: InvalidChunkLength(got length b'', 0 bytes read)
+2023-02-10T01:36:12.5995890Z 
+2023-02-10T01:36:12.5996058Z During handling of the above exception, another exception occurred:
+2023-02-10T01:36:12.5996269Z 
+2023-02-10T01:36:12.5996381Z Traceback (most recent call last):
+2023-02-10T01:36:12.5996898Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/models.py", line 816, in generate
+2023-02-10T01:36:12.5997315Z     yield from self.raw.stream(chunk_size, decode_content=True)
+2023-02-10T01:36:12.5997889Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/response.py", line 624, in stream
+2023-02-10T01:36:12.5998296Z     for line in self.read_chunked(amt, decode_content=decode_content):
+2023-02-10T01:36:12.5998846Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/response.py", line 857, in read_chunked
+2023-02-10T01:36:12.5999216Z     self._original_response.close()
+2023-02-10T01:36:12.5999584Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/contextlib.py", line 131, in __exit__
+2023-02-10T01:36:12.5999932Z     self.gen.throw(type, value, traceback)
+2023-02-10T01:36:12.6000461Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/response.py", line 461, in _error_catcher
+2023-02-10T01:36:12.6000890Z     raise ProtocolError("Connection broken: %r" % e, e)
+2023-02-10T01:36:12.6001558Z urllib3.exceptions.ProtocolError: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-02-10T01:36:12.6001888Z 
+2023-02-10T01:36:12.6002053Z During handling of the above exception, another exception occurred:
+2023-02-10T01:36:12.6002259Z 
+2023-02-10T01:36:12.6002366Z Traceback (most recent call last):
+2023-02-10T01:36:12.6002702Z   File "generate_images.py", line 63, in generate_languages
+2023-02-10T01:36:12.6003057Z     (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
+2023-02-10T01:36:12.6003474Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 423, in languages
+2023-02-10T01:36:12.6003794Z     await self.get_stats()
+2023-02-10T01:36:12.6004150Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 312, in get_stats
+2023-02-10T01:36:12.6004503Z     raw_results = await self.queries.query(
+2023-02-10T01:36:12.6004870Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 58, in query
+2023-02-10T01:36:12.6005193Z     r_requests = requests.post(
+2023-02-10T01:36:12.6005674Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/api.py", line 115, in post
+2023-02-10T01:36:12.6006074Z     return request("post", url, data=data, json=json, **kwargs)
+2023-02-10T01:36:12.6006588Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/api.py", line 59, in request
+2023-02-10T01:36:12.6006987Z     return session.request(method=method, url=url, **kwargs)
+2023-02-10T01:36:12.6007516Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 587, in request
+2023-02-10T01:36:12.6007881Z     resp = self.send(prep, **send_kwargs)
+2023-02-10T01:36:12.6008442Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 745, in send
+2023-02-10T01:36:12.6008770Z     r.content
+2023-02-10T01:36:12.6009226Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/models.py", line 899, in content
+2023-02-10T01:36:12.6009636Z     self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+2023-02-10T01:36:12.6010189Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/models.py", line 818, in generate
+2023-02-10T01:36:12.6010565Z     raise ChunkedEncodingError(e)
+2023-02-10T01:36:12.6011350Z requests.exceptions.ChunkedEncodingError: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2023-02-10T01:36:12.6011816Z aiohttp failed for GraphQL query
+2023-02-10T01:36:12.6012073Z aiohttp failed for GraphQL query
+2023-02-10T01:36:12.6012324Z aiohttp failed for GraphQL query
+2023-02-10T01:36:12.6012576Z aiohttp failed for GraphQL query
+2023-02-10T01:36:12.6012854Z Traceback (most recent call last):
+2023-02-10T01:36:12.6013165Z   File "generate_images.py", line 136, in <module>
+2023-02-10T01:36:12.6013427Z     asyncio.run(main())
+2023-02-10T01:36:12.6013778Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2023-02-10T01:36:12.6014127Z     return loop.run_until_complete(main)
+2023-02-10T01:36:12.6014522Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2023-02-10T01:36:12.6014872Z     return future.result()
+2023-02-10T01:36:12.6015157Z   File "generate_images.py", line 132, in main
+2023-02-10T01:36:12.6015487Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2023-02-10T01:36:12.6015856Z   File "generate_images.py", line 38, in generate_overview
+2023-02-10T01:36:12.6016169Z     output = re.sub("{{ name }}", await s.name, output)
+2023-02-10T01:36:12.6016538Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2023-02-10T01:36:12.6016886Z     await self.get_stats()
+2023-02-10T01:36:12.6017309Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2023-02-10T01:36:12.6017696Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2023-02-10T01:36:12.6018109Z AttributeError: 'NoneType' object has no attribute 'get'
+2023-02-10T01:36:12.6141435Z ##[error]Process completed with exit code 1.
