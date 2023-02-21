@@ -1022,11 +1022,117 @@ Today was a category 0 day.
 
 ### 2023, Sunday, February 19th
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Sunday, February 19th</b></p></summary>
+
+**2023, Sunday, February 19th**
+
+The process ran unsuccessfully as usual today, going into day 61 of a failure streak. The process failed within 6 hours, 1 minute and 34 seconds. There was something very surprising today: the process ran for longer than 2 minutes. It threw several thousand AIOHTTP errors, but it didn't fail quickly. It hasn't done this good in 61 days. GitHub eventually timed out due to a 360 minute limit for workflows, and I was wondering if this limit wasn't there, how long it would have taken, and if it could have succeeded. I feel it likely had a recursive break somewhere, and would never end, so the 360 minute limit was a good thing. I had to leave the workflow running overnight (well, up until near midnight, but my laptop had been shut down for more than an hour by the time it failed) I would have worked on this repository today if it would have succeeded before 9:30 pm. Instead, I updated my GitHub starlist repository.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. I have pretty much given up on the project for the time being. It is being partially maintained, in the hope that it might work again, and that a fix can be made. It isn't too much work to maintain.
+
+The patch reduced some errors, but ultimately did not fix the workflow as of yet.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 30 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2700+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2700+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2700+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2700+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2700+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2700+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2700+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2700+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2700+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2700+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2700+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2700+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2700+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2700+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2700+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2700+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2700+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2700+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2700+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2700+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2700+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2700+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2700+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2700+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 2700+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 2700+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 2700+ repositories scanned/indexed_
+- **Category 29:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 30:** `R2700` - _Major success, with 2700-2799 out of 2800+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 February 19th !-->
 
 ### 2023, Monday, February 20th
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Monday, February 20th</b></p></summary>
+
+**2023, Monday, February 20th**
+
+The process ran unsuccessfully as usual today, going into day 62 of a failure streak. The process failed within 0 hours, 8 minute and 1 seconds. There was a wait for it to find a runner, then once it started, it failed within 2 minutes. So I guess things are back to "normal" here. I still have hope that it may succeed again one day, last night was proof that there is still a chance.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. I have pretty much given up on the project for the time being. It is being partially maintained, in the hope that it might work again, and that a fix can be made. It isn't too much work to maintain.
+
+The patch reduced some errors, but ultimately did not fix the workflow as of yet.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 30 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2700+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2700+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2700+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2700+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2700+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2700+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2700+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2700+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2700+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2700+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2700+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2700+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2700+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2700+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2700+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2700+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2700+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2700+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2700+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2700+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2700+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2700+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2700+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2700+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 2700+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 2700+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 2700+ repositories scanned/indexed_
+- **Category 29:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 30:** `R2700` - _Major success, with 2700-2799 out of 2800+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 February 20th !-->
 
 ### 2023, Tuesday, February 21st
 
@@ -1080,11 +1186,11 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 | Type rate | Count |
 |---|---|
-| Success rate (days) | `0` |
-| Full success (days) | `0` |
-| Partial success (days) | `0` |
-| Failure rate (days) | `18` |
-| Days left in season | `10` |
+| Success rate (days) | `00` |
+| Full success (days) | `00` |
+| Partial success (days) | `00` |
+| Failure rate (days) | `20` |
+| Days left in season | `08` |
 | Full success % | `000.00%` |
 | Partial success % | `000.00%` |
 | Overall success % | `000.00%` |
@@ -1111,8 +1217,8 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2023, Thursday, February 16th | :x: | :x: |
 | 2023, Friday, February 17th | :x: | :x: |
 | 2023, Saturday, February 18th | :x: | :x: |
-| 2023, Sunday, February 19th | Coming soon | Coming soon |
-| 2023, Monday, February 20th | Coming soon | Coming soon |
+| 2023, Sunday, February 19th | :x: | :x: |
+| 2023, Monday, February 20th | :x: | :x: |
 | 2023, Tuesday, February 21st | Coming soon | Coming soon |
 | 2023, Wednesday, February 22nd | Coming soon | Coming soon |
 | 2023, Thursday, February 23rd | Coming soon | Coming soon |
@@ -1208,9 +1314,9 @@ Coming soon.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Saturday, February 18th at 6:05 pm PST)`
+**File version:** `4 (2023, Monday, February 20th at 9:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,308`
+**Line count (including blank lines and compiler line):** `1,431`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1299,6 +1405,23 @@ Coming soon.
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Monday, February 20th at 9:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/8/!OldVersions/README/English/USA/README_V4.md)
+
+> Changes:
+
+- [x] Updated the main table
+- - [x] Added an entry for 2023, February 19th
+- - [x] Added an entry for 2023, February 20th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 4
 
 </details>
 
