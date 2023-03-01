@@ -1,0 +1,35 @@
+2023-02-22T02:50:52.0975843Z ##[group]Run python3 --version
+2023-02-22T02:50:52.0976132Z [36;1mpython3 --version[0m
+2023-02-22T02:50:52.0976372Z [36;1mpython3 generate_images.py[0m
+2023-02-22T02:50:52.1029178Z shell: /usr/bin/bash -e {0}
+2023-02-22T02:50:52.1029406Z env:
+2023-02-22T02:50:52.1029677Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-22T02:50:52.1030020Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.8.16/x64/lib/pkgconfig
+2023-02-22T02:50:52.1030360Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-22T02:50:52.1030673Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-22T02:50:52.1030982Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.16/x64
+2023-02-22T02:50:52.1031288Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.16/x64/lib
+2023-02-22T02:50:52.1031702Z   ACCESS_TOKEN: ***
+2023-02-22T02:50:52.1032016Z   GITHUB_TOKEN: ***
+2023-02-22T02:50:52.1032212Z   EXCLUDED: 
+2023-02-22T02:50:52.1032412Z   EXCLUDED_LANGS: 
+2023-02-22T02:50:52.1032722Z   EXCLUDE_FORKED_REPOS: true
+2023-02-22T02:50:52.1032965Z ##[endgroup]
+2023-02-22T02:50:52.1120236Z Python 3.8.16
+2023-02-22T02:51:33.9467362Z Traceback (most recent call last):
+2023-02-22T02:51:33.9478221Z   File "generate_images.py", line 136, in <module>
+2023-02-22T02:51:33.9523678Z     asyncio.run(main())
+2023-02-22T02:51:33.9524112Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2023-02-22T02:51:33.9524457Z     return loop.run_until_complete(main)
+2023-02-22T02:51:33.9524867Z   File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2023-02-22T02:51:33.9525229Z     return future.result()
+2023-02-22T02:51:33.9525522Z   File "generate_images.py", line 132, in main
+2023-02-22T02:51:33.9525851Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2023-02-22T02:51:33.9526209Z   File "generate_images.py", line 38, in generate_overview
+2023-02-22T02:51:33.9526535Z     output = re.sub("{{ name }}", await s.name, output)
+2023-02-22T02:51:33.9526913Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 390, in name
+2023-02-22T02:51:33.9527219Z     await self.get_stats()
+2023-02-22T02:51:33.9527560Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 319, in get_stats
+2023-02-22T02:51:33.9527938Z     self._name = raw_results.get("data", {}).get("viewer", {}).get("name", None)
+2023-02-22T02:51:33.9528469Z AttributeError: 'NoneType' object has no attribute 'get'
+2023-02-22T02:51:33.9711987Z ##[error]Process completed with exit code 1.
