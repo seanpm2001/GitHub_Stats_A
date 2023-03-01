@@ -33,12 +33,18 @@ This directory holds archives of successful and unsuccessul workflow run logs st
 
 > [`12 December`](/ErrorLog/2022/12_December/) - Error logs runs from 2022, December 1st to 2022, December 31st
 
-[`2023`](/Archives/2023/) - Error logs from 2023, January 1st to 2023, December 31st
+[`2023`](/ErrorLog/2023/) - Error logs from 2023, January 1st to 2023, December 31st
 
-> **Coming soon** - This file was last modified on 2022, Sunday, December 25th, and does not yet reflect 2023 data.
+> [`01_January`](/ErrorLog/2023/01_January/) - Error logs from 2023, January 1st to 2023, January 31st
+
+> [`02_February`](/ErrorLog/2023/02_February/) - Error logs from 2023, February 1st to 2023, February 28th
+
+> **03 March to 12 December** - Coming soon (This file was last modified on 2023, Wednesday, March 1st (before 3:00 pm PST) and does not yet reflect all 2023 data)
+
+<!-- [`2024`](/ErrorLog/2024/) - Error logs from 2024, January 1st to 2024, December 31st !-->
 
 ***
 
-**File version:** `1 (2022, Sunday, December 25th at 7:31 pm PST)`
+**File version:** `2 (2023, Wednesday, March 1st at 2:40 pm PST)`
 
 ***
