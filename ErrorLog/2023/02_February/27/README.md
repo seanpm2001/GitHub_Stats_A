@@ -1,6 +1,6 @@
 ***
 
-# successful day
+# Successful day
 
 ## 2023, Monday, February 27th
 
