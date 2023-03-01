@@ -1136,35 +1136,462 @@ Today was a category 0 day.
 
 ### 2023, Tuesday, February 21st
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Tuesday, February 21st</b></p></summary>
+
+**2023, Tuesday, February 21st**
+
+The process ran unsuccessfully as usual today, going into day 63 of a failure streak. The process failed within 0 hours, 0 minutes and 57 seconds, although it took over an hour to start up, as there was a wait for it to find a runner.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. I have pretty much given up on the project for the time being. It is being partially maintained, in the hope that it might work again, and that a fix can be made. It isn't too much work to maintain.
+
+The patch reduced some errors, but ultimately did not fix the workflow as of yet.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 30 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2700+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2700+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2700+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2700+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2700+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2700+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2700+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2700+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2700+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2700+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2700+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2700+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2700+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2700+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2700+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2700+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2700+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2700+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2700+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2700+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2700+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2700+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2700+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2700+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 2700+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 2700+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 2700+ repositories scanned/indexed_
+- **Category 29:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 30:** `R2700` - _Major success, with 2700-2799 out of 2800+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 February 21st !-->
 
 ### 2023, Wednesday, February 22nd
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Wednesday, February 22nd</b></p></summary>
+
+**2023, Wednesday, February 22nd**
+
+The process actually ran successfully today, ending a 63 day failure streak. I have no idea why it started working again. The process succeeded within 2 hours, 16 minutes and 4 seconds. The workflow success was one of the highlights of my day today.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. It started working on its own, but I won't close the issue until I decide to.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 30 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2700+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2700+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2700+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2700+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2700+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2700+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2700+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2700+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2700+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2700+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2700+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2700+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2700+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2700+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2700+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2700+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2700+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2700+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2700+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2700+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2700+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2700+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2700+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2700+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 2700+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 2700+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 2700+ repositories scanned/indexed_
+- **Category 29:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 30:** `R2700` - _Major success, with 2700-2799 out of 2800+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 14 day.
+
+</details> <!-- 2023 February 22nd !-->
 
 ### 2023, Thursday, February 23rd
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Thursday, February 23rd</b></p></summary>
+
+**2023, Thursday, February 23rd**
+
+The process ran successfully again today. The process succeeded within 3 hours, 1 minute and 56 seconds. The workflow success was one of the highlights of my day today.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. It started working on its own, but I won't close the issue until I decide to.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 30 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 2700+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 2700+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 2700+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 2700+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 2700+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 2700+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 2700+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 2700+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 2700+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 2700+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 2700+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 2700+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 2700+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 2700+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 2700+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 2700+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 2700+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 2700+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 2700+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 2700+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 2700+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 2700+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 2700+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 2700+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 2700+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 2700+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 2700+ repositories scanned/indexed_
+- **Category 29:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 30:** `R2700` - _Major success, with 2700-2799 out of 2800+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 13 day.
+
+</details> <!-- 2023 February 23rd !-->
 
 ### 2023, Friday, February 24th
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Friday, February 24th</b></p></summary>
+
+**2023, Friday, February 24th**
+
+The process ran successfully again for a 3rd consecutive day today. The process succeeded within 2 hours, 52 minutes and 17 seconds. The workflow success was one of the highlights of my day today.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. It started working on its own, but I won't close the issue until I decide to.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 33 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3000+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3000+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3000+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3000+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3000+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3000+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3000+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3000+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3000+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3000+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3000+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3000+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3000+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3000+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3000+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3000+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3000+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3000+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3000+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3000+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3000+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3000+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3000+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3000+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3000+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3000+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3000+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3000+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3000+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3000+ repositories scanned/indexed_
+- **Category 32:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 33:** `R3000` - _Major success, with 3000-3099 out of 3000+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 14 day.
+
+</details> <!-- 2023 February 24th !-->
 
 ### 2023, Saturday, February 25th
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Saturday, February 25th</b></p></summary>
+
+**2023, Saturday, February 25th**
+
+The process ran unsuccessfully today, failing within 3 hours, 30 minutes and 9 seconds.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. It started working on its own, but I won't close the issue until I decide to.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 33 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3000+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3000+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3000+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3000+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3000+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3000+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3000+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3000+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3000+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3000+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3000+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3000+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3000+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3000+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3000+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3000+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3000+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3000+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3000+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3000+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3000+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3000+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3000+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3000+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3000+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3000+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3000+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3000+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3000+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3000+ repositories scanned/indexed_
+- **Category 32:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 33:** `R3000` - _Major success, with 3000-3099 out of 3000+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 February 25th !-->
 
 ### 2023, Sunday, February 26th
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Sunday, February 26th</b></p></summary>
+
+**2023, Sunday, February 26th**
+
+The process ran unsuccessfully again today, failing within 0 hours, 1 minute and 8 seconds.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. It started working on its own, but I won't close the issue until I decide to.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 33 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3000+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3000+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3000+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3000+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3000+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3000+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3000+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3000+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3000+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3000+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3000+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3000+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3000+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3000+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3000+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3000+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3000+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3000+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3000+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3000+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3000+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3000+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3000+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3000+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3000+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3000+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3000+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3000+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3000+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3000+ repositories scanned/indexed_
+- **Category 32:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 33:** `R3000` - _Major success, with 3000-3099 out of 3000+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 February 26th !-->
 
 ### 2023, Monday, February 27th
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Monday, February 27th</b></p></summary>
+
+**2023, Monday, February 27th**
+
+The process ran successfully today, succeeding within 2 hours, 48 minutes and 57 seconds.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. It started working on its own, but I won't close the issue until I decide to.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 33 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3000+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3000+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3000+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3000+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3000+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3000+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3000+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3000+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3000+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3000+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3000+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3000+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3000+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3000+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3000+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3000+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3000+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3000+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3000+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3000+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3000+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3000+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3000+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3000+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3000+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3000+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3000+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3000+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3000+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3000+ repositories scanned/indexed_
+- **Category 32:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 33:** `R3000` - _Major success, with 3000-3099 out of 3000+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 14 day.
+
+</details> <!-- 2023 February 27th !-->
 
 ### 2023, Tuesday, February 28th
 
-Coming soon
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Tuesday, February 28th</b></p></summary>
+
+**2023, Tuesday, February 28th**
+
+The process ran successfully today, succeeding within 4 hours, 36 minutes and 14 seconds.
+
+I have been trying to work on updating this repository every 2 days, but I have been failing. I was going to update the repository today as a last day of the month update, but the workflow ran too long, and I had to it the next day. The workflow did have a 100% success for the last day of the month. Hopefully it can remain stable into season 9.
+
+The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesday, January 24th, but there has been no response yet. It started working on its own, but I won't close the issue until I decide to.
+
+For the meantime, when the workflow has a 100% success, it will be counted as equivalent to 2 days of partial success. This month really has not been going well. The failure rate has stayed at 100% for over a month.
+
+I put the workflow runs into 33 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3000+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3000+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3000+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3000+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3000+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3000+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3000+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3000+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3000+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3000+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3000+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3000+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3000+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3000+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3000+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3000+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3000+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3000+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3000+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3000+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3000+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3000+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3000+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3000+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3000+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3000+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3000+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3000+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3000+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3000+ repositories scanned/indexed_
+- **Category 32:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+<!-- - **Category 33:** `R3000` - _Major success, with 3000-3099 out of 3000+ repositories scanned/indexed_ !-->
+
+</details>
+
+Today was a category 32 day.
+
+</details> <!-- 2023 February 28th !-->
 
 </details> <!-- 2023 February !-->
 
@@ -1186,16 +1613,16 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 
 | Type rate | Count |
 |---|---|
-| Success rate (days) | `00` |
-| Full success (days) | `00` |
-| Partial success (days) | `00` |
-| Failure rate (days) | `20` |
-| Days left in season | `08` |
-| Full success % | `000.00%` |
-| Partial success % | `000.00%` |
-| Overall success % | `000.00%` |
-| Success % Margin of error | `000.00%` |
-| Overall failure % | `100.00%` |
+| Success rate (days) | `05` |
+| Full success (days) | `01` |
+| Partial success (days) | `04` |
+| Failure rate (days) | `23` |
+| Days left in season | `00` |
+| Full success % | `003.00%` |
+| Partial success % | `013.33%` |
+| Overall success % | `016.66%` |
+| Success % Margin of error | `000.01%` |
+| Overall failure % | `083.33%` |
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -1219,14 +1646,14 @@ I have noted that a good way to see if it ran correctly or not is to check the o
 | 2023, Saturday, February 18th | :x: | :x: |
 | 2023, Sunday, February 19th | :x: | :x: |
 | 2023, Monday, February 20th | :x: | :x: |
-| 2023, Tuesday, February 21st | Coming soon | Coming soon |
-| 2023, Wednesday, February 22nd | Coming soon | Coming soon |
-| 2023, Thursday, February 23rd | Coming soon | Coming soon |
-| 2023, Friday, February 24th | Coming soon | Coming soon |
-| 2023, Saturday, February 25th | Coming soon | Coming soon |
-| 2023, Sunday, February 26th | Coming soon | Coming soon |
-| 2023, Monday, February 27th | Coming soon | Coming soon |
-| 2023, Tuesday, February 28th | Coming soon | Coming soon |
+| 2023, Tuesday, February 21st | :x: | :x: |
+| 2022, Wednesday, February 22nd | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February22nd.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February22nd.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February22nd.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February22nd.svg) |
+| 2022, Thursday, February 23rd | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February23rd.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February23rd.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February23rd.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February23rd.svg) |
+| 2022, Friday, February 24th | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February24th.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February24th.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February24th.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February24th.svg) |
+| 2023, Saturday, February 25th | :x: | :x: |
+| 2023, Sunday, February 26th | :x: | :x: |
+| 2022, Monday, February 27th | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February27th.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February27th.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February27th.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February27th.svg) |
+| 2022, Tuesday, February 28th | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February28th.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February28th.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February28th.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February28th.svg) |
 <!-- | 2023, Wednesday, March 1st | Coming soon | Coming soon | !-->
 
 </details>
@@ -1314,9 +1741,9 @@ Coming soon.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Monday, February 20th at 9:26 pm PST)`
+**File version:** `5 (2023, Wednesday, March 1st at 3:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,431`
+**Line count (including blank lines and compiler line):** `1,881`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1422,6 +1849,29 @@ Coming soon.
 - [x] Updated the file info section
 - [x] Updated the changelog
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2023, Wednesday, March 1st at 3:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/8/!OldVersions/README/English/USA/README_V5.md)
+
+> Changes:
+
+- [x] Updated the main table
+- - [x] Added an entry for 2023, February 21st
+- - [x] Added an entry for 2023, February 22nd
+- - [x] Added an entry for 2023, February 23rd
+- - [x] Added an entry for 2023, February 24th
+- - [x] Added an entry for 2023, February 25th
+- - [x] Added an entry for 2023, February 26th
+- - [x] Added an entry for 2023, February 27th
+- - [x] Added an entry for 2023, February 28th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 5
 
 </details>
 
