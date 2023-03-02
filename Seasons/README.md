@@ -13,6 +13,8 @@ A season is a time period in which workflow statistics run daily, and data is co
 
 ##### Seasons
 
+<details open><summary><p><b>Click/tap here to expand/collapse the seasons table</b></p></summary>
+
 | :octocat: | Local link | Range | Notes |
 |---|---|---|---|
 | `S01` | [`/Seasons/1/`](/Seasons/1/) | 2022, June 12th to 2022, July 11th | The first season in the set |
@@ -22,8 +24,11 @@ A season is a time period in which workflow statistics run daily, and data is co
 | `S05` | [`/Seasons/5/`](/Seasons/5/) | 2022, October 25th to 2022, November 30th | Extended by 6 days to let the next season start on the first day of the month |
 | `S06` | [`/Seasons/6/`](/Seasons/6/) | 2022, December 1st to 2022, December 31st | Not off to a good start |
 | `S07` | [`/Seasons/7/`](/Seasons/7) | 2023, January 1st to 2023, January 31st | 100% failure rate, with a worse streak than the GitHub flag era. |
-| `S08` | [`/Seasons/8/`](/Seasons/8) | 2023, February 1st to 2023, February 28th | A summary will be written once season 9 starts
-| `S09` | [`Coming soon`](/Seasons/) | TBD | TBD |
+| `S08` | [`/Seasons/8/`](/Seasons/8) | 2023, February 1st to 2023, February 28th | Very high failure rate, until the last week of the month. |
+| `S09` | [`/Seasons/9/`](/Seasons/9/) | 2023, March 1st to 2023, March 31st | A summary will be written once season 10 starts |
+| `S10` | [`Coming soon`](/Seasons/10/) | TBD | TBD |
+
+</details>
 
 ##### Compilation
 
@@ -43,9 +48,9 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Thursday, February 16th at 11:04 pm PST)`
+**File version:** `5 (2023, Thursday, March 2nd at 2:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `147`
+**Line count (including blank lines and compiler line):** `170`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -138,6 +143,24 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2023, Thursday, March 2nd at 2:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `What is a season?` section
+- - [x] Updated the `Seasons` subsection, now including info for season 9 and a placeholder for season 10, also turned the table into a dropdown
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
