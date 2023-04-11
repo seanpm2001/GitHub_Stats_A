@@ -9,7 +9,11 @@
 
 #### What is a season?
 
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 A season is a time period in which workflow statistics run daily, and data is collected. Seasons typically last for 30 days, but some seasons may last longer (the only example being season 5, which was extended to let season 6 start on the first day of the month)
+
+</details>
 
 ##### Seasons
 
@@ -25,12 +29,16 @@ A season is a time period in which workflow statistics run daily, and data is co
 | `S06` | [`/Seasons/6/`](/Seasons/6/) | 2022, December 1st to 2022, December 31st | Not off to a good start |
 | `S07` | [`/Seasons/7/`](/Seasons/7) | 2023, January 1st to 2023, January 31st | 100% failure rate, with a worse streak than the GitHub flag era. |
 | `S08` | [`/Seasons/8/`](/Seasons/8) | 2023, February 1st to 2023, February 28th | Very high failure rate, until the last week of the month. |
-| `S09` | [`/Seasons/9/`](/Seasons/9/) | 2023, March 1st to 2023, March 31st | A summary will be written once season 10 starts |
-| `S10` | [`Coming soon`](/Seasons/10/) | TBD | TBD |
+| `S09` | [`/Seasons/9/`](/Seasons/9/) | 2023, March 1st to 2023, March 31st | A very successful month compared to last month, very low failure rate. |
+| `S10` | [`/Seasons/10/`](/Seasons/10/) | 2023, April 1st to 2023, April 30th | A summary will be written once season 10 starts |
+| `S11` | [`Coming soon`](/Seasons/11/) | TBD | TBD |
+| `S12` | [`Coming soon`](/Seasons/12/) | TBD | TBD |
 
 </details>
 
 ##### Compilation
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 Seasons currently are exported into SVG image files that contain animations. It has proven to be a notable strain on the CPU of a computer for a single season, but the question of a compilation has not been thrown out.
 
@@ -40,6 +48,8 @@ The season compilation can be found [`Here`](/Seasons/!Compilation/) be wary of 
 
 Safety precautions were added on 2022, December 7th and December 8th to make it require confirmation to load the README file from normal navigation. On 2022, December 7th, the folders were moved inwards 1 directory, and daily notes were added. On 2022, December 8th, a safe browsing section was added to the outer `README` allowing the navigation of the folders contents without opening it, and giving information on if the target file/folder is safe or not.
 
+</details>
+
 ***
 
 #### File info
@@ -48,9 +58,9 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Thursday, March 2nd at 2:55 pm PST)`
+**File version:** `6 (2023, Tuesday, April 11th at 1:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `170`
+**Line count (including blank lines and compiler line):** `224`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -74,6 +84,8 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _This is the first release._
+
 > Changes:
 
 - [x] Started the file
@@ -89,11 +101,13 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- V01 !-->
 
 <details><summary><p lang="en"><b>Version 2 (2022, Thursday, December 8th at 6:40 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the season 6 release._
 
 > Changes:
 
@@ -108,11 +122,13 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- V02 !-->
 
 <details><summary><p lang="en"><b>Version 3 (2023, Tuesday, January 24th at 7:00 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the season 7 release._
 
 > Changes:
 
@@ -126,11 +142,13 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- V03 !-->
 
 <details><summary><p lang="en"><b>Version 4 (2023, Thursday, February 16th at 11:04 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the season 8 release._
 
 > Changes:
 
@@ -144,11 +162,13 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- V04 !-->
 
 <details><summary><p lang="en"><b>Version 5 (2023, Thursday, March 2nd at 2:55 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the season 9 release._
 
 > Changes:
 
@@ -162,8 +182,42 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
-</details>
+</details>  <!-- V05 !-->
 
-</details>
+<details><summary><p lang="en"><b>Version 6 (2023, Tuesday, April 11th at 1:09 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This release is part of a larger maintenance update, as this repository hasn't been extensively worked on for over a month. This is the season 10 release._
+
+> Changes:
+
+- [x] **DEVELOPER** Added index number comment sections (`<!-- V01 !-->`, `<!-- V02 !-->`, etc.) to all file history entries, to make navigation and editing easier
+- [x] **DEVELOPER** Added overview notes to all file history entries
+- [x] Updated the `Compilation` section
+- - [x] Turned the section into a dropdown section
+- [x] Updated the `What is a season?` section
+- - [x] Turned the section into a dropdown section
+- - [x] Updated the `Seasons` subsection, now including info for season 10 and a placeholder for seasons 11 and 12
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [x] Added the footer
+- [ ] No other changes in version 6
+
+</details> <!-- V06 !-->
+
+</details> <!-- End of file history !-->
+
+***
+
+###### Footer
+
+You have reached the end of this file.
+
+( [Back to top](#Seanpm2001-Statistics) | [:octocat: Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ***
