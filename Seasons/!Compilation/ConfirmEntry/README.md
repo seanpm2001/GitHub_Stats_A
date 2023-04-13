@@ -9,11 +9,17 @@
 
 #### Compilation
 
+> **Warning** This page is an experiment of how many videos I can load onto GitHub at once. For optimal viewing of this page, you should have a computer with a processor capable of handling 8 or more terabytes of RAM. Otherwise, your computer is going to get very hot, and lag for a few minutes. If you are still reading this, either your computer froze, or it is still going. This page is loading over 200 small videos continuously (SVG files, animated)
+
+_Compilation data is as of 2023, Wednesday, April 12th._
+
 **Notice:**
 
-This list isn't updated daily at the moment due to the CPU strain issue
+_This list isn't updated daily at the moment due to the CPU strain issue_
 
-Compilation data is as of 2023, Friday, January 6th.
+**Current SVG count:** `298` (formula used: find all: `.svg` - `1` / `2` )
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -227,32 +233,162 @@ Compilation data is as of 2023, Friday, January 6th.
 | 2023, Wednesday, January 4th | :x: | :x: |
 | 2023, Thursday, January 5th | :x: | :x: |
 | 2023, Friday, January 6th | :x: | :x: |
-| 2023, Saturday, January 7th | Coming soon | Coming soon |
-| 2023, Sunday, January 8th | Coming soon | Coming soon |
-| 2023, Monday, January 9th | Coming soon | Coming soon |
-| 2023, Tuesday, January 10th | Coming soon | Coming soon |
-| 2023, Wednesday, January 11th | Coming soon | Coming soon |
-| 2023, Thursday, January 12th | Coming soon | Coming soon |
-| 2023, Friday, January 13th | Coming soon | Coming soon |
-| 2023, Saturday, January 14th | Coming soon | Coming soon |
-| 2023, Sunday, January 15th | Coming soon | Coming soon |
-| 2023, Monday, January 16th | Coming soon | Coming soon |
-| 2023, Tuesday, January 17th | Coming soon | Coming soon |
-| 2023, Wednesday, January 18th | Coming soon | Coming soon |
-| 2023, Thursday, January 19th | Coming soon | Coming soon |
-| 2023, Friday, January 20th | Coming soon | Coming soon |
-| 2023, Saturday, January 21st | Coming soon | Coming soon |
-| 2023, Sunday, January 22nd | Coming soon | Coming soon |
-| 2023, Monday, January 23rd | Coming soon | Coming soon |
-| 2023, Tuesday, January 24th | Coming soon | Coming soon |
-| 2023, Wednesday, January 25th | Coming soon | Coming soon |
-| 2023, Thursday, January 26th | Coming soon | Coming soon |
-| 2023, Friday, January 27th | Coming soon | Coming soon |
-| 2023, Saturday, January 28th | Coming soon | Coming soon |
-| 2023, Sunday, January 29th | Coming soon | Coming soon |
-| 2023, Monday, January 30th | Coming soon | Coming soon |
-| 2023, Tuesday, January 31st | Coming soon | Coming soon |
-<!-- | 2023, Wednesday, February 1st | Coming soon | Coming soon | !-->
+| 2023, Saturday, January 7th | :x: | :x: |
+| 2023, Sunday, January 8th | :x: | :x: |
+| 2023, Monday, January 9th | :x: | :x: |
+| 2023, Tuesday, January 10th | :x: | :x: |
+| 2023, Wednesday, January 11th | :x: | :x: |
+| 2023, Thursday, January 12th | :x: | :x: |
+| 2023, Friday, January 13th | :x: | :x: |
+| 2023, Saturday, January 14th | :x: | :x: |
+| 2023, Sunday, January 15th | :x: | :x: |
+| 2023, Monday, January 16th | :x: | :x: |
+| 2023, Tuesday, January 17th | :x: | :x: |
+| 2023, Wednesday, January 18th | :x: | :x: |
+| 2023, Thursday, January 19th | :x: | :x: |
+| 2023, Friday, January 20th | :x: | :x: |
+| 2023, Saturday, January 21st | :x: | :x: |
+| 2023, Sunday, January 22nd | :x: | :x: |
+| 2023, Monday, January 23rd | :x: | :x: |
+| 2023, Tuesday, January 24th | :x: | :x: |
+| 2023, Wednesday, January 25th | :x: | :x: |
+| 2023, Thursday, January 26th | :x: | :x: |
+| 2023, Friday, January 27th | :x: | :x: |
+| 2023, Saturday, January 28th | :x: | :x: |
+| 2023, Sunday, January 29th | :x: | :x: |
+| 2023, Monday, January 30th | :x: | :x: |
+| 2023, Tuesday, January 31st | :x: | :x: |
+| 2023, Wednesday, February 1st | :x: | :x: |
+| 2023, Thursday, February 2nd | :x: | :x: |
+| 2023, Friday, February 3rd | :x: | :x: |
+| 2023, Saturday, February 4th | :x: | :x: |
+| 2023, Sunday, February 5th | :x: | :x: |
+| 2023, Monday, February 6th | :x: | :x: |
+| 2023, Tuesday, February 7th | :x: | :x: |
+| 2023, Wednesday, February 8th | :x: | :x: |
+| 2023, Thursday, February 9th | :x: | :x: |
+| 2023, Friday, February 10th | :x: | :x: |
+| 2023, Saturday, February 11th | :x: | :x: |
+| 2023, Sunday, February 12th | :x: | :x: |
+| 2023, Monday, February 13th | :x: | :x: |
+| 2023, Tuesday, February 14th | :x: | :x: |
+| 2023, Wednesday, February 15th | :x: | :x: |
+| 2023, Thursday, February 16th | :x: | :x: |
+| 2023, Friday, February 17th | :x: | :x: |
+| 2023, Saturday, February 18th | :x: | :x: |
+| 2023, Sunday, February 19th | :x: | :x: |
+| 2023, Monday, February 20th | :x: | :x: |
+| 2023, Tuesday, February 21st | :x: | :x: |
+| 2022, Wednesday, February 22nd | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February22nd.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February22nd.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February22nd.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February22nd.svg) |
+| 2022, Thursday, February 23rd | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February23rd.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February23rd.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February23rd.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February23rd.svg) |
+| 2022, Friday, February 24th | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February24th.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February24th.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February24th.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February24th.svg) |
+| 2023, Saturday, February 25th | :x: | :x: |
+| 2023, Sunday, February 26th | :x: | :x: |
+| 2022, Monday, February 27th | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February27th.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February27th.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February27th.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February27th.svg) |
+| 2022, Tuesday, February 28th | ![/Seasons/8/SVG/Overview_GitHubStatsA_2023February28th.svg](/Seasons/8/SVG/Overview_GitHubStatsA_2023February28th.svg) | ![/Seasons/8/SVG/Languages_GitHubStatsA_2023February28th.svg](/Seasons/8/SVG/Languages_GitHubStatsA_2023February28th.svg) |
+| 2023, Wednesday, March 1st | ![/Seasons/9/SVG/overview_GitHubStatsA_2023March1st.svg](/Seasons/9/SVG/overview_GitHubStatsA_2023March1st.svg) | ![/Seasons/9/SVG/languages_GitHubStatsA_2023March1st.svg](/Seasons/9/SVG/languages_GitHubStatsA_2023March1st.svg) |
+| 2023, Thursday, March 2nd | ![/Seasons/9/SVG/overview_GitHubStatsA_2023March2nd.svg](/Seasons/9/SVG/overview_GitHubStatsA_2023March2nd.svg) | ![/Seasons/9/SVG/languages_GitHubStatsA_2023March2nd.svg](/Seasons/9/SVG/languages_GitHubStatsA_2023March2nd.svg) |
+| 2023, Friday, March 3rd | ![/Seasons/9/SVG/overview_GitHubStatsA_2023March3rd.svg](/Seasons/9/SVG/overview_GitHubStatsA_2023March3rd.svg) | ![/Seasons/9/SVG/languages_GitHubStatsA_2023March3rd.svg](/Seasons/9/SVG/languages_GitHubStatsA_2023March3rd.svg) |
+| 2023, Saturday, March 4th | ![/Seasons/9/SVG/overview_GitHubStatsA_2023March4th.svg](/Seasons/9/SVG/overview_GitHubStatsA_2023March4th.svg) | ![/Seasons/9/SVG/languages_GitHubStatsA_2023March4th.svg](/Seasons/9/SVG/languages_GitHubStatsA_2023March4th.svg) |
+| 2023, Sunday, March 5th | :x: | :x: |
+| 2023, Monday, March 6th | ![/Seasons/9/SVG/overview_2023March6th.svg](/Seasons/9/SVG/overview_2023March6th.svg) | ![/Seasons/9/SVG/languages_2023March6th.svg](/Seasons/9/SVG/languages_2023March6th.svg) |
+| 2023, Tuesday, March 7th | ![/Seasons/9/SVG/overview_2023March7th.svg](/Seasons/9/SVG/overview_2023March7th.svg) | ![/Seasons/9/SVG/languages_2023March7th.svg](/Seasons/9/SVG/languages_2023March7th.svg) |
+| 2023, Wednesday, March 8th | ![/Seasons/9/SVG/overview_2023March8th.svg](/Seasons/9/SVG/overview_2023March8th.svg) | ![/Seasons/9/SVG/languages_2023March8th.svg](/Seasons/9/SVG/languages_2023March8th.svg) |
+| 2023, Thursday, March 9th | :x: | :x: |
+| 2023, Friday, March 10th | ![/Seasons/9/SVG/overview_2023March10th.svg](/Seasons/9/SVG/overview_2023March10th.svg) | ![/Seasons/9/SVG/languages_2023March10th.svg](/Seasons/9/SVG/languages_2023March10th.svg) |
+| 2023, Saturday, March 11th | ![/Seasons/9/SVG/overview_2023March11th.svg](/Seasons/9/SVG/overview_2023March11th.svg) | ![/Seasons/9/SVG/languages_2023March11th.svg](/Seasons/9/SVG/languages_2023March11th.svg) |
+| 2023, Sunday, March 12th | ![/Seasons/9/SVG/overview_2023March12th.svg](/Seasons/9/SVG/overview_2023March12th.svg) | ![/Seasons/9/SVG/languages_2023March12th.svg](/Seasons/9/SVG/languages_2023March12th.svg) |
+| 2023, Monday, March 13th | :x: | :x: |
+| 2023, Tuesday, March 14th | ![/Seasons/9/SVG/overview_2023March14th.svg](/Seasons/9/SVG/overview_2023March14th.svg) | ![/Seasons/9/SVG/languages_2023March14th.svg](/Seasons/9/SVG/languages_2023March14th.svg) |
+| 2023, Wednesday, March 15th | ![/Seasons/9/SVG/overview_2023March15th.svg](/Seasons/9/SVG/overview_2023March15th.svg) | ![/Seasons/9/SVG/languages_2023March15th.svg](/Seasons/9/SVG/languages_2023March15th.svg) |
+| 2023, Thursday, March 16th | ![/Seasons/9/SVG/overview_2023March16th.svg](/Seasons/9/SVG/overview_2023March16th.svg) | ![/Seasons/9/SVG/languages_2023March16th.svg](/Seasons/9/SVG/languages_2023March16th.svg) |
+| 2023, Friday, March 17th | ![/Seasons/9/SVG/overview_2023March17th.svg](/Seasons/9/SVG/overview_2023March17th.svg) | ![/Seasons/9/SVG/languages_2023March17th.svg](/Seasons/9/SVG/languages_2023March17th.svg) |
+| 2023, Saturday, March 18th | ![/Seasons/9/SVG/overview_2023March18th.svg](/Seasons/9/SVG/overview_2023March18th.svg) | ![/Seasons/9/SVG/languages_2023March18th.svg](/Seasons/9/SVG/languages_2023March18th.svg) |
+| 2023, Sunday, March 19th | :x: | :x: |
+| 2023, Monday, March 20th | :x: | :x: |
+| 2023, Tuesday, March 21st | :x: | :x: |
+| 2023, Wednesday, March 22nd | ![/Seasons/9/SVG/overview_2023March22nd.svg](/Seasons/9/SVG/overview_2023March22nd.svg) | ![/Seasons/9/SVG/languages_2023March22nd.svg](/Seasons/9/SVG/languages_2023March22nd.svg) |
+| 2023, Thursday, March 23rd | ![/Seasons/9/SVG/overview_2023March23rd.svg](/Seasons/9/SVG/overview_2023March23rd.svg) | ![/Seasons/9/SVG/languages_2023March23rd.svg](/Seasons/9/SVG/languages_2023March23rd.svg) |
+| 2023, Friday, March 24th | ![/Seasons/9/SVG/overview_2023March24th.svg](/Seasons/9/SVG/overview_2023March24th.svg) | ![/Seasons/9/SVG/languages_2023March24th.svg](/Seasons/9/SVG/languages_2023March24th.svg) |
+| 2023, Saturday, March 25th | :x: | :x: |
+| 2023, Sunday, March 26th | ![/Seasons/9/SVG/overview_2023March26th.svg](/Seasons/9/SVG/overview_2023March26th.svg) | ![/Seasons/9/SVG/languages_2023March26th.svg](/Seasons/9/SVG/languages_2023March26th.svg) |
+| 2023, Monday, March 27th | ![/Seasons/9/SVG/overview_2023March27th.svg](/Seasons/9/SVG/overview_2023March27th.svg) | ![/Seasons/9/SVG/languages_2023March27th.svg](/Seasons/9/SVG/languages_2023March27th.svg) |
+| 2023, Tuesday, March 28th | ![/Seasons/9/SVG/overview_2023March28th.svg](/Seasons/9/SVG/overview_2023March28th.svg) | ![/Seasons/9/SVG/languages_2023March28th.svg](/Seasons/9/SVG/languages_2023March28th.svg) |
+| 2023, Wednesday, March 29th | :x: | :x: |
+| 2023, Thursday, March 30th | ![/Seasons/9/SVG/overview_2023March30th.svg](/Seasons/9/SVG/overview_2023March30th.svg) | ![/Seasons/9/SVG/languages_2023March30th.svg](/Seasons/9/SVG/languages_2023March30th.svg) |
+| 2023, Friday, March 31st | ![/Seasons/9/SVG/overview_2023March31st.svg](/Seasons/9/SVG/overview_2023March31st.svg) | ![/Seasons/9/SVG/languages_2023March31st.svg](/Seasons/9/SVG/languages_2023March31st.svg) |
+| 2023, Saturday, April 1st | :x: | :x: |
+| 2023, Sunday, April 2nd | ![/Seasons/10/SVG/overview_2023April2nd.svg](/Seasons/10/SVG/overview_2023April2nd.svg) | ![/Seasons/10/SVG/languages_2023April2nd.svg](/Seasons/10/SVG/languages_2023April2nd.svg) |
+| 2023, Monday, April 3rd | ![/Seasons/10/SVG/overview_2023April3rd.svg](/Seasons/10/SVG/overview_2023April3rd.svg) | ![/Seasons/10/SVG/languages_2023April3rd.svg](/Seasons/10/SVG/languages_2023April3rd.svg) |
+| 2023, Tuesday, April 4th | ![/Seasons/10/SVG/overview_2023April4th.svg](/Seasons/10/SVG/overview_2023April4th.svg) | ![/Seasons/10/SVG/languages_2023April4th.svg](/Seasons/10/SVG/languages_2023April4th.svg) |
+| 2023, Wednesday, April 5th | ![/Seasons/10/SVG/overview_2023April5th.svg](/Seasons/10/SVG/overview_2023April5th.svg) | ![/Seasons/10/SVG/languages_2023April5th.svg](/Seasons/10/SVG/languages_2023April5th.svg) |
+| 2023, Thursday, April 6th | ![/Seasons/10/SVG/overview_2023April6th.svg](/Seasons/10/SVG/overview_2023April6th.svg) | ![/Seasons/10/SVG/languages_2023April6th.svg](/Seasons/10/SVG/languages_2023April6th.svg) |
+| 2023, Friday, April 7th | ![/Seasons/10/SVG/overview_2023April7th.svg](/Seasons/10/SVG/overview_2023April7th.svg) | ![/Seasons/10/SVG/languages_2023April7th.svg](/Seasons/10/SVG/languages_2023April7th.svg) |
+| 2023, Saturday, April 8th | ![/Seasons/10/SVG/overview_2023April8th.svg](/Seasons/10/SVG/overview_2023April8th.svg) | ![/Seasons/10/SVG/languages_2023April8th.svg](/Seasons/10/SVG/languages_2023April8th.svg) |
+| 2023, Sunday, April 9th | ![/Seasons/10/SVG/overview_2023April9th.svg](/Seasons/10/SVG/overview_2023April9th.svg) | ![/Seasons/10/SVG/languages_2023April9th.svg](/Seasons/10/SVG/languages_2023April9th.svg) |
+| 2023, Monday, April 10th | :x: | :x: |
+| 2023, Tuesday, April 11th | :x: | :x: |
+| 2023, Wednesday, April 12th | ![/Seasons/10/SVG/overview_2023April12th.svg](/Seasons/10/SVG/overview_2023April12th.svg) | ![/Seasons/10/SVG/languages_2023April12th.svg](/Seasons/10/SVG/languages_2023April12th.svg) |
+| 2023, Thursday, April 13th | Coming soon | Coming soon |
+| 2023, Friday, April 14th | Coming soon | Coming soon |
+| 2023, Saturday, April 15th | Coming soon | Coming soon |
+| 2023, Sunday, April 16th | Coming soon | Coming soon |
+| 2023, Monday, April 17th | Coming soon | Coming soon |
+| 2023, Tuesday, April 18th | Coming soon | Coming soon |
+| 2023, Wednesday, April 19th | Coming soon | Coming soon |
+| 2023, Thursday, April 20th | Coming soon | Coming soon |
+| 2023, Friday, April 21st | Coming soon | Coming soon |
+| 2023, Saturday, April 22nd | Coming soon | Coming soon |
+| 2023, Sunday, April 23rd | Coming soon | Coming soon |
+| 2023, Monday, April 24th | Coming soon | Coming soon |
+| 2023, Tuesday, April 25th | Coming soon | Coming soon |
+| 2023, Wednesday, April 26th | Coming soon | Coming soon |
+| 2023, Thursday, April 27th | Coming soon | Coming soon |
+| 2023, Friday, April 28th | Coming soon | Coming soon |
+| 2023, Saturday, April 29th | Coming soon | Coming soon |
+| 2023, Sunday, April 30th | Coming soon | Coming soon |
+
+| Unrecorded | Unrecorded | Unrecorded |
+|---|---|---|
+| 2023, Monday, May 1st | Coming soon | Coming soon |
+| 2023, Tuesday, May 2nd | Coming soon | Coming soon |
+| 2023, Wednesday, May 3rd | Coming soon | Coming soon |
+| 2023, Thursday, May 4th | Coming soon | Coming soon |
+| 2023, Friday, May 5th | Coming soon | Coming soon |
+| 2023, Saturday, May 6th | Coming soon | Coming soon |
+| 2023, Sunday, May 7th | Coming soon | Coming soon |
+| 2023, Monday, May 8th | Coming soon | Coming soon |
+| 2023, Tuesday, May 9th | Coming soon | Coming soon |
+| 2023, Wednesday, May 10th | Coming soon | Coming soon |
+| 2023, Thursday, May 11th | Coming soon | Coming soon |
+| 2023, Friday, May 12th | Coming soon | Coming soon |
+| 2023, Saturday, May 13th | Coming soon | Coming soon |
+| 2023, Sunday, May 14th | Coming soon | Coming soon |
+| 2023, Monday, May 15th | Coming soon | Coming soon |
+| 2023, Tuesday, May 16th | Coming soon | Coming soon |
+| 2023, Wednesday, May 17th | Coming soon | Coming soon |
+| 2023, Thursday, May 18th | Coming soon | Coming soon |
+| 2023, Friday, May 19th | Coming soon | Coming soon |
+| 2023, Saturday, May 20th | Coming soon | Coming soon |
+| 2023, Sunday, May 21st | Coming soon | Coming soon |
+| 2023, Monday, May 22nd | Coming soon | Coming soon |
+| 2023, Tuesday, May 23rd | Coming soon | Coming soon |
+| 2023, Wednesday, May 24th | Coming soon | Coming soon |
+| 2023, Thursday, May 25th | Coming soon | Coming soon |
+| 2023, Friday, May 26th | Coming soon | Coming soon |
+| 2023, Saturday, May 27th | Coming soon | Coming soon |
+| 2023, Sunday, May 28th | Coming soon | Coming soon |
+| 2023, Monday, May 29th | Coming soon | Coming soon |
+| 2023, Tuesday, May 30th | Coming soon | Coming soon |
+| 2023, Wednesday, May 31st | Coming soon | Coming soon |
+
+</details> <!-- End of table !-->
+
+<!--
+| 2023, Thursday, June 1st | Coming soon | Coming soon |
+!-->
+
+***
 
 #### File info
 
@@ -260,9 +396,9 @@ Compilation data is as of 2023, Friday, January 6th.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Friday, January 6th at 5:40 pm PST)`
+**File version:** `4 (2023, Thursday, April 13th at 12:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `339`
+**Line count (including blank lines and compiler line):** `512`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -270,11 +406,11 @@ Compilation data is as of 2023, Friday, January 6th.
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-**You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** _You may need special rendering support for the `<details>` HTML tag being used in this document_
 
-</details>
+</details> <!-- End of file info !-->
 
 ***
 
@@ -286,7 +422,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> Changes:
+> **Note** _Very first version of this file._
+
+> *Changes:
 
 - [x] Started the file
 - [x] Added the title section
@@ -299,24 +437,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- V01 !-->
 
 <details><summary><p lang="en"><b>Version 2 (2022, Tuesday, December 6th at 9:20 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** The file was moved before version 2 was created
+> **Note** _The file was moved before version 2 was created_
 
 > Changes:
 
 - [X] Overwrote the file to contain the contents of the file [`Seanpm2001-Statistics_DRAFT_2022.12.06.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2022/Seanpm2001-Statistics_DRAFT_2022.12.06.md)
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- V02 !-->
 
 <details><summary><p lang="en"><b>Version 3 (2023, Friday, January 6th at 5:40 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Version 3 is the first release of 2023, and it contains a remodel that makes the file separate from its source counterpart (`GitHub_Stats_A_YYYY.MM.DD_vX.md`)_
 
 > Changes:
 
@@ -331,8 +471,41 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- V03 !-->
 
-</details>
+<details><summary><p lang="en"><b>Version 4 (2023, Thursday, April 13th at 12:34 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Version 4 is the first update in over 4 months. It adds the most recent data, and optimizes the file._
+
+> Changes:
+
+- [x] **DEVELOPER** Added source code comment index markers (`<!-- V01 !-->`, `<!-- V02 !-->`, etc.) to all 4 changelog entries to make editing and navigating the file easier.
+- [x] Turned the compilation table into a dropdown
+- [x] Updated the compilation table, with data from 2022, June 12th to 2023, April 12th, originally only with data from 2022, June 12th to 2023, January 6th
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated the entry for version 1
+- - [x] Updated the entry for version 2
+- - [x] Updated the entry for version 3
+- - [x] Added an entry for version 4
+- [x] Added the footer
+- [ ] No other changes in version 4
+
+</details> <!-- V04 !-->
+
+</details> <!-- End of file history !-->
+
+***
+
+###### Footer
+
+( [`Back to top`](#Seanpm2001-Statistics) | [:octocat: `Exit to GitHub`](https://github.com/) | [`Exit to Bing`](https://www.bing.com/) | [`Exit to DuckDuckGo`](https://duckduckgo.com/) | [`Exit to Ecosia`](https://www.ecosia.org/) | [`Exit to Swisscows`](https://www.swisscows.com/) )
+
+###### EOF
 
 ***
