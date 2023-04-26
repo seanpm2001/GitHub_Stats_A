@@ -1353,7 +1353,54 @@ Today was a category 12 day.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Tuesday, April 25th</b></p></summary>
 
-**Coming soon**
+**2023, Tuesday, April 25th**
+
+The workflow had a partial success today, finishing within 1 hour, 51 minutes and34 seconds. Although it did succeed, it did very poorly. It scanned less than 33% of my source repositories, and has highly incomplete data. I am glad it is succeeding instead of failing, but these results are embarrassing. It did scan 1,100 repositories though, I didn't notice at first due to the language section being so off.
+
+I put the workflow runs into 36 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3000+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3000+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3000+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3000+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3000+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3000+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3000+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3000+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3000+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3000+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3000+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3000+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3000+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3000+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3000+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3000+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3000+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3000+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3000+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3000+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3000+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3000+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3000+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3000+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3000+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3000+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3000+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3000+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3000+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3000+ repositories scanned/indexed_
+- **Category 32:** `R3000` - _Major success, with 3000-3099 out of 3000+ repositories scanned/indexed_
+- **Category 33:** `R3100` - _Major success, with 3100-3199 out of 3000+ repositories scanned/indexed_
+- **Category 34:** `R3200` - _Major success, with 3200-3299 out of 3000+ repositories scanned/indexed_
+- **Category 35:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+</details>
+
+Today was a category 13 day.
 
 </details> <!-- 2023 April 25th !-->
 
@@ -1423,27 +1470,27 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 
 | Type rate | Count |
 |---|---|
-| Success rate (days) | `16` |
+| Success rate (days) | `17` |
 | Full success (days) | `6` |
-| Partial success (days) | `10` |
+| Partial success (days) | `11` |
 | Failure rate (days) | `8` |
-| Days left in season | `6` |
+| Days left in season | `5` |
 | Longest consecutive streak (success) | `8 days` |
 | Longest consecutive streak (failure) | `3 days` |
-| Last consecutive streak (success) | `1 day` |
+| Last consecutive streak (success) | `2 days` |
 | Last consecutive streak (failure) | `1 day` |
 | First workflow run | `Failure` |
 | Last workflow run | `Success` |
 | Total # of streaks (success) | `5` |
 | Total # of streaks (failure) | `5` |
-| Average length of streak (success) | `2.83 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1&x=68&y=20 !-->
+| Average length of streak (success) | `3.4 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+2&x=34&y=16 !-->
 | Average length of streak (failure) | `1.5 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1&x=91&y=28 !-->
-| Total repositories scanned | `30,390` |
-| Full success % | `025.00%` |
-| Partial success % | `041.66%` |
-| Overall success % | `066.66%` |
-| Success % Margin of error | `00.01%` |
-| Overall failure % | `033.33%` |
+| Total repositories scanned | `31,490` |
+| Full success % | `024.00%` |
+| Partial success % | `044.00%` |
+| Overall success % | `068.00%` |
+| Success % Margin of error | `00.00%` |
+| Overall failure % | `032.00%` |
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -1471,7 +1518,7 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 | 2023, Saturday, April 22nd | ![/Seasons/10/SVG/overview_2023April22nd.svg](/Seasons/10/SVG/overview_2023April22nd.svg) | ![/Seasons/10/SVG/languages_2023April22nd.svg](/Seasons/10/SVG/languages_2023April22nd.svg) |
 | 2023, Sunday, April 23rd | :x: | :x: |
 | 2023, Monday, April 24th | ![/Seasons/10/SVG/overview_2023April24th.svg](/Seasons/10/SVG/overview_2023April24th.svg) | ![/Seasons/10/SVG/languages_2023April24th.svg](/Seasons/10/SVG/languages_2023April24th.svg) |
-| 2023, Tuesday, April 25th | Coming soon | Coming soon |
+| 2023, Tuesday, April 25th | ![/Seasons/10/SVG/overview_2023April25th.svg](/Seasons/10/SVG/overview_2023April25th.svg) | ![/Seasons/10/SVG/languages_2023April25th.svg](/Seasons/10/SVG/languages_2023April25th.svg) |
 | 2023, Wednesday, April 26th | Coming soon | Coming soon |
 | 2023, Thursday, April 27th | Coming soon | Coming soon |
 | 2023, Friday, April 28th | Coming soon | Coming soon |
@@ -1602,8 +1649,8 @@ Calculations were not done via a 3rd party until 2023, April 22nd
 
 > **Note** Finding the average number of workflow success and failure for this month as of 2023, April 22nd.
 
-- [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1&x=84&y=18](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1&x=84&y=18)
-- [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12)
+- **Success** [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1&x=84&y=18](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1&x=84&y=18)
+- **Failure** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12)
 
 </details> <!-- 2023.04.22 !-->
 
@@ -1613,8 +1660,8 @@ Calculations were not done via a 3rd party until 2023, April 22nd
 
 > **Note** Finding the average number of workflow success and failure for this month as of 2023, April 23rd.
 
-- [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1&x=33&y=4](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1&x=33&y=4)
-- [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12)
+- **Success** [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1&x=33&y=4](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1&x=33&y=4)
+- **Failure** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1&x=73&y=12)
 
 </details> <!-- 2023.04.23 !-->
 
@@ -1624,8 +1671,8 @@ Calculations were not done via a 3rd party until 2023, April 22nd
 
 > **Note** Finding the average number of workflow success and failure for this month as of 2023, April 24th.
 
-- [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1&x=91&y=28](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1&x=91&y=28)
-- [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1&x=68&y=20](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1&x=68&y=20)
+- **Success** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1&x=91&y=28](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1&x=91&y=28)
+- **Failure** [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1&x=68&y=20](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1&x=68&y=20)
 
 </details> <!-- 2023.04.24 !-->
 
@@ -1635,8 +1682,8 @@ Calculations were not done via a 3rd party until 2023, April 22nd
 
 > **Note** Finding the average number of workflow success and failure for this month as of 2023, April 25th.
 
-- [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1%2C+1&x=60&y=18](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1%2C+1&x=60&y=18)
-- [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1%2C+1&x=4&y=22](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1%2C+1&x=4&y=22)
+- **Success** [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1%2C+1&x=60&y=18](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+1%2C+1&x=60&y=18)
+- **Failure** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1%2C+1&x=4&y=22](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1%2C+1&x=4&y=22)
 
 </details> <!-- 2023.04.25 !-->
 
@@ -1644,7 +1691,10 @@ Calculations were not done via a 3rd party until 2023, April 22nd
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the access 2023 April 26th section]</b></p></summary>
 
-Coming soon.
+> **Note** Finding the average number of workflow success and failure for this month as of 2023, April 26th.
+
+- **Success** [https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+2&x=34&y=16](https://www.calculator.net/average-calculator.html?numberinputs=8%2C+5%2C+1%2C+1%2C+2&x=34&y=16)
+- **Failure** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1%2C+1&x=4&y=22](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+2%2C+3%2C+1%2C+1%2C+1&x=4&y=22)
 
 </details> <!-- 2023.04.26 !-->
 
@@ -1692,9 +1742,9 @@ Coming soon.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2023, Tuesday, April 25th at 2:58 pm PST)`
+**File version:** `15 (2023, Wednesday, April 26th at 1:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,020`
+**Line count (including blank lines and compiler line):** `2,108`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -2014,6 +2064,44 @@ Coming soon.
 
 </details> <!-- V14 !-->
 
+<details><summary><p lang="en"><b>Version 15 (2023, Wednesday, April 26th at 1:29 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/10/!OldVersions/README/English/USA/README_V15.md)
+
+> **Note** _Trying to do daily updates consistently, day 14. I did the usual update today._
+
+> Changes:
+
+- [x] Updated the notes section
+- - [x] Added notes for 2023, April 25th
+- [x] Updated the main table
+- [x] Updated the `Sources` section
+- - [x] Updated the `Calculation sources` subsection
+- - - [x] Updated the `2023.04.22` sub-subsection
+- - - [x] Updated the `2023.04.23` sub-subsection
+- - - [x] Updated the `2023.04.24` sub-subsection
+- - - [x] Updated the `2023.04.25` sub-subsection
+- - - [x] Updated the `2023.04.26` sub-subsection
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 15
+- [x] Added the footer
+- [ ] No other changes in version 15
+
+</details> <!-- V15 !-->
+
 </details> <!-- End of changelog !-->
+
+***
+
+## [Footer](#Footer)
+
+You have reached the bottom of this page.
+
+( [Back to top](#Season-10) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
+
+###### EOF
 
 ***
