@@ -30,9 +30,10 @@ A season is a time period in which workflow statistics run daily, and data is co
 | `S07` | [`/Seasons/7/`](/Seasons/7) | 2023, January 1st to 2023, January 31st | 100% failure rate, with a worse streak than the GitHub flag era. |
 | `S08` | [`/Seasons/8/`](/Seasons/8) | 2023, February 1st to 2023, February 28th | Very high failure rate, until the last week of the month. |
 | `S09` | [`/Seasons/9/`](/Seasons/9/) | 2023, March 1st to 2023, March 31st | A very successful month compared to last month, very low failure rate. |
-| `S10` | [`/Seasons/10/`](/Seasons/10/) | 2023, April 1st to 2023, April 30th | A summary will be written once season 10 starts |
-| `S11` | [`Coming soon`](/Seasons/11/) | TBD | TBD |
+| `S10` | [`/Seasons/10/`](/Seasons/10/) | 2023, April 1st to 2023, April 30th | A very good month, with more advanced statistics. |
+| `S11` | [`/Seasons/11/`](/Seasons/11/) | 2023, May 1st to 2023, May 31st | A summary will be written once season 12 starts |
 | `S12` | [`Coming soon`](/Seasons/12/) | TBD | TBD |
+| `S13` | [`Coming soon`](/Seasons/13/) | TBD | TBD |
 
 </details>
 
@@ -58,9 +59,9 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2023, Tuesday, April 11th at 1:09 pm PST)`
+**File version:** `7 (2023, Wednesday, May 3rd at 1:46 pm PST)`
 
-**Line count (including blank lines and compiler line):** `224`
+**Line count (including blank lines and compiler line):** `246`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -209,6 +210,27 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - [ ] No other changes in version 6
 
 </details> <!-- V06 !-->
+
+<details><summary><p lang="en"><b>Version 7 (2023, Wednesday, May 3rd at 1:46 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the season 11 release update._
+
+> Changes:
+
+- [x] Updated the `What is a season?` section
+- - [x] Updated the `Seasons` subsection, now including info for season 10 and a placeholder for season 13
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 7
+- [x] Added the footer
+- [ ] No other changes in version 7
+
+</details> <!-- V07 !-->
 
 </details> <!-- End of file history !-->
 
