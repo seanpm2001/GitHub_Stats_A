@@ -215,6 +215,30 @@ You can navigate this directory without interacting with its files through this 
 
 </details>
 
+> 📁️ [`Full Success compilation`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/) **PARTIALLY SAFE**
+
+<details><summary><p><b>[Open/close folder]</b></p></summary>
+
+Coming soon.
+
+</details>
+
+> 📁️ [`Failure compilation`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/) **SAFE**
+
+<details><summary><p><b>[Open/close folder]</b></p></summary>
+
+Coming soon.
+
+</details>
+
+> 📁️ [`Partial Success compilation`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/) **NOT SAFE**
+
+<details><summary><p><b>[Open/close folder]</b></p></summary>
+
+Coming soon.
+
+</details>
+
 📄️ [`README.md`](/Seasons/!Compilation/ConfirmEntry/README.md) **NOT SAFE**
 
 ***
@@ -229,9 +253,9 @@ You can navigate this directory without interacting with its files through this 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Friday, January 6th at 5:52 pm PST)`
+**File version:** `5 (2023, Tuesday, May 23rd at 3:36 pm PST)`
 
-**Line count (including blank lines and compiler line):** `331`
+**Line count (including blank lines and compiler line):** `374`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -322,6 +346,25 @@ You can navigate this directory without interacting with its files through this 
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2023, Tuesday, May 23rd at 3:36 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+
+- [x] Updated the `Safe entry options` section
+- - [x] Added links to `/Full-Success-Compilation/`, `/Failure-Compilation/`, and `/Partial-Success-Compilation/`
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
