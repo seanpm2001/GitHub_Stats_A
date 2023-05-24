@@ -19,7 +19,9 @@ You can navigate this directory without interacting with its files through this 
 
 #### Index
 
-**Last updated:** `2023, Friday, January 6th at 5:49 pm PST`
+**Last updated:** `2023, Wednesday, May 24th at 2:42 pm PST`
+
+> **Note** _Alternatively, since the 2023, May 9th GitHub update, you can expand the source code browser, and navigate this way as well. The button is located on the right side of the screen under the `[Code]` ribbon._
 
 📁️ [ConfirmEntry](/Seasons/!Compilation/ConfirmEntry/) **NOT SAFE**
 
@@ -189,6 +191,248 @@ You can navigate this directory without interacting with its files through this 
 
 > > > 📄️ [`GitHub_Stats_A_2023.01.31.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.01.31.md) **NOT SAFE**
 
+> > > 📄️ [`GitHub_Stats_A_2023.02.01.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.01.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.02.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.02.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.03.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.03.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.04.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.04.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.05.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.05.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.06.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.06.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.07.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.07.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.08.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.08.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.09.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.09.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.10.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.10.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.11.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.11.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.12.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.12.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.13.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.13.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.14.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.14.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.15.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.15.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.16.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.16.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.17.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.17.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.18.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.18.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.19.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.19.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.20.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.20.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.21.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.21.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.22.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.22.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.23.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.23.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.24.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.24.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.25.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.25.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.26.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.26.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.27.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.27.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.02.28.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.02.28.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.01.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.01.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.02.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.02.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.03.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.03.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.04.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.04.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.05.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.05.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.06.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.06.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.07.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.07.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.08.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.08.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.09.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.09.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.10.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.10.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.11.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.11.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.12.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.12.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.13.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.13.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.14.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.14.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.15.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.15.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.16.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.16.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.17.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.17.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.18.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.18.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.19.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.19.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.20.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.20.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.21.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.21.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.22.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.22.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.23.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.23.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.24.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.24.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.25.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.25.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.26.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.26.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.27.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.27.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.28.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.28.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.29.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.29.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.30.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.30.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.03.31.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.03.31.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.01.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.01.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.02.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.02.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.03.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.03.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.04.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.04.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.05.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.05.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.06.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.06.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.07.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.07.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.08.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.08.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.09.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.09.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.10.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.10.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.11.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.11.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.12.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.12.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.13.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.13.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.14.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.14.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.15.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.15.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.16.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.16.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.17.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.17.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.18.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.18.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.19.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.19.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.20.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.20.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.21.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.21.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.22.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.22.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.23.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.23.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.24.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.24.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.25.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.25.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.26.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.26.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.27.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.27.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.28.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.28.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.29.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.29.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.04.30.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.04.30.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.01.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.01.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.02.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.02.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.03.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.03.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.04.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.04.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.05.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.05.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.06.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.06.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.07.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.07.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.08.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.08.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.09.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.09.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.10.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.10.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.11.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.11.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.12.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.12.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.13.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.13.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.14.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.14.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.15.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.15.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.16.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.16.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.17.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.17.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.18.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.18.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.19.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.19.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.20.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.20.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.21.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.21.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.22.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.22.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.23.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.23.md) **NOT SAFE**
+
+<!--
+> > > 📄️ [`GitHub_Stats_A_2023.05.24.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.24.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.25.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.25.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.26.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.26.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.27.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.27.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.28.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.28.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.29.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.29.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.30.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.30.md) **NOT SAFE**
+
+> > > 📄️ [`GitHub_Stats_A_2023.05.31.md`](/Seasons/!Compilation/ConfirmEntry/Daily/2023/GitHub_Stats_A_2023.05.31.md) **NOT SAFE**
+!-->
+
 **More files to be listed in the future.**
 
 </details>
@@ -219,7 +463,19 @@ You can navigate this directory without interacting with its files through this 
 
 <details><summary><p><b>[Open/close folder]</b></p></summary>
 
-Coming soon.
+> > 📁️ [`!OldVersions`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/!OldVersions/) **PARTIALLY SAFE**
+
+> > > 📁️ [`README`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/!OldVersions/README/) **PARTIALLY SAFE**
+
+> > > > 📁️ [`English`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/!OldVersions/README/English/) **PARTIALLY SAFE**
+
+> > > > > 📁️ [`USA`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/!OldVersions/README/English/USA/) **PARTIALLY SAFE**
+
+> > > > > > 📄️ [`README_V1.md`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/!OldVersions/README/English/USA/README_V1.md) **NOT SAFE**
+
+> > > > > > 📄️ [`README.txt`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/!OldVersions/README/English/USA/README.txt) **SAFE**
+
+> > 📄️ [`README.md`](/Seasons/!Compilation/ConfirmEntry/Full-Success-Compilation/README.md) **NOT SAFE**
 
 </details>
 
@@ -227,7 +483,19 @@ Coming soon.
 
 <details><summary><p><b>[Open/close folder]</b></p></summary>
 
-Coming soon.
+> > 📁️ [`!OldVersions`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/!OldVersions/) **PARTIALLY SAFE**
+
+> > > 📁️ [`README`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/!OldVersions/README/) **PARTIALLY SAFE**
+
+> > > > 📁️ [`English`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/!OldVersions/README/English/) **PARTIALLY SAFE**
+
+> > > > > 📁️ [`USA`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/!OldVersions/README/English/USA/) **PARTIALLY SAFE**
+
+> > > > > > 📄️ [`README_V1.md`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/!OldVersions/README/English/USA/README_V1.md) **NOT SAFE**
+
+> > > > > > 📄️ [`README.txt`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/!OldVersions/README/English/USA/README.txt) **SAFE**
+
+> > 📄️ [`README.md`](/Seasons/!Compilation/ConfirmEntry/Failure-Compilation/README.md) **NOT SAFE**
 
 </details>
 
@@ -235,7 +503,19 @@ Coming soon.
 
 <details><summary><p><b>[Open/close folder]</b></p></summary>
 
-Coming soon.
+> > 📁️ [`!OldVersions`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/!OldVersions/) **PARTIALLY SAFE**
+
+> > > 📁️ [`README`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/!OldVersions/README/) **PARTIALLY SAFE**
+
+> > > > 📁️ [`English`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/!OldVersions/README/English/) **PARTIALLY SAFE**
+
+> > > > > 📁️ [`USA`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/!OldVersions/README/English/USA/) **PARTIALLY SAFE**
+
+> > > > > > 📄️ [`README_V1.md`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/!OldVersions/README/English/USA/README_V1.md) **NOT SAFE**
+
+> > > > > > 📄️ [`README.txt`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/!OldVersions/README/English/USA/README.txt) **SAFE**
+
+> > 📄️ [`README.md`](/Seasons/!Compilation/ConfirmEntry/Partial-Success-Compilation/README.md) **NOT SAFE**
 
 </details>
 
@@ -253,9 +533,9 @@ Coming soon.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Tuesday, May 23rd at 3:36 pm PST)`
+**File version:** `6 (2023, Wednesday, May 24th at 2:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `374`
+**Line count (including blank lines and compiler line):** `673`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -365,6 +645,25 @@ Coming soon.
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2023, Wednesday, May 24th at 2:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Safe entry options` section
+- - [x] Added links to `GitHub_Stats_A` compilation daily documents since 2023 February 1st (from 2023, February 1st to 2023, May 23rd)
+- - [x] Finished adding sublinks to `/Full-Success-Compilation/`, `/Failure-Compilation/`, and `/Partial-Success-Compilation/` these files should be updated once per month
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
