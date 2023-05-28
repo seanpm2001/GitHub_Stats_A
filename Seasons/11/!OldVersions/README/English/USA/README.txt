@@ -1490,9 +1490,54 @@ Today was a category 0 day.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Saturday, May 27th</b></p></summary>
 
-**2023, Saturday, May 27th**
+The workflow ran unsuccessfully again today, failing within 0 hours, 1 minute and 6 seconds. I wasn't even doing anything on GitHub for over an hour prior to it running, so I don't know why it failed with `set changed size during iteration`
 
-Coming soon
+I put the workflow runs into 38 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3500+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3500+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3500+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3500+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3500+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3500+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3500+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3500+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3500+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3500+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3500+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3500+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3500+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3500+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3500+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3500+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3500+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3500+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3500+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3500+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3500+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3500+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3500+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3500+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3500+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3500+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3500+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3500+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3500+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3500+ repositories scanned/indexed_
+- **Category 32:** `R3000` - _Major success, with 3000-3099 out of 3500+ repositories scanned/indexed_
+- **Category 33:** `R3100` - _Major success, with 3100-3199 out of 3500+ repositories scanned/indexed_
+- **Category 34:** `R3200` - _Major success, with 3200-3299 out of 3500+ repositories scanned/indexed_
+- **Category 35:** `R3300` - _Major success, with 3300-3399 out of 3500+ repositories scanned/indexed_
+- **Category 36:** `R3400` - _Major success, with 3400-3499 out of 3500+ repositories scanned/indexed_
+- **Category 37:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+</details>
+
+Today was a category 0 day.
 
 </details> <!-- 2023 May 27th !-->
 
@@ -1581,25 +1626,25 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 | Success rate (days) | `21` |
 | Full success (days) | `5` |
 | Partial success (days) | `16` |
-| Failure rate (days) | `5` |
-| Days passed in season | `26` |
-| Days left in season | `05` |
+| Failure rate (days) | `6` |
+| Days passed in season | `27` |
+| Days left in season | `04` |
 | Longest consecutive streak (success) | `11 days` |
 | Longest consecutive streak (failure) | `3 days` |
 | Last consecutive streak (success) | `9 days` |
-| Last consecutive streak (failure) | `1 day` |
+| Last consecutive streak (failure) | `2 days` |
 | First workflow run | `Success` |
 | Last workflow run | `Failure` |
 | Total # of streaks (success) | `3` |
 | Total # of streaks (failure) | `3` |
 | Average length of streak (success) | `7.000 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+11%2C+9&x=30&y=5 !-->
-| Average length of streak (failure) | `1.667 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+3%2C+1&x=38&y=25 !-->
+| Average length of streak (failure) | `2.000 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+3%2C+2&x=47&y=23 !-->
 | Total repository scans | `33,016` |
-| Full success % | `019.23%` | <!-- Formula: Full Succcess Rate (Days) / Total number of days passed in season !-->
-| Partial success % | `061.53%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
-| Overall success % | `080.76%` | <!-- Formula: Full Success % + Partial Success % !-->
+| Full success % | `018.51%` | <!-- Formula: Full Succcess Rate (Days) / Total number of days passed in season !-->
+| Partial success % | `059.25%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
+| Overall success % | `077.77%` | <!-- Formula: Full Success % + Partial Success % !-->
 | Success/failure % Margin of error | `000.01%` | <!-- Formula: Overall success % + Overall failure % = remainder/answer !-->
-| Overall failure % | `019.23%` | <!-- Formula: Failure Rate (Days) / Total number of days passed in season !-->
+| Overall failure % | `022.22%` | <!-- Formula: Failure Rate (Days) / Total number of days passed in season !-->
 
 <!-- The margin of error should always be either 0.00% or 0.01% !-->
 
@@ -1631,7 +1676,7 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 | 2023, Wednesday, May 24th | ![/Seasons/11/SVG/overview_2023May24th.svg](/Seasons/11/SVG/overview_2023May24th.svg) | ![/Seasons/11/SVG/languages_2023May24th.svg](/Seasons/11/SVG/languages_2023May24th.svg) |
 | 2023, Thursday, May 25th | ![/Seasons/11/SVG/overview_2023May25th.svg](/Seasons/11/SVG/overview_2023May25th.svg) | ![/Seasons/11/SVG/languages_2023May25th.svg](/Seasons/11/SVG/languages_2023May25th.svg) |
 | 2023, Friday, May 26th | :x: | :x: |
-| 2023, Saturday, May 27th | TBD | TBD |
+| 2023, Saturday, May 27th | :x: | :x: |
 | 2023, Sunday, May 28th | TBD | TBD |
 | 2023, Monday, May 29th | TBD | TBD |
 | 2023, Tuesday, May 30th | TBD | TBD |
@@ -1644,6 +1689,7 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 | The workflow did not run on the 15th, as `set changed size during iteration` |
 | The workflow did not run on the 16th, as `set changed size during iteration` |
 | The workflow did not run on the 26th, as `set changed size during iteration` |
+| The workflow did not run on the 27th, as `set changed size during iteration` |
 
 <!-- | 2023, Thursday, June 1st | Coming soon | Coming soon | !-->
 
@@ -2040,6 +2086,17 @@ The access token for this project was renewed on 2023, May 1st. I am continuing 
 
 </details> <!-- 2023.05.26 !-->
 
+##### 2023 May 27th Calculation Notes
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the 2023 May 27th calculation notes section]</b></p></summary>
+
+> **Note** Finding the average number of workflow success and failure for this month as of 2023, May 27th.
+
+- **Success:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+11%2C+9&x=30&y=5](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+11%2C+9&x=30&y=5)
+- **Failure:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+3%2C+2&x=47&y=23](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+3%2C+2&x=47&y=23)
+
+</details> <!-- 2023.05.27 !-->
+
 </details> <!-- End of Online Calculation section !-->
 
 </details> <!-- End of Sources section !-->
@@ -2052,9 +2109,9 @@ The access token for this project was renewed on 2023, May 1st. I am continuing 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2023, Saturday, May 27th at 12:54 pm PST)`
+**File version:** `23 (2023, Sunday, May 28th at 3:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,549`
+**Line count (including blank lines and compiler line):** `2,626`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -2532,6 +2589,26 @@ The access token for this project was renewed on 2023, May 1st. I am continuing 
 - [ ] No other changes in version 22
 
 </details> <!-- V22 !-->
+
+<details><summary><p lang="en"><b>Version 23 (2023, Sunday, May 28th at 3:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[View this version separately](/Seasons/11/!OldVersions/README/English/USA/README_V23.md)
+
+> **Note** _This is the twenty-third release for season 11, this is a consecutive update. Total consecutive days: 2_
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Updated the `Sources` section
+- - [x] Updated the `Calculation sources` subsection
+- - - [x] Added the `2023.05.27` sub-subsection
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 23
+
+</details> <!-- V23 !-->
 
 </details> <!-- End of changelog !-->
 
