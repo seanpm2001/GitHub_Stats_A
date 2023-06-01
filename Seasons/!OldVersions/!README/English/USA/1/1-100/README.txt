@@ -11,7 +11,7 @@
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-A season is a time period in which workflow statistics run daily, and data is collected. Seasons typically last for 30 days, but some seasons may last longer (the only example being season 5, which was extended to let season 6 start on the first day of the month)
+A season is a time period in which workflow statistics run daily, and data is collected. Seasons typically last for 28, 29, 30, or 31 days, but some seasons may last longer (the only example being season 5, which was extended to let season 6 start on the first day of the month)
 
 </details>
 
@@ -31,9 +31,10 @@ A season is a time period in which workflow statistics run daily, and data is co
 | `S08` | [`/Seasons/8/`](/Seasons/8) | 2023, February 1st to 2023, February 28th | Very high failure rate, until the last week of the month. |
 | `S09` | [`/Seasons/9/`](/Seasons/9/) | 2023, March 1st to 2023, March 31st | A very successful month compared to last month, very low failure rate. |
 | `S10` | [`/Seasons/10/`](/Seasons/10/) | 2023, April 1st to 2023, April 30th | A very good month, with more advanced statistics. |
-| `S11` | [`/Seasons/11/`](/Seasons/11/) | 2023, May 1st to 2023, May 31st | A summary will be written once season 12 starts |
-| `S12` | [`Coming soon`](/Seasons/12/) | TBD | TBD |
+| `S11` | [`/Seasons/11/`](/Seasons/11/) | 2023, May 1st to 2023, May 31st | An average month, with a success rate slightly above 80% |
+| `S12` | [`/Seasons/12/`](/Seasons/12/) | 2023, June 1st to 2023, June 30th | A summary will be written once season 13 starts |
 | `S13` | [`Coming soon`](/Seasons/13/) | TBD | TBD |
+| `S14` | [`Coming soon`](/Seasons/14/) | TBD | TBD |
 
 </details>
 
@@ -53,15 +54,15 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 ***
 
-#### File info
+# File info
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Wednesday, May 3rd at 1:46 pm PST)`
+**File version:** `8 (2023, Thursday, June 1st at 12:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `246`
+**Line count (including blank lines and compiler line):** `270`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -77,7 +78,7 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 ***
 
-#### File history
+# File history
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
@@ -232,14 +233,37 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 </details> <!-- V07 !-->
 
+<details><summary><p lang="en"><b>Version 8 (2023, Thursday, June 1st at 12:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the season 12 release update._
+
+> Changes:
+
+- [x] Updated the `What is a season?` section
+- - [x] Updated the `Seasons` subsection, now including info for season 11 and a placeholder for season 14
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [x] Updated the footer
+- [ ] No other changes in version 8
+
+</details> <!-- V08 !-->
+
 </details> <!-- End of file history !-->
 
 ***
 
-###### Footer
+# Footer
 
 You have reached the end of this file.
 
 ( [Back to top](#Seanpm2001-Statistics) | [:octocat: Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
+
+###### EOF
 
 ***
