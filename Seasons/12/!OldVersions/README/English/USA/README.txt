@@ -32,18 +32,7 @@ This season starts with 2023, Thursday, June 1st. It is expected to last until 2
 
 **2023, Thursday, June 1st**
 
-Coming soon
-
-</details> <!-- 2023 June 1st !-->
-
-<!--
-### 2023, Wednesday, May 31st
-
-<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Wednesday, May 31st</b></p></summary>
-
-**2023, Wednesday, May 31st**
-
-The workflow had a partial success today, finishing within 1 hours, 38 minutes and 32 seconds, with incomplete data. It is still better than nothing, and it is good to end the month with a successful run.
+The workflow had a partial success today, finishing within 1 hours, 37 minutes and 0 seconds, with incomplete data. It is still better than nothing, and it is good to start the month with a successful run.
 
 I put the workflow runs into 38 categories:
 
@@ -91,7 +80,8 @@ I put the workflow runs into 38 categories:
 </details>
 
 Today was a category 12 day.
-!-->
+
+</details>
 
 ### 2023, Friday, June 2nd
 
@@ -435,26 +425,26 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 
 | Type rate | Count |
 |---|---|
-| Success rate (days) | `0` |
+| Success rate (days) | `1` |
 | Full success (days) | `0` |
-| Partial success (days) | `0` |
+| Partial success (days) | `1` |
 | Failure rate (days) | `0` |
-| Days passed in season | `00` |
-| Days left in season | `30` |
-| Longest consecutive streak (success) | `0 days` |
+| Days passed in season | `01` |
+| Days left in season | `29` |
+| Longest consecutive streak (success) | `1 day` |
 | Longest consecutive streak (failure) | `0 days` |
-| Last consecutive streak (success) | `0 days` |
+| Last consecutive streak (success) | `1 day` |
 | Last consecutive streak (failure) | `0 days` |
-| First workflow run | `NA` |
+| First workflow run | `Success` |
 | Last workflow run | `Success` |
-| Total # of streaks (success) | `0` |
+| Total # of streaks (success) | `1` |
 | Total # of streaks (failure) | `0` |
-| Average length of streak (success) | `0.000 days` | <!-- Source:  !-->
-| Average length of streak (failure) | `0.000 days` | <!-- Source:  !-->
-| Total repository scans | `0` |
+| Average length of streak (success) | `1.000 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1&x=32&y=16 !-->
+| Average length of streak (failure) | `0.000 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=0&x=47&y=26 !-->
+| Total repository scans | `1,000` |
 | Full success % | `000.00%` | <!-- Formula: Full Succcess Rate (Days) / Total number of days passed in season !-->
-| Partial success % | `000.00%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
-| Overall success % | `000.00%` | <!-- Formula: Full Success % + Partial Success % !-->
+| Partial success % | `100.00%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
+| Overall success % | `100.00%` | <!-- Formula: Full Success % + Partial Success % !-->
 | Success/failure % Margin of error | `000.00%` | <!-- Formula: Overall success % + Overall failure % = remainder/answer !-->
 | Overall failure % | `000.00%` | <!-- Formula: Failure Rate (Days) / Total number of days passed in season !-->
 
@@ -462,7 +452,7 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
-| 2023, Thursday, June 1st | TBD | TBD |
+| 2023, Thursday, June 1st | ![/Seasons/12/SVG/overview_2023June1st.svg](/Seasons/12/SVG/overview_2023June1st.svg) | ![/Seasons/12/SVG/languages_2023June1st.svg](/Seasons/12/SVG/languages_2023June1st.svg) |
 | 2023, Friday, June 2nd | TBD | TBD |
 | 2023, Saturday, June 3rd | TBD | TBD |
 | 2023, Sunday, June 4th | TBD | TBD |
@@ -623,18 +613,16 @@ The access token for this project was renewed on 2023, June 1st. I am continuing
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the online calculation section]</b></p></summary>
 
-<!-- 
-##### 2023 May 1st Calculation Notes
+##### 2023 June 1st Calculation Notes
 
-<details open><summary><p><b>[Click/tap here to expand/collapse the 2023 May 1st calculation notes section]</b></p></summary>
+<details open><summary><p><b>[Click/tap here to expand/collapse the 2023 June 1st calculation notes section]</b></p></summary>
 
-> **Note** Finding the average number of workflow success and failure for this month as of 2023, May 1st.
+> **Note** Finding the average number of workflow success and failure for this month as of 2023, June 1st.
 
-- **Success:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C%0D%0A&x=18&y=25](https://www.calculator.net/average-calculator.html?numberinputs=1%2C%0D%0A&x=18&y=25)
-- **Failure:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C%0D%0A&x=18&y=25](https://www.calculator.net/average-calculator.html?numberinputs=1%2C%0D%0A&x=18&y=25)
+- **Success:** [https://www.calculator.net/average-calculator.html?numberinputs=1&x=32&y=16](https://www.calculator.net/average-calculator.html?numberinputs=1&x=32&y=16)
+- **Failure:** [https://www.calculator.net/average-calculator.html?numberinputs=0&x=47&y=26](https://www.calculator.net/average-calculator.html?numberinputs=0&x=47&y=26)
 
-</details> <!-- 2023.05.01 !-->
-!-->
+</details> <!-- 2023.06.01 !-->
 
 </details> <!-- End of Online Calculation section !-->
 
@@ -648,9 +636,9 @@ The access token for this project was renewed on 2023, June 1st. I am continuing
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Thursday, June 1st at 1:00 pm PST)`
+**File version:** `2 (2023, Friday, June 2nd at 2:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,719`
+**Line count (including blank lines and compiler line):** `0,728`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -668,7 +656,7 @@ The access token for this project was renewed on 2023, June 1st. I am continuing
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-[View this version separately](/Seasons/12/!OldVersions/README/English/USA/README_V1.md)
+[`[View this version separately]`](/Seasons/12/!OldVersions/README/English/USA/README_V1.md)
 
 > **Note** _This is the first release for season 12._
 
@@ -702,6 +690,27 @@ The access token for this project was renewed on 2023, June 1st. I am continuing
 - [ ] No other changes in version 1
 
 </details> <!-- V01 !-->
+
+<details><summary><p lang="en"><b>Version 2 (2023, Friday, June 2nd at 2:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[`[View this version separately]`](/Seasons/12/!OldVersions/README/English/USA/README_V2.md)
+
+> **Note** _This is the second release for season 12, this is a consecutive update. Total consecutive days: 2_
+
+> Changes:
+
+- [x] Added an entry for `2023.06.01`
+- [x] Updated the main table
+- [x] Updated the `Sources` section
+- - [x] Updated the `Calculation sources` subsection
+- - - [x] Added the `2023.06.01` sub-subsection
+- [x] Updated the file info section
+- [x] Updated the changelog
+- [ ] No other changes in version 2
+
+</details> <!-- V2 !-->
 
 </details> <!-- End of changelog !-->
 
