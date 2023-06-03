@@ -5,7 +5,7 @@
 
 This file will be a compilation of all failed workflow runs. It was proposed on 2023, May 23rd.
 
-For now, it only contains data for Season 1 to season 11, up to the 22nd (as of 2023, Tuesday, May 23rd)
+For now, it only contains data for Season 1 to season 11, up to the 31st (as of 2023, Saturday, June 3rd at 1:37 pm PST)
 
 Personal note: I am surprised by how many failures this workflow has had in its first 11 seasons.
 
@@ -177,9 +177,17 @@ Personal note: I am surprised by how many failures this workflow has had in its 
 | 2023, Sunday, May 14th | :x: | :x: |
 | 2023, Monday, May 15th | :x: | :x: |
 | 2023, Tuesday, May 16th | :x: | :x: |
+| 2023, Tuesday, May 2nd | :x: | :x: |
+| 2023, Sunday, May 14th | :x: | :x: |
+| 2023, Monday, May 15th | :x: | :x: |
+| 2023, Tuesday, May 16th | :x: | :x: |
+| 2023, Friday, May 26th | :x: | :x: |
+| 2023, Saturday, May 27th | :x: | :x: |
 
 ***
 
-**File version:** `1 (2023, Tuesday, May 23rd at 3:18 pm PST)`
+# File info
+
+**File version:** `2 (2023, Saturday, June 3rd at 1:37 pm PST)`
 
 ***
