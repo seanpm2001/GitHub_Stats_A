@@ -557,8 +557,6 @@ Today was a category 14 day.
 
 </details> <!-- 2023 July 9th !-->
 
-</details> <!-- 2023 July 8th !-->
-
 ### 2023, Monday, July 10th
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Monday, July 10th</b></p></summary>
@@ -618,6 +616,126 @@ Today was a category 0 day.
 
 </details> <!-- 2023 July 10th !-->
 
+### 2023, Tuesday, July 11th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Saturday, July 1st</b></p></summary>
+
+**2023 Saturday, July 1st**
+
+The workflow did not run at all today. I worked on the project a bit late, and reactivated the workflow near 5:00 pm PST. It did not start on its own because of this, not running until the next day. I didn't manually start it, as I didn't want another workflow to start while I was away and cause a conflict. No logs are available for today. I didn't think the shutoff time was 5:00 pm. I don't think I have ever had the workflow refuse to run for 2 days in one month before.
+
+I decided not to update the repository today due to this, holding off the next update until the day after the next workflow run, which ran on 2023, Sunday, July 13th.
+
+I put the workflow runs into 40 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3600+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3600+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3600+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3600+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3600+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3600+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3600+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3600+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3600+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3600+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3600+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3600+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3600+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3600+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3600+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3600+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3600+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3600+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3600+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3600+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3600+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3600+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3600+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3600+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3600+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3600+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3600+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3600+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3600+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3600+ repositories scanned/indexed_
+- **Category 32:** `R3000` - _Major success, with 3000-3099 out of 3600+ repositories scanned/indexed_
+- **Category 33:** `R3100` - _Major success, with 3100-3199 out of 3600+ repositories scanned/indexed_
+- **Category 34:** `R3200` - _Major success, with 3200-3299 out of 3600+ repositories scanned/indexed_
+- **Category 35:** `R3300` - _Major success, with 3300-3399 out of 3600+ repositories scanned/indexed_
+- **Category 36:** `R3400` - _Major success, with 3400-3499 out of 3600+ repositories scanned/indexed_
+- **Category 37:** `R3500` - _Major success, with 3500-3599 out of 3600+ repositories scanned/indexed_
+- **Category 38:** `R3600` - _Major success, with 3600-3699 out of 3600+ repositories scanned/indexed_
+- **Category 39:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+</details>
+
+Today was a category 0 day.
+
+</details> <!-- 2023 July 11th !-->
+
+### 2023, Wednesday, July 12th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Sunday, July 9th</b></p></summary>
+
+**2023, Sunday, July 9th**
+
+The workflow had a partially successful day today, finishing within 2 hours, 28 minutes and 02 seconds. Due to it taking an extra hour, I didn't expect it to do so poorly; it only scanned 900 repositories.
+
+I put the workflow runs into 40 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3600+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3600+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3600+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3600+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3600+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3600+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3600+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3600+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3600+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3600+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3600+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3600+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3600+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3600+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3600+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3600+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3600+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3600+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3600+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3600+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3600+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3600+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3600+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3600+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3600+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3600+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3600+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3600+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3600+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3600+ repositories scanned/indexed_
+- **Category 32:** `R3000` - _Major success, with 3000-3099 out of 3600+ repositories scanned/indexed_
+- **Category 33:** `R3100` - _Major success, with 3100-3199 out of 3600+ repositories scanned/indexed_
+- **Category 34:** `R3200` - _Major success, with 3200-3299 out of 3600+ repositories scanned/indexed_
+- **Category 35:** `R3300` - _Major success, with 3300-3399 out of 3600+ repositories scanned/indexed_
+- **Category 36:** `R3400` - _Major success, with 3400-3499 out of 3600+ repositories scanned/indexed_
+- **Category 37:** `R3500` - _Major success, with 3500-3599 out of 3600+ repositories scanned/indexed_
+- **Category 38:** `R3600` - _Major success, with 3600-3699 out of 3600+ repositories scanned/indexed_
+- **Category 39:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+</details>
+
+Today was a category 11 day.
+
+</details> <!-- 2023 July 12th !-->
+
 </details> <!-- 2023 July !-->
 
 </details> <!-- Season 13 !-->
@@ -660,28 +778,28 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 
 | Type rate | Count |
 |---|---|
-| Success rate (days) | `04` |
+| Success rate (days) | `05` |
 | Full success (days) | `00` |
-| Partial success (days) | `04` |
-| Failure rate (days) | `06` |
-| Days passed in season | `10` |
-| Days left in season | `21` |
+| Partial success (days) | `05` |
+| Failure rate (days) | `07` |
+| Days passed in season | `12` |
+| Days left in season | `19` |
 | Longest consecutive streak (success) | `1 day` |
 | Longest consecutive streak (failure) | `2 days` |
 | Last consecutive streak (success) | `1 day` |
 | Last consecutive streak (failure) | `2 days` |
 | First workflow run | `None` |
-| Last workflow run | `Failure` |
-| Total # of streaks (success) | `4` |
-| Total # of streaks (failure) | `5` |
-| Average length of streak (success) | `1.000 day` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1&x=86&y=24 !-->
-| Average length of streak (failure) | `1.166 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+2%2C+1%2C+1&x=32&y=21 !-->
-| Total repository scans | `3,800` |
+| Last workflow run | `Success` |
+| Total # of streaks (success) | `5` |
+| Total # of streaks (failure) | `6` |
+| Average length of streak (success) | `1.000 day` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+1&x=81&y=29 !-->
+| Average length of streak (failure) | `1.142 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+2%2C+1%2C+1%2C+1&x=72&y=21 !-->
+| Total repository scans | `4,700` |
 | Full success % | `000.00%` | <!-- Formula: Full Succcess Rate (Days) / Total number of days passed in season !-->
-| Partial success % | `040.00%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
-| Overall success % | `040.00%` | <!-- Formula: Full Success % + Partial Success % !-->
+| Partial success % | `041.66%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
+| Overall success % | `041.66%` | <!-- Formula: Full Success % + Partial Success % !-->
 | Success/failure % Margin of error | `000.00%` | <!-- Formula: Overall success % + Overall failure % = remainder/answer !-->
-| Overall failure % | `060.00%` | <!-- Formula: Failure Rate (Days) / Total number of days passed in season !-->
+| Overall failure % | `058.33%` | <!-- Formula: Failure Rate (Days) / Total number of days passed in season !-->
 
 <!-- The margin of error should always be either 0.00% or 0.01% !-->
 
@@ -699,8 +817,8 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 | 2023, Saturday, July 8th | :x: | :x: |
 | 2023, Sunday, July 9th | ![/Seasons/13/SVG/overview_2023July9th.svg](/Seasons/13/SVG/overview_2023July9th.svg) | ![/Seasons/13/SVG/languages_2023July9th.svg](/Seasons/13/SVG/languages_2023July9th.svg) |
 | 2023, Monday, July 10th | :x: | :x: |
-| 2023, Tuesday, July 11th | Coming soon | Coming soon |
-| 2023, Wednesday, July 12th | Coming soon | Coming soon |
+| 2023, Tuesday, July 11th | `Workflow did not run` | `Workflow did not run` |
+| 2023, Wednesday, July 12th | ![/Seasons/13/SVG/overview_2023July12th.svg](/Seasons/13/SVG/overview_2023July12th.svg) | ![/Seasons/13/SVG/languages_2023July12th.svg](/Seasons/13/SVG/languages_2023July12th.svg) |
 | 2023, Thursday, July 13th | Coming soon | Coming soon |
 | 2023, Friday, July 14th | Coming soon | Coming soon |
 | 2023, Saturday, July 15th | Coming soon | Coming soon |
@@ -955,6 +1073,28 @@ The access token for this project was renewed on 2023, July 1st. I am continuing
 
 </details> <!-- 2023.07.10 !-->
 
+##### 2023 July 11th Calculation Notes
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the 2023 July 11th calculation notes section]</b></p></summary>
+
+> **Note** Finding the average number of workflow success and failure for this month as of 2023, July 11th.
+
+- **Success:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1&x=86&y=24](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1&x=86&y=24)
+- **Failure:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+1&x=81&y=29](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+1&x=81&y=29)
+
+</details> <!-- 2023.07.11 !-->
+
+##### 2023 July 12th Calculation Notes
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the 2023 July 12th calculation notes section]</b></p></summary>
+
+> **Note** Finding the average number of workflow success and failure for this month as of 2023, July 12th.
+
+- **Success:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+2%2C+1%2C+1%2C+1&x=72&y=21](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+2%2C+1%2C+1%2C+1&x=72&y=21)
+- **Failure:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+1&x=81&y=29](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+1&x=81&y=29)
+
+</details> <!-- 2023.07.12 !-->
+
 </details> <!-- End of Online Calculation section !-->
 
 </details> <!-- End of Sources section !-->
@@ -967,17 +1107,17 @@ The access token for this project was renewed on 2023, July 1st. I am continuing
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2023, Tuesday, July 11th at 05:11 pm PST)`
+**File version:** `11 (2023, Thursday, July 13th at 04:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,241`
+**Line count (including blank lines and compiler line):** `1,403`
 
-**Word count:** `12,157`
+**Word count:** `14,063`
 
-**Character count (including spaces):** `81,206`
+**Character count (including spaces):** `93,919`
 
-**Character count (excluding spaces):** `69,777`
+**Character count (excluding spaces):** `80,797`
 
-**Size (in bytes):** `81,206`
+**Size (in bytes):** `93,919`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1224,6 +1364,28 @@ The access token for this project was renewed on 2023, July 1st. I am continuing
 - [ ] No other changes in version 10
 
 </details> <!-- V10 !-->
+
+<details><summary><p lang="en"><b>Version 11 (2023, Thursday, July 13th at 04:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[`[View this version separately]`](/Seasons/13/!OldVersions/README/English/USA/README_V11.md)
+
+> **Note** _This is the eleventh release for season 13. Yesterday was skipped due to no workflow run taking place. Total consecutive days: 1._
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Updated the `Sources` section
+- - [x] Updated the `Calculation sources` subsection
+- - - [x] Added an entry for 2023 July 11th
+- - - [x] Added an entry for 2023 July 12th
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 11
+- [ ] No other changes in version 11
+
+</details> <!-- V11 !-->
 
 </details> <!-- End of changelog !-->
 
