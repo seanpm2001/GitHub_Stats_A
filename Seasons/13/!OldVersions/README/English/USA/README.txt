@@ -854,6 +854,65 @@ Today was a category 0 day.
 
 </details> <!-- 2023 July 14th !-->
 
+### 2023, Saturday, July 15th
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the entry for 2023, Saturday, July 15th</b></p></summary>
+
+**2023, Saturday, July 15th**
+
+The workflow had a partially successful day today, finishing within 3 hours, 36 minutes and 15 seconds. Even though it took nearly 2 extra hours, it did extremely poorly, only scanning 900 repositories. I have been beginning to suspect that a recent bug with the GitHub linguist in my Git-Templates repository is causing the workflow to perform badly this month, as I feel it may be scanning up to this repository, then getting stuck (this particular repository is reporting negative language usage, but the internals of the Linguist indicate that data is still being scanned correctly, the logic just isn't being processed correctly) I am wondering if this workflow reads the logic, and not the data. It has been nearly half a month, and the repository has still not had a fully successful run.
+
+I put the workflow runs into 40 categories:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the category listing]</b><p></summary>
+
+- **Category 0:** `Complete failure` - _The process did not run successfully_
+- **Category 1:** `R0` - _Partial, extremely poor success, with 0 repositories scanned/indexed, but the workflow still ran and didn't throw an error_
+- **Category 2:** `R99` - _Partial, extremely poor success, with 1-99 out of 3600+ repositories scanned/indexed_
+- **Category 3:** `R100` - _Partial, extremely poor success, with 100-199 out of 3600+ repositories scanned/indexed_
+- **Category 4:** `R200` - _Partial, extremely poor success, with 200-299 out of 3600+ repositories scanned/indexed_
+- **Category 5:** `R300` - _Partial, extremely poor success, with 300-399 out of 3600+ repositories scanned/indexed_
+- **Category 6:** `R400` - _Partial, very poor success, with 400-499 out of 3600+ repositories scanned/indexed_
+- **Category 7:** `R500` - _Partial, very poor success, with 500-599 out of 3600+ repositories scanned/indexed_
+- **Category 8:** `R600` - _Partial, very poor success, with 600-699 out of 3600+ repositories scanned/indexed_
+- **Category 9:** `R700` - _Partial, very poor success, with 700-799 out of 3600+ repositories scanned/indexed_
+- **Category 10:** `R800` - _Partial, poor success, with 800-899 out of 3600+ repositories scanned/indexed_
+- **Category 11:** `R900` - _Partial poor success, with 900-999 or less out of 3600+ repositories scanned/indexed_
+- **Category 12:** `R1000` - _Partial success, with 1000-1099 out of 3600+ repositories scanned/indexed_
+- **Category 13:** `R1100` - _Partial success, with 1100-1199 out of 3600+ repositories scanned/indexed_
+- **Category 14:** `R1200` - _Partial success, with 1200-1299 out of 3600+ repositories scanned/indexed_
+- **Category 15:** `R1300` - _Partial success, with 1300-1399 out of 3600+ repositories scanned/indexed_
+- **Category 16:** `R1400` - _Partial success, with 1400-1499 out of 3600+ repositories scanned/indexed_
+- **Category 17:** `R1500` - _Partial success, with 1500-1599 out of 3600+ repositories scanned/indexed_
+- **Category 18:** `R1600` - _Moderate success, with 1600-1699 out of 3600+ repositories scanned/indexed_
+- **Category 19:** `R1700` - _Moderate success, with 1700-1799 out of 3600+ repositories scanned/indexed_
+- **Category 20:** `R1800` - _Moderate success, with 1800-1899 out of 3600+ repositories scanned/indexed_
+- **Category 21:** `R1900` - _Moderate success, with 1900-1999 out of 3600+ repositories scanned/indexed_
+- **Category 22:** `R2000` - _Moderate success, with 2000-2099 out of 3600+ repositories scanned/indexed_
+- **Category 23:** `R2100` - _Major success, with 2100-2199 out of 3600+ repositories scanned/indexed_
+- **Category 24:** `R2200` - _Major success, with 2200-2299 out of 3600+ repositories scanned/indexed_
+- **Category 25:** `R2300` - _Major success, with 2300-2399 out of 3600+ repositories scanned/indexed_
+- **Category 26:** `R2400` - _Major success, with 2400-2499 out of 3600+ repositories scanned/indexed_
+- **Category 27:** `R2500` - _Major success, with 2500-2599 out of 3600+ repositories scanned/indexed_
+- **Category 28:** `R2600` - _Major success, with 2600-2699 out of 3600+ repositories scanned/indexed_
+- **Category 29:** `R2700` - _Major success, with 2700-2799 out of 3600+ repositories scanned/indexed_
+- **Category 30:** `R2800` - _Major success, with 2800-2899 out of 3600+ repositories scanned/indexed_
+- **Category 31:** `R2900` - _Major success, with 2900-2999 out of 3600+ repositories scanned/indexed_
+- **Category 32:** `R3000` - _Major success, with 3000-3099 out of 3600+ repositories scanned/indexed_
+- **Category 33:** `R3100` - _Major success, with 3100-3199 out of 3600+ repositories scanned/indexed_
+- **Category 34:** `R3200` - _Major success, with 3200-3299 out of 3600+ repositories scanned/indexed_
+- **Category 35:** `R3300` - _Major success, with 3300-3399 out of 3600+ repositories scanned/indexed_
+- **Category 36:** `R3400` - _Major success, with 3400-3499 out of 3600+ repositories scanned/indexed_
+- **Category 37:** `R3500` - _Major success, with 3500-3599 out of 3600+ repositories scanned/indexed_
+- **Category 38:** `R3600` - _Major success, with 3600-3699 out of 3600+ repositories scanned/indexed_
+- **Category 39:** `Complete success` - _The process ran and gave accurate results with all repositories scanned_
+
+</details>
+
+Today was a category 11 day.
+
+</details> <!-- 2023 July 15th !-->
+
 </details> <!-- 2023 July !-->
 
 </details> <!-- Season 13 !-->
@@ -890,34 +949,40 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 
 ***
 
+### Season 13 performance speculation
+
+I have been beginning to suspect that a recent bug with the GitHub linguist in my Git-Templates repository is causing the workflow to perform badly this month (2023, July) as I feel the workflow may be scanning up to this repository, then getting stuck (this particular repository is reporting negative language usage, but the internals of the Linguist indicate that data is still being scanned correctly, the logic just isn't being processed correctly) I am wondering if this workflow reads the logic, and not the data. As of 2023, Saturday, July 15th, the workflow has not had a single fully successful run this month, and has had a very high failure rate.
+
+***
+
 ## Season 13 overview and language counts
 
 <details open><summary><p lang="en"><b>Click/tap here to expand the season 13 overview & language counts table</b></p></summary>
 
 | Type rate | Count |
 |---|---|
-| Success rate (days) | `06` |
+| Success rate (days) | `07` |
 | Full success (days) | `00` |
-| Partial success (days) | `06` |
+| Partial success (days) | `07` |
 | Failure rate (days) | `08` |
-| Days passed in season | `14` |
-| Days left in season | `17` |
+| Days passed in season | `15` |
+| Days left in season | `16` |
 | Longest consecutive streak (success) | `2 days` |
 | Longest consecutive streak (failure) | `2 days` |
-| Last consecutive streak (success) | `2 days` |
+| Last consecutive streak (success) | `1 day` |
 | Last consecutive streak (failure) | `1 day` |
 | First workflow run | `None` |
-| Last workflow run | `Failure` |
-| Total # of streaks (success) | `5` |
+| Last workflow run | `Success` |
+| Total # of streaks (success) | `6` |
 | Total # of streaks (failure) | `6` |
-| Average length of streak (success) | `1.166 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+2&x=66&y=21 !-->
+| Average length of streak (success) | `1.142 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+2%2C+1&x=1&y=18 !-->
 | Average length of streak (failure) | `1.125 days` | <!-- Source: https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+2%2C+1%2C+1%2C+1%2C+1&x=51&y=15 !-->
-| Total repository scans | `5,600` |
+| Total repository scans | `6,500` |
 | Full success % | `000.00%` | <!-- Formula: Full Succcess Rate (Days) / Total number of days passed in season !-->
-| Partial success % | `042.86%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
-| Overall success % | `042.86%` | <!-- Formula: Full Success % + Partial Success % !-->
+| Partial success % | `046.66%` | <!-- Formula: Partial Succcess Rate (Days) / Total number of days passed in season !-->
+| Overall success % | `046.66%` | <!-- Formula: Full Success % + Partial Success % !-->
 | Success/failure % Margin of error | `000.00%` | <!-- Formula: Overall success % + Overall failure % = remainder/answer !-->
-| Overall failure % | `057.14%` | <!-- Formula: Failure Rate (Days) / Total number of days passed in season !-->
+| Overall failure % | `053.34%` | <!-- Formula: Failure Rate (Days) / Total number of days passed in season !-->
 
 <!-- The margin of error should always be either 0.00% or 0.01% !-->
 
@@ -939,7 +1004,7 @@ The message to [`@jstrieb`](https://github.com/jsrieb/) was sent on 2023, Tuesda
 | 2023, Wednesday, July 12th | ![/Seasons/13/SVG/overview_2023July12th.svg](/Seasons/13/SVG/overview_2023July12th.svg) | ![/Seasons/13/SVG/languages_2023July12th.svg](/Seasons/13/SVG/languages_2023July12th.svg) |
 | 2023, Thursday, July 13th | ![/Seasons/13/SVG/overview_2023July13th.svg](/Seasons/13/SVG/overview_2023July13th.svg) | ![/Seasons/13/SVG/languages_2023July13th.svg](/Seasons/13/SVG/languages_2023July13th.svg) |
 | 2023, Friday, July 14th | :x: | :x: |
-| 2023, Saturday, July 15th | Coming soon | Coming soon |
+| 2023, Saturday, July 15th | ![/Seasons/13/SVG/overview_2023July15th.svg](/Seasons/13/SVG/overview_2023July15th.svg) | ![/Seasons/13/SVG/languages_2023July15th.svg](/Seasons/13/SVG/languages_2023July15th.svg) |
 | 2023, Sunday, July 16th | Coming soon | Coming soon |
 | 2023, Monday, July 17th | Coming soon | Coming soon |
 | 2023, Tuesday, July 18th | Coming soon | Coming soon |
@@ -1235,6 +1300,17 @@ The access token for this project was renewed on 2023, July 1st. I am continuing
 
 </details> <!-- 2023.07.14 !-->
 
+##### 2023 July 15th Calculation Notes
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the 2023 July 15th calculation notes section]</b></p></summary>
+
+> **Note** Finding the average number of workflow success and failure for this month as of 2023, July 15th.
+
+- **Success:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+2%2C+1&x=1&y=18](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+1%2C+1%2C+2%2C+1&x=1&y=18)
+- **Failure:** [https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+2%2C+1%2C+1%2C+1%2C+1&x=51&y=15](https://www.calculator.net/average-calculator.html?numberinputs=1%2C+1%2C+1%2C+2%2C+1%2C+1%2C+1%2C+1&x=51&y=15)
+
+</details> <!-- 2023.07.15 !-->
+
 </details> <!-- End of Online Calculation section !-->
 
 </details> <!-- End of Sources section !-->
@@ -1247,17 +1323,17 @@ The access token for this project was renewed on 2023, July 1st. I am continuing
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2023, Saturday, July 15th at 02:07 pm PST)`
+**File version:** `14 (2023, Sunday, July 16th at 03:12 pm PST)`
 
 **Line count (including blank lines and compiler line):** `1,585`
 
-**Word count:** `15,981`
+**Word count:** `17,177`
 
-**Character count (including spaces):** `106,920`
+**Character count (including spaces):** `114,826`
 
-**Character count (excluding spaces):** `92,090`
+**Character count (excluding spaces):** `98,923`
 
-**Size (in bytes):** `106,920`
+**Size (in bytes):** `114,826`
 
 **Article language:** `English (USA)` / `Markdown (CommonMark)` / `HTML5 (5.3)`
 
@@ -1568,6 +1644,28 @@ The access token for this project was renewed on 2023, July 1st. I am continuing
 - [ ] No other changes in version 13
 
 </details> <!-- V13 !-->
+
+<details><summary><p lang="en"><b>Version 14 (2023, Sunday, July 16th at 03:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+[`[View this version separately]`](/Seasons/13/!OldVersions/README/English/USA/README_V14.md)
+
+> **Note** _This is the fourteenth release for season 13. Total consecutive days: 4._
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Updated the `Sources` section
+- - [x] Updated the `Calculation sources` subsection
+- - - [x] Added an entry for 2023 July 15th
+- [x] Added the `Season 13 performance speculation` section
+- [x] Updated the file info section
+- [x] Updated the changelog
+- - [x] Added an entry for version 14
+- [ ] No other changes in version 14
+
+</details> <!-- V14 !-->
 
 </details> <!-- End of changelog !-->
 
