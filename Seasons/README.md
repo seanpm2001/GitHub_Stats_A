@@ -33,9 +33,10 @@ A season is a time period in which workflow statistics run daily, and data is co
 | `S10` | [`/Seasons/10/`](/Seasons/10/) | 2023, April 1st to 2023, April 30th | A very good month, with more advanced statistics. |
 | `S11` | [`/Seasons/11/`](/Seasons/11/) | 2023, May 1st to 2023, May 31st | An average month, with a success rate slightly above 80% |
 | `S12` | [`/Seasons/12/`](/Seasons/12/) | 2023, June 1st to 2023, June 30th | The most successful month to date, with 90% overall success. |
-| `S13` | [`Coming soon`](/Seasons/13/) | 2023, July 1st to 2023, July 1st | A summary will be written once season 14 starts |
-| `S14` | [`Coming soon`](/Seasons/14/) | TBD | TBD |
-| `S15` | [`Coming soon`](/Seasons/15/) | TBD | TBD |
+| `S13` | [`/Seasons/13/`](/Seasons/13/) | 2023, July 1st to 2023, July 31st | A significant decrease compared to last month, but still moderately successful. This month had a very high failure rate, and a lack of success. Things didn't start to turn around until halfway through the month. |
+| `S14` | [`/Seasons/14/`](/Seasons/14/) | 2023, August 1st to 2023, August 31st | A summary will be written once season 15 starts. |
+| `S15` | [`/Seasons/15/`](/Seasons/15/) | TBD | TBD |
+| `S16` | [`/Seasons/16/`](/Seasons/16/) | TBD | TBD |
 
 </details>
 
@@ -61,9 +62,9 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Saturday, July 1st at 5:59 pm PST)`
+**File version:** `10 (2023, Tuesday, August 1st at 4:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `292`
+**Line count (including blank lines and compiler line):** `313`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -275,6 +276,26 @@ Safety precautions were added on 2022, December 7th and December 8th to make it 
 - [ ] No other changes in version 9
 
 </details> <!-- V09 !-->
+
+<details><summary><p lang="en"><b>Version 10 (2023, Tuesday, August 1st at 04:06 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the season 14 release update._
+
+> Changes:
+
+- [x] Updated the `What is a season?` section
+- - [x] Updated the `Seasons` subsection, now including info for season 13 and a placeholder for season 16
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
+
+</details> <!-- V10 !-->
 
 </details> <!-- End of file history !-->
 
