@@ -5,13 +5,13 @@
 
 This file is a compilation of all successful workflow runs. It was proposed on 2023, May 23rd.
 
-For now, it only contains data for Season 1 to season 12, up to the 30th of 2023 June (as of 2023, Monday, July 10th at 4:47 pm PST)
+For now, it only contains data for Season 1 to season 12, up to the 31st of 2023 July (as of 2023, Friday, August 4th at 3:39 pm PST)
 
 Personal note: It is really cool to look through these, and see how much has changed.
 
-Another personal note: Season 1 and season 2 are swapped: overview and languages are in a different position.
+Another personal note: Season 1 and season 2 are swapped: overview and languages are in a different (reversed) position compared to the other 11 seasons.
 
-I am surprised by how few full successes there are, even as of season 12.
+I am surprised by how few full successes there are, even as of season 13 (the ratio went down further with season 13, which only had 3 full successes for 31 days)
 
 | Date (YYYY/MM/DD) | Overview | Languages |
 |---|---|---|
@@ -80,11 +80,14 @@ I am surprised by how few full successes there are, even as of season 12.
 | 2023, Sunday, June 25th | ![/Seasons/12/SVG/overview_2023June25th.svg](/Seasons/12/SVG/overview_2023June25th.svg) | ![/Seasons/12/SVG/languages_2023June25th.svg](/Seasons/12/SVG/languages_2023June25th.svg) |
 | 2023, Monday, June 26th | ![/Seasons/12/SVG/overview_2023June26th.svg](/Seasons/12/SVG/overview_2023June26th.svg) | ![/Seasons/12/SVG/languages_2023June26th.svg](/Seasons/12/SVG/languages_2023June26th.svg) |
 | 2023, Wednesday, June 28th | ![/Seasons/12/SVG/overview_2023June28th.svg](/Seasons/12/SVG/overview_2023June28th.svg) | ![/Seasons/12/SVG/languages_2023June28th.svg](/Seasons/12/SVG/languages_2023June28th.svg) |
+| 2023, Wednesday, July 19th | ![/Seasons/13/SVG/overview_2023July19th.svg](/Seasons/13/SVG/overview_2023July19th.svg) | ![/Seasons/13/SVG/languages_2023July19th.svg](/Seasons/13/SVG/languages_2023July19th.svg) |
+| 2023, Saturday, July 29th | ![/Seasons/13/SVG/overview_2023July29th.svg](/Seasons/13/SVG/overview_2023July29th.svg) | ![/Seasons/13/SVG/languages_2023July29th.svg](/Seasons/13/SVG/languages_2023July29th.svg) |
+| 2023, Sunday, July 30th | ![/Seasons/13/SVG/overview_2023July30th.svg](/Seasons/13/SVG/overview_2023July30th.svg) | ![/Seasons/13/SVG/languages_2023July30th.svg](/Seasons/13/SVG/languages_2023July30th.svg) |
 
 ***
 
 # File info
 
-**File version:** `3 (2023, Monday, July 10th at 4:47 pm PST)`
+**File version:** `4 (2023, Friday, August 4th at 3:39 pm PST)`
 
 ***
