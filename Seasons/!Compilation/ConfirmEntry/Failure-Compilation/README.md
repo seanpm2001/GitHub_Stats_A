@@ -5,7 +5,7 @@
 
 This file is a compilation of all failed workflow runs. It was proposed on 2023, May 23rd.
 
-For now, it only contains data for Season 1 to season 12, up to the 31st of 2023 July (as of 2023, Friday, August 4th at 3:40 pm PST)
+For now, it only contains data for Season 1 to season 14, up to the 31st of 2023 August (as of 2023, Saturday, September 9th at 2:56 pm PST)
 
 Personal note: I am surprised by how many failures this workflow has had in its first 13 seasons. Season 13 significantly increased the number (by 11) in comparison to recent seasons.
 
@@ -197,11 +197,23 @@ Personal note: I am surprised by how many failures this workflow has had in its 
 | 2023, Sunday, July 16th | :x: | :x: |
 | 2023, Saturday, July 22nd | :x: | :x: |
 | 2023, Wednesday, July 26th | :x: | :x: |
+| 2023, Sunday, August 6th | :x: | :x: |
+| 2023, Thursday, August 10th | :x: | :x: |
+| 2023, Sunday, August 13th | :x: | :x: |
+| 2023, Tuesday, August 15th | :x: | :x: |
+| 2023, Thursday, August 17th | :x: | :x: |
+| 2023, Friday, August 18th | :x: | :x: |
+| 2023, Saturday, August 19th | :x: | :x: |
+| 2023, Sunday, August 20th | :x: | :x: |
+| 2023, Thursday, August 24th | :x: | :x: |
+| 2023, Friday, August 25th | :x: | :x: |
+| 2023, Saturday, August 26th | :x: | :x: |
+| 2023, Thursday, August 31st | :x: | :x: |
 
 ***
 
 # File info
 
-**File version:** `4 (2023, Friday, August 4th at 3:40 pm PST)`
+**File version:** `5 (2023, Saturday, September 9th at 2:56 pm PST)`
 
 ***
