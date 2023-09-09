@@ -5,7 +5,7 @@
 
 This file is a compilation of all partially workflow runs. It was proposed on 2023, May 23rd.
 
-For now, it only contains data for Season 1 to season 13, up to the 31st of 2023 July (as of 2023, Friday, August 4th at 3:37 pm PST)
+For now, it only contains data for Season 1 to season 14, up to the 31st of 2023 August (as of 2023, Saturday, September 9th at 2:58 pm PST)
 
 Personal note: It is really cool to look through these, and see how much has changed.
 
@@ -186,11 +186,29 @@ I am also trying to decide if I should sort them by the partial success rate (by
 | 2023, Thursday, July 27th | ![/Seasons/13/SVG/overview_2023July27th.svg](/Seasons/13/SVG/overview_2023July27th.svg) | ![/Seasons/13/SVG/languages_2023July27th.svg](/Seasons/13/SVG/languages_2023July27th.svg) |
 | 2023, Friday, July 28th | ![/Seasons/13/SVG/overview_2023July28th.svg](/Seasons/13/SVG/overview_2023July28th.svg) | ![/Seasons/13/SVG/languages_2023July28th.svg](/Seasons/13/SVG/languages_2023July28th.svg) |
 | 2023, Monday, July 31st | ![/Seasons/13/SVG/overview_2023July31st.svg](/Seasons/13/SVG/overview_2023July31st.svg) | ![/Seasons/13/SVG/languages_2023July31st.svg](/Seasons/13/SVG/languages_2023July31st.svg) |
+| 2023, Tuesday, August 1st | ![/Seasons/14/SVG/overview_2023August1st.svg](/Seasons/14/SVG/overview_2023August1st.svg) | ![/Seasons/14/SVG/languages_2023August1st.svg](/Seasons/14/SVG/languages_2023August1st.svg) |
+| 2023, Wednesday, August 2nd | ![/Seasons/14/SVG/overview_2023August2nd.svg](/Seasons/14/SVG/overview_2023August2nd.svg) | ![/Seasons/14/SVG/languages_2023August2nd.svg](/Seasons/14/SVG/languages_2023August2nd.svg) |
+| 2023, Thursday, August 3rd | ![/Seasons/14/SVG/overview_2023August3rd.svg](/Seasons/14/SVG/overview_2023August3rd.svg) | ![/Seasons/14/SVG/languages_2023August3rd.svg](/Seasons/14/SVG/languages_2023August3rd.svg) |
+| 2023, Friday, August 4th | ![/Seasons/14/SVG/overview_2023August4th.svg](/Seasons/14/SVG/overview_2023August4th.svg) | ![/Seasons/14/SVG/languages_2023August4th.svg](/Seasons/14/SVG/languages_2023August4th.svg) |
+| 2023, Saturday, August 5th | ![/Seasons/14/SVG/overview_2023August5th.svg](/Seasons/14/SVG/overview_2023August5th.svg) | ![/Seasons/14/SVG/languages_2023August5th.svg](/Seasons/14/SVG/languages_2023August5th.svg) |
+| 2023, Monday, August 7th | ![/Seasons/14/SVG/overview_2023August7th.svg](/Seasons/14/SVG/overview_2023August7th.svg) | ![/Seasons/14/SVG/languages_2023August7th.svg](/Seasons/14/SVG/languages_2023August7th.svg) |
+| 2023, Tuesday, August 8th | ![/Seasons/14/SVG/overview_2023August8th.svg](/Seasons/14/SVG/overview_2023August8th.svg) | ![/Seasons/14/SVG/languages_2023August8th.svg](/Seasons/14/SVG/languages_2023August8th.svg) |
+| 2023, Friday, August 11th | ![/Seasons/14/SVG/overview_2023August11th.svg](/Seasons/14/SVG/overview_2023August11th.svg) | ![/Seasons/14/SVG/languages_2023August11th.svg](/Seasons/14/SVG/languages_2023August11th.svg) |
+| 2023, Saturday, August 12th | ![/Seasons/14/SVG/overview_2023August12th.svg](/Seasons/14/SVG/overview_2023August12th.svg) | ![/Seasons/14/SVG/languages_2023August12th.svg](/Seasons/14/SVG/languages_2023August12th.svg) |
+| 2023, Monday, August 14th | ![/Seasons/14/SVG/overview_2023August14th.svg](/Seasons/14/SVG/overview_2023August14th.svg) | ![/Seasons/14/SVG/languages_2023August14th.svg](/Seasons/14/SVG/languages_2023August14th.svg) |
+| 2023, Wednesday, August 16th | ![/Seasons/14/SVG/overview_2023August16th.svg](/Seasons/14/SVG/overview_2023August16th.svg) | ![/Seasons/14/SVG/languages_2023August16th.svg](/Seasons/14/SVG/languages_2023August16th.svg) |
+| 2023, Monday, August 21st | ![/Seasons/14/SVG/overview_2023August21st.svg](/Seasons/14/SVG/overview_2023August21st.svg) | ![/Seasons/14/SVG/languages_2023August21st.svg](/Seasons/14/SVG/languages_2023August21st.svg) |
+| 2023, Tuesday, August 22nd | ![/Seasons/14/SVG/overview_2023August22nd.svg](/Seasons/14/SVG/overview_2023August22nd.svg) | ![/Seasons/14/SVG/languages_2023August22nd.svg](/Seasons/14/SVG/languages_2023August22nd.svg) |
+| 2023, Wednesday, August 23rd | ![/Seasons/14/SVG/overview_2023August23rd.svg](/Seasons/14/SVG/overview_2023August23rd.svg) | ![/Seasons/14/SVG/languages_2023August23rd.svg](/Seasons/14/SVG/languages_2023August23rd.svg) |
+| 2023, Sunday, August 27th | ![/Seasons/14/SVG/overview_2023August27th.svg](/Seasons/14/SVG/overview_2023August27th.svg) | ![/Seasons/14/SVG/languages_2023August27th.svg](/Seasons/14/SVG/languages_2023August27th.svg) |
+| 2023, Monday, August 28th | ![/Seasons/14/SVG/overview_2023August28th.svg](/Seasons/14/SVG/overview_2023August28th.svg) | ![/Seasons/14/SVG/languages_2023August28th.svg](/Seasons/14/SVG/languages_2023August28th.svg) |
+| 2023, Tuesday, August 29th | ![/Seasons/14/SVG/overview_2023August29th.svg](/Seasons/14/SVG/overview_2023August29th.svg) | ![/Seasons/14/SVG/languages_2023August29th.svg](/Seasons/14/SVG/languages_2023August29th.svg) |
+| 2023, Wednesday, August 30th | ![/Seasons/14/SVG/overview_2023August30th.svg](/Seasons/14/SVG/overview_2023August30th.svg) | ![/Seasons/14/SVG/languages_2023August30th.svg](/Seasons/14/SVG/languages_2023August30th.svg) |
 
 ***
 
 # File info
 
-**File version:** `4 (2023, Friday, August 4th at 3:37 pm PST)`
+**File version:** `5 (2023, Saturday, September 9th at 2:58 pm PST)`
 
 ***
