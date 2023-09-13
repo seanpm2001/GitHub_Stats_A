@@ -1,0 +1,37 @@
+2023-09-13T00:22:03.7874465Z ##[group]Run python3 --version
+2023-09-13T00:22:03.7874766Z [36;1mpython3 --version[0m
+2023-09-13T00:22:03.7875022Z [36;1mpython3 generate_images.py[0m
+2023-09-13T00:22:03.7928106Z shell: /usr/bin/bash -e {0}
+2023-09-13T00:22:03.7928349Z env:
+2023-09-13T00:22:03.7928630Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.18/x64
+2023-09-13T00:22:03.7929005Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.8.18/x64/lib/pkgconfig
+2023-09-13T00:22:03.7929350Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2023-09-13T00:22:03.7929679Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2023-09-13T00:22:03.7930005Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2023-09-13T00:22:03.7930336Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.18/x64/lib
+2023-09-13T00:22:03.7930779Z   ACCESS_TOKEN: ***
+2023-09-13T00:22:03.7931133Z   GITHUB_TOKEN: ***
+2023-09-13T00:22:03.7931345Z   EXCLUDED: 
+2023-09-13T00:22:03.7931552Z   EXCLUDED_LANGS: 
+2023-09-13T00:22:03.7931780Z   EXCLUDE_FORKED_REPOS: true
+2023-09-13T00:22:03.7932228Z ##[endgroup]
+2023-09-13T00:22:03.8021889Z Python 3.8.18
+2023-09-13T00:22:44.8763107Z A path returned 202. Retrying...
+2023-09-13T00:22:44.8765810Z A path returned 202. Retrying...
+2023-09-13T00:22:44.8766289Z A path returned 202. Retrying...
+2023-09-13T00:22:44.8766550Z A path returned 202. Retrying...
+2023-09-13T00:22:44.9224373Z Traceback (most recent call last):
+2023-09-13T00:22:44.9234650Z   File "generate_images.py", line 136, in <module>
+2023-09-13T00:22:44.9235015Z     asyncio.run(main())
+2023-09-13T00:22:44.9235430Z   File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/asyncio/runners.py", line 44, in run
+2023-09-13T00:22:44.9235806Z     return loop.run_until_complete(main)
+2023-09-13T00:22:44.9236232Z   File "/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+2023-09-13T00:22:44.9236615Z     return future.result()
+2023-09-13T00:22:44.9236920Z   File "generate_images.py", line 132, in main
+2023-09-13T00:22:44.9237303Z     await asyncio.gather(generate_languages(s), generate_overview(s))
+2023-09-13T00:22:44.9237690Z   File "generate_images.py", line 42, in generate_overview
+2023-09-13T00:22:44.9238051Z     changed = (await s.lines_changed)[0] + (await s.lines_changed)[1]
+2023-09-13T00:22:44.9238487Z   File "/home/runner/work/GitHub_Stats_A/GitHub_Stats_A/github_stats.py", line 486, in lines_changed
+2023-09-13T00:22:44.9238837Z     for repo in await self.repos:
+2023-09-13T00:22:44.9239132Z RuntimeError: Set changed size during iteration
+2023-09-13T00:22:44.9475119Z ##[error]Process completed with exit code 1.
