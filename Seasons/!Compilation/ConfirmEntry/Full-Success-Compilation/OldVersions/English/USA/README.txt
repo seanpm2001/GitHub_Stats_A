@@ -5,11 +5,11 @@
 
 This file is a compilation of all successful workflow runs. It was proposed on 2023, May 23rd.
 
-For now, it only contains data for Season 1 to season 14, up to the 31st of 2023 August (as of 2023, Saturday, September 9th at 2:54 pm PST)
+For now, it only contains data for Season 1 to season 14, up to the 30th of 2023 September (as of 2023, Tuesday, October 3rd at 03:15 pm PST)
 
 Personal note: It is really cool to look through these, and see how much has changed.
 
-Another personal note: Season 1 and season 2 are swapped: overview and languages are in a different (reversed) position compared to the other 11 seasons.
+Another personal note: Season 1 and season 2 are swapped: overview and languages are in a different (reversed) position compared to the other 13 seasons.
 
 I am surprised by how few full successes there are, even as of season 13 (the ratio went down further with season 13, which only had 3 full successes for 31 days)
 
@@ -86,11 +86,13 @@ During Season 14 and Season 15, the workflow reached a point where full successe
 | 2023, Saturday, July 29th | ![/Seasons/13/SVG/overview_2023July29th.svg](/Seasons/13/SVG/overview_2023July29th.svg) | ![/Seasons/13/SVG/languages_2023July29th.svg](/Seasons/13/SVG/languages_2023July29th.svg) |
 | 2023, Sunday, July 30th | ![/Seasons/13/SVG/overview_2023July30th.svg](/Seasons/13/SVG/overview_2023July30th.svg) | ![/Seasons/13/SVG/languages_2023July30th.svg](/Seasons/13/SVG/languages_2023July30th.svg) |
 | 2023, Wednesday, August 9th | ![/Seasons/14/SVG/overview_2023August9th.svg](/Seasons/14/SVG/overview_2023August9th.svg) | ![/Seasons/14/SVG/languages_2023August9th.svg](/Seasons/14/SVG/languages_2023August9th.svg) |
+| 2023, Sunday, September 3rd | ![/Seasons/15/SVG/overview_2023September3rd.svg](/Seasons/15/SVG/overview_2023September3rd.svg) | ![/Seasons/15/SVG/languages_2023September3rd.svg](/Seasons/15/SVG/languages_2023September3rd.svg) |
+| 2023, Thursday, September 21st | ![/Seasons/15/SVG/overview_2023September21st.svg](/Seasons/15/SVG/overview_2023September21st.svg) | ![/Seasons/15/SVG/languages_2023September21st.svg](/Seasons/15/SVG/languages_2023September21st.svg) |
 
 ***
 
 # File info
 
-**File version:** `5 (2023, Saturday, September 9th at 2:54 pm PST)`
+**File version:** `6 (2023, Tuesday, October 3rd at 03:15 pm PST)`
 
 ***
