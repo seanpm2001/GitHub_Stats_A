@@ -1,0 +1,1 @@
+I can't export proper logs for today, as GitHUb is refusing to let the workload end. It has been 19 hours, the workload canceled 13 hours ago, yet it still acts like it is running. There is no way to force stop it, and the logs I can export are last than 500 bytes each. I thought I could wait through the night, and get the right logs in the morning. Apparently not. 
