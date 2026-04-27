@@ -1,0 +1,2 @@
+2026.04.26
+I can't export proper logs for today, as GitHub is refusing to let the workload end. It has been 17 hours, the workload canceled 11 hours ago, yet it still acts like it is running. There is no way to force stop it, and the logs I can export are last than 500 bytes each.
