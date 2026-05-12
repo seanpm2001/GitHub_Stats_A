@@ -1,0 +1,4 @@
+I can't export proper logs for today, as GitHub is refusing to let the workload end. It has been 22 hours, the workload canceled 16 hours ago, yet it still acts like it is running. There is no way to force stop it, and the logs I can export are last than 500 bytes each. I am less disappointed about my workflow failing so much, as I am with Microsoft refusing to fix a critical, very noticeable bug for so long. GitHub claims that GitHub actions has had over 99% uptime over the past 90 days. Judging by how they continue to ignore this issue, I highly doubt that this is true, this is likely not the only thing they are ignoring, and that maybe most of their uptime metrics are severely off (maybe less than 75.1% uptime)
+I have made a post to address this issue:
+https://techhub.social/deck/@seanpm2001/116546958725773412
+This note file I have written is now over double the size of the daily logs I am exporting.
